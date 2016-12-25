@@ -1,0 +1,5071 @@
+@charset "utf-8";
+.portfolio-banner-sec .entry-categories li a {
+	transition-duration: 0.3s;
+	font-size: 15px;
+	background: #2b9fd9;
+}
+.portfolio-banner-sec .entry-categories li a:hover {
+	background: #1387c1;
+	transition-duration: 0.3s;
+	font-size: 15px;
+}
+.portfolio-portfolio-remote-patient-monitoring-cross-platform-app-html .portfolio-logo-sec {
+	padding: 10px 0 20px 0;
+}
+a:focus {
+	outline: none;
+}
+.sencha-iconpart {
+	background: #f1f1f3;
+	padding: 60px 0 30px;
+}
+.sencha-iconpart .icon-fram {
+	top: 0;
+}
+.sencha-iconpart .listing-view li {
+	padding: 0 20px 20px 0 !important;
+}
+.sencha-fetpart {
+	padding: 50px 0;
+}
+.homestrip {
+	background: #2b7195;
+	padding: 30px 0px 22px 0px;
+	width: 100%;
+}
+.strip-fixed {
+	height: 66px;
+	width: 100%;
+	float: left;
+}
+.homestrip h3 {
+	color: #fff;
+	font-size: 23px;
+	padding-bottom: 3px;
+	margin-top: -10px;
+}
+.homestrip p {
+	color: #fff;
+}
+.homestrip .container {
+	position: relative;
+}
+.stripimg {
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+.strip-content {
+	padding-left: 210px;
+}
+.contentsection {
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+.resever-btn {
+	background: #23a4e5;
+	font-size: 16px;
+	padding: 5px 15px;
+	color: #FFF;
+	border-radius: 3px;
+	float: left;
+	margin-top: 12px;
+}
+.resever-btn:hover {
+	color: #fff;
+	background: #36b7f8;
+}
+.resever-btn:visited {
+	color: #fff;
+}
+.our-content {
+	padding-bottom: 5px;
+}
+.homestrip p.timeaddress {
+	color: #fff;
+}
+#section3 .contentsection h2 {
+	padding-top: 20px;
+}
+.sepline {
+	background: #d4d4d4;
+	height: 1px;
+	width: 100%;
+	margin: 20px 0px;
+}
+.section-row h2.more-hunting {
+}
+.content-section p.smartcar-firstper {
+	font-size: 14px;
+	line-height: 26px;
+	padding: 15px 0 15px 0;
+}
+.customers-solutions {
+	background: url(../images/customers-solutionsbg.jpg) no-repeat center bottom;
+	padding: 80px 0px 50px 0px;
+	color: #fff;
+	background-size: 100% 100%
+}
+.customers-solutions .zilla-tabs{margin:0;}
+.customers-solutions .zilla-tab-inner {
+	margin-top: 40px;
+}
+
+.customers-solutions .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.customers-solutions .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0px;
+}
+.customers-solutions .zilla-tabs .zilla-nav li a {
+	background: #e5e5e5;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 0px;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #333!important;
+	height: auto;
+	padding: 15px 20px;
+}
+.customers-solutions .zilla-tabs .zilla-nav li a:hover {
+	background: #23a3e4!important;
+	color: #fff!important;
+}
+.customers-solutions .zilla-tabs .zilla-nav li.ui-tabs-active a:hover {
+	background: #2b9fd9!important;
+	color: #fff!important;
+}
+.customers-solutions .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	background: #0282c3;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 0px;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #fff!important;
+	height: auto;
+	padding: 15px 20px;
+}
+.customers-solutions .zilla-tabs .zilla-nav li.ui-tabs-active {
+	z-index: 999;
+}
+.customers-solutions .zilla-tabs .zilla-tab {
+	background: none;
+	border: 0px;
+}
+.customers-solutions .carparking-tab1 a.parklist {
+	float: left;
+	width: 25%;
+	float: left;
+	text-align: center;
+	background: url(../images/customer-tabbg.png) no-repeat center top;
+	padding-top: 25px;
+	position: relative;
+	padding-bottom: 35px;
+}
+.customers-solutions .carparking-tab1 a.parklist:after {
+	content: '.';
+	width: 100%;
+	background: url(../images/tabing-shadow.png) no-repeat center;
+	height: 28px;
+	position: absolute;
+	bottom: 0px;
+	margin: auto;
+	left: 0px;
+	right: 0px;
+	font-size: 0px;
+}
+.customers-solutions .carparking-tab1 a.parklist em {
+	width: 57px;
+	height: 50px;
+	margin: auto;
+	display: table;
+}
+.parkingicon1 {
+	background: url(../images/customer-tabicon1.png) no-repeat center;
+}
+.parkingicon2 {
+	background: url(../images/customer-tabicon2.png) no-repeat center;
+}
+.parkingicon3 {
+	background: url(../images/customer-tabicon3.png) no-repeat center;
+}
+.parkingicon4 {
+	background: url(../images/customer-tabicon4.png) no-repeat center;
+}
+.parkingicon5 {
+	background: url(../images/customer-tabicon5.png) no-repeat center;
+}
+.parkingicon6 {
+	background: url(../images/customer-tabicon6.png) no-repeat center;
+}
+.parkingicon7 {
+	background: url(../images/customer-tabicon7.png) no-repeat center;
+}
+.parkingicon8 {
+	background: url(../images/customer-tabicon8.png) no-repeat center;
+}
+.parkingicon9 {
+	background: url(../images/customer-tabicon9.png) no-repeat center;
+}
+.customers-solutions .carparking-tab1 a.parklist span {
+	font-size: 16px;
+	font-weight: 600;
+	float: left;
+	width: 100%;
+	text-align: center;
+	color: #dadada;
+	padding-top: 15px;
+}
+.carparking-tab1 {
+	min-height: 170px;
+	padding-top: 25px;
+}
+.customers-solutions .carparking-tab2 a.parklist {
+	width: 20%;
+}
+.smart-technology {
+	background: url(../images/smart-technologybg.jpg) repeat-x top;
+	padding: 70px 0px 0px 0px;
+	min-height: 870px;
+	position: relative;
+	margin-top: 20px;
+}
+.smart-technology .container {
+	min-height: 141px
+}
+.smart-technology h2 {
+	font-size: 30px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}
+.smart-technology p {
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+}
+.smartcar-parking {
+	position: relative;
+	width: 100%;
+}
+.smartcar-leftbg {
+	background: url(../images/smartparking-bg2.jpg) repeat-x center 1px;
+	position: absolute;
+	left: 0px;
+	width: 60%;
+	min-height: 490px;
+	z-index: 10
+}
+.smartcar-parking .container {
+	min-height: 490px;
+	background: url(../images/carparking-bg3.jpg) no-repeat right 2px;
+	position: relative;
+	z-index: 100;
+}
+.parking-spaces {
+	position: absolute;
+	padding: 10px 0px 0px 66px;
+	background: url(../images/spaces-device.gif) no-repeat 0px 0px;
+	height: 90px;
+	bottom: 30px;
+	left: 150px;
+	width: 285px;
+	z-index: 150;
+}
+.parking-spaces h3 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: bold;
+	padding-bottom: 6px;
+}
+.parking-spaces p {
+	font-size: 14px;
+	color: #fff;
+	text-align: left;
+	line-height: normal
+}
+.parking-truning {
+	position: absolute;
+	padding: 10px 115px 0px 0px;
+	background: url(../images/turnleft-device.gif) no-repeat right top;
+	height: 93px;
+	top: 38px;
+	left: 12%;
+	width: 315px;
+	z-index: 150;
+}
+.parking-truning h3 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: bold;
+	padding-bottom: 6px;
+	text-align: right;
+}
+.parking-truning p {
+	font-size: 14px;
+	color: #fff;
+	text-align: right;
+	line-height: normal
+}
+.parking-alert {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 108px;
+	top: 55px;
+}
+.parking-alert2 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 360px;
+	bottom: 40px;
+}
+.parking-alert:after, .parking-alert2:after {
+	background: #373737;
+	width: 10px;
+	height: 10px;
+	border-radius: 25px;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	content: '.';
+	font-size: 0px;
+}
+.lastcontenrow p {
+	font-size: 14px;
+	line-height: 23px;
+}
+.skrollable {
+	position: absolute;
+	z-index: 100;
+}
+.skrollr-mobile .skrollable {
+	position: absolute;
+}
+.skrollable .skrollable {
+	position: absolute;
+}
+.skrollable .skrollable .skrollable {
+	position: static;
+}
+#easing {
+	width: 140px;
+	z-index: 101;
+}
+.first-car {
+	top: 253px;
+}
+.car-animation {
+	background: url(../images/parkingcar-come.png) no-repeat 0px 0px;
+	width: 139px;
+	height: 62px;
+}
+.yellowcar {
+	background: url(../images/yellow-car.png) no-repeat 0px 0px;
+	width: 129px;
+	height: 69px;
+}
+.second-car {
+	top: 253px;
+}
+.red-car {
+	background: url(../images/redcar.png) no-repeat 0px 0px;
+	width: 190px;
+	height: 60px;
+}
+.third-car {
+	top: 182px;
+}
+.lastcontenrow {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.lastcontenrow p {
+	text-align: left;
+}
+.lastcontenrow h2.more-hunting {
+	text-align: left;
+}
+button {
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 10px;
+}
+.scroll-off {
+	overflow: hidden;
+}
+.scroll-on {
+	overflow: auto;
+}
+.page-frame {
+	margin: 0 auto;
+	max-width: 1024px;
+}
+.demo-page-1, .demo-page-2, .demo-page-3 {
+	color: #fff;
+	text-align: center;
+}
+.demo-page-1 {
+	background-color: #00a75f;
+}
+.demo-page-2 {
+	background-color: #25add8;
+}
+.demo-page-3 {
+	background-color: #b6393b;
+}
+.manufaturing_content {
+	margin: 0;
+	padding: 0px;
+}
+.manufaturing_content h2 {
+	text-align: center;
+}
+.manufaturing_content p {
+	line-height: 26px;
+}
+.blue_text {
+	color: #45c0fe;
+	font-weight: normal;
+}
+.manufaturing_content .img_space {
+	padding: 70px 0 0
+}
+.manufaturing_content .manu_btn {
+	padding: 20px 0 70px
+}
+.manufac_tab_bg {
+	background: #595959;
+}
+.manufaturing_content h3 {
+	color: #fff;
+	padding: 60px 0
+}
+.manufac_tab {
+	margin: 0;
+	padding: 0px 0 20px 0;
+}
+.manufac_tabbing_bg {
+	margin: 0;
+	padding: 0px;
+}
+.manufac_tabbing_bg ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.manufac_tabbing_bg .listing li {
+	text-align: left;
+	width: 100%;
+	color: #fff;
+	padding: 10px 20px;
+	background: url(../images/manu_bullets.png) no-repeat left 16px;
+	line-height: 22px;
+}
+.manu_left {
+	width: 50%;
+	float: left;
+	padding: 20px 0;
+}
+.manu_right {
+	width: 50%;
+	float: left;
+	padding: 20px 0;
+}
+.manufac_tab .zilla-toggle-inner, .manufac_tab .zilla-tabs .zilla-tab {
+	padding: 50px 30px 20px;
+}
+.manufac_tab .zilla-tabs .zilla-nav li {
+	padding: 0 22px 0 0;
+}
+.manufac_tab .zilla-tabs .zilla-nav li:last-child {
+	padding: 0;
+	left: 9px;
+}
+.manufac_tab .zilla-tabs .zilla-nav ul {
+	text-align: center;
+}
+.manufac_tab .zilla-tabs .zilla-nav .ui-tabs-selected a, .manufac_tab .zilla-tabs .zilla-nav .ui-tabs-active a {
+	height: auto;
+	background: #2b9fd9 !important;
+	padding: 10px 29px 10px 29px !important;
+	border: none !important;
+	color: #fff !important;
+	border-radius: 50px;
+	font-size: 16px;
+	font-weight: 600;
+}
+.manufac_tab .zilla-tabs .zilla-nav li a {
+	color: #aeaeae !important;
+	background: none !important;
+	border: none !important;
+	font-size: 16px;
+	font-weight: 600;
+	padding: 10px 29px 10px 29px !important;
+	height: auto;
+}
+.manufac_tab .zilla-tabs .zilla-nav {
+	background: #353535;
+	width: 941px;
+	margin: 0 auto !important;
+	border-radius: 50px;
+	float: none;
+}
+.man_iot_bg {
+	margin: 0px;
+	padding: 60px 0;
+	float: left;
+}
+.man_iot_bg h2 {
+	text-align: center;
+	padding: 0 0 60px 0
+}
+.manfac_iot_bg {
+	width: 100%;
+	float: left;
+	padding: 0px 0 30px 0;
+	margin: 0px;
+}
+.manfac_iot_box1 {
+	width: 25%;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.manfac_iot_box1_bg {
+	width: 85%;
+	float: left;
+	background: #68b9a6;
+	height: 235px;
+	padding: 35px 5%;
+	text-align: center;
+}
+.manfac_iot_box1_bg p {
+	color: #fff;
+	font-size: 16px;
+	padding: 20px 0;
+	line-height: 24px;
+}
+.manfac_iot_box2 {
+	width: 25%;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.manfac_iot_box2_bg {
+	width: 85%;
+	float: left;
+	background: #6db4cd;
+	height: 235px;
+	padding: 35px 5%;
+	text-align: center;
+}
+.manfac_iot_box2_bg p {
+	color: #fff;
+	font-size: 16px;
+	padding: 20px 0;
+	line-height: 24px;
+}
+.manfac_iot_box3 {
+	width: 25%;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.manfac_iot_box3_bg {
+	width: 85%;
+	float: left;
+	background: #8a8fc5;
+	height: 235px;
+	padding: 15px 5%;
+	text-align: center;
+}
+.manfac_iot_box3_bg p {
+	color: #fff;
+	font-size: 16px;
+	padding: 20px 0;
+	line-height: 24px;
+}
+.manfac_iot_box4 {
+	width: 25%;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.manfac_iot_box4_bg {
+	width: 85%;
+	float: left;
+	background: #cb877f;
+	height: 235px;
+	padding: 25px 5%;
+	text-align: center;
+}
+.manfac_iot_box4_bg p {
+	color: #fff;
+	font-size: 16px;
+	padding: 20px 0;
+	line-height: 24px;
+}
+.manufac_blog_bg {
+	background: url(../images/manu_blog_img1.png) fixed center top;
+	padding: 140px 0;
+	float: left;
+	width: 100%;
+	height: 780px;
+	background-size: cover;
+}
+.manufac_blog1 {
+	width: 100%;
+	float: left;
+	padding: 0px 0 140px 0;
+	margin: 0px;
+}
+.manufac_blog1_bg {
+	width: 50%;
+	float: left;
+	padding: 4%;
+	margin: 0px;
+	background: rgba(255,255,255,.8)
+}
+.manufac_blog1_bg h2 {
+	color: #000;
+	text-align: left;
+	font-weight: 400;
+	line-height: 32px;
+}
+.manufac_blog1_bg ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.manufac_blog1_bg ul li {
+	width: 100%;
+	float: left;
+	padding: 15px 0 15px 55px;
+	margin: 0px;
+	background: url(../images/manu_bullet_img.png) no-repeat center left;
+	line-height: 22px;
+}
+.manufac_blog1_bg ul li a {
+	color: #000;
+	font-size: 16px;
+	font-weight: 600;
+}
+.manufac_blog2 {
+	background: url(../images/manu_blog_img2.png) fixed center top;
+	padding: 140px 0;
+	float: left;
+	width: 100%;
+	height: 680px;
+	background-size: cover;
+}
+.manufac_blog2_bg {
+	width: 50%;
+	float: left;
+	padding: 4%;
+	margin: 0px;
+	background: rgba(255,255,255,.8)
+}
+.manufac_blog2_bg h2 {
+	color: #000;
+	text-align: left;
+	font-weight: 400;
+	line-height: 32px;
+}
+.manufac_blog2_bg ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.manufac_blog2_bg ul li {
+	width: 100%;
+	float: left;
+	padding: 15px 0 15px 55px;
+	margin: 0px;
+	background: url(../images/manu_bullet_img.png) no-repeat center left;
+	line-height: 22px;
+}
+.manufac_blog2_bg ul li a {
+	color: #000;
+	font-size: 16px;
+	font-weight: 600;
+}
+.iot_workshop_bg {
+	width: 100%;
+	padding: 60px 0;
+	margin: 0px;
+	float: left;
+	background: #464646;
+}
+.iot_workshop_bg h2 {
+	text-align: center;
+	color: #fff;
+}
+.iot_workshop_bg p {
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	line-height: 28px;
+}
+.iot_workshop_detail {
+	width: 100%;
+	float: left;
+	padding: 20px 0;
+	margin: 0px;
+}
+.iot_workshop_left {
+	width: 50%;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+}
+.iot_workshop_left ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.iot_workshop_left .listing li {
+	text-align: left;
+	width: 100%;
+	color: #acacac;
+	padding: 10px 20px;
+	background: url(../images/manu_bullets.png) no-repeat left 16px;
+}
+.iot_workshop_left a.viewmorebtn {
+	margin: 35px 0 0 0;
+	float: left;
+}
+.iot_workshop_right {
+	width: 50%;
+	padding: 5px 0 0 0px;
+	margin: 0px;
+	float: left;
+}/* Office 365 Start */
+.office365-banner {
+	padding-top: 20px;
+}
+.office-cons-service {
+	padding-top: 30px;
+}
+.office-whitepaper-sec .xamarinwpWrap {
+	background: #34495e;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details {
+	padding-left: 200px;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details h2 {
+	color: #fff;
+	padding-top: 30px;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details p {
+	color: #9eadbd;
+	font-size: 17px;
+	line-height: 25px;
+}
+.office-whitepaper-sec a.viewmorebtn {
+	background: #fac843;
+	color: #000;
+	display: inline-block;
+}
+.power-office-tool {
+	background: #f5f5f5;
+	padding: 50px 0 60px;
+}
+.power-office-tool li {
+	background: #fff;
+	border-bottom: solid 2px #b3b3b3;
+	position: relative;
+	width: 23.5%;
+	margin: 0 0.5%;
+	display: inline-block;
+	padding: 90px 0 0;
+}
+.power-office-tool li > div {
+	position: absolute;
+	top: -30px;
+	width: 100%;
+	text-align: center;
+}
+.power-office-tool li h3 {
+	font-size: 18px;
+	color: #000000;
+	padding-bottom: 15px;
+}
+.office365-service {
+	padding: 60px 0;
+}
+.office365-service div.graylistbox {
+	background: #f0f0f0;
+	display: inline-block;
+	width: 30%;
+	margin: 0 1%;
+	vertical-align: top;
+	min-height: 410px;
+	margin-top: 50px;
+}
+.office365-service div.graylistbox h3 {
+	font-size: 22px;
+	color: #df494a;
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 15px 0;
+}
+.office365-service div.graylistbox ul.listing {
+	margin-left: 30px;
+}
+.office365-conversion .msa-getintouch {
+	background: #34495e;
+	margin-top: 0px;
+	padding: 30px 0;
+}
+.office365-conversion h4.getintuch-title1 {
+	color: #fff;
+	font-size: 34px;
+	font-weight: 700;
+}
+.office365-conversion a.viewmorebtn {
+	background: #fac843;
+	font-size: 25px;
+	font-weight: 700;
+	color: #000;
+	border-radius: 6px;
+	padding: 8px 35px;
+}
+.office365-conversion .msa-getintouch .btnsec {
+	margin-top: 25px;
+}
+.office365-tabdetail {
+	margin-top: 20px;
+}
+.office365-tabdetail .Leftsec {
+	width: 57%;
+	float: left;
+}
+.office365-tabdetail .Rightsec {
+	width: 100%;
+	float: left;
+}
+.office365-tabdetail .Rightsec li {
+	float: left;
+	width: 305px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	border: solid 1px #efefef;
+	padding: 10px;
+	border-radius: 5px;
+}
+.office365-tabdetail .Rightsec li:hover {
+	background: #efefef;
+}
+.office365-tabdetail .Rightsec li br {
+	display: none;
+}
+.office365-tabdetail .Rightsec li img {
+	display: inline;
+	float: left;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	font-size: 14px;
+	color: #000;
+	padding: 0;
+	margin: 13px 0 0 72px;
+	clear: none;
+	cursor: pointer;
+}
+.office365-tabdetail .office-pdf-sec h4 a {
+	color: #000;
+}
+.office365-cs-sec li {
+	width: 49%;
+	display: inline-block;
+	padding-right: 15px;
+}
+.office365-cs-sec li img.officeimg {
+	float: left;
+	margin-right: 20px;
+}
+.office365-cs-sec li a.viewmorebtn {
+	font-size: 12px;
+	display: inline-block;
+	font-weight: 700;
+	padding: 5px 20px;
+}/*.whyoffice365 {	background: #d9e3e8; /* Old browsers */	/*background: -moz-linear-gradient(top, #d9e3e8 0%, #ffffff 100%); /* FF3.6+ */	/*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d9e3e8), color-stop(100%, #ffffff)); /* Chrome,Safari4+ */	/*background: -webkit-linear-gradient(top, #d9e3e8 0%, #ffffff 100%); /* Chrome10+,Safari5.1+ */	/*background: -o-linear-gradient(top, #d9e3e8 0%, #ffffff 100%); /* Opera 11.10+ */	/*background: -ms-linear-gradient(top, #d9e3e8 0%, #ffffff 100%); /* IE10+ */	/*background: linear-gradient(to bottom, #d9e3e8 0%, #ffffff 100%); /* W3C *//*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9e3e8', endColorstr='#ffffff', GradientType=0 ); /* IE6-9 *//*}*/
+.whyoffice365 ul {
+	margin-top: 10px;
+}
+.whyoffice365 ul li {
+	width: 22%;
+	display: inline-block;	/*background: #83969f;*/
+	border-radius: 25px;
+	text-align: left;
+	padding: 4px;
+	margin: 2% 1%;
+	position: relative;
+	vertical-align:top;
+}
+.whyoffice365 ul li br {
+	display: none;
+}/*.whyoffice365 ul li:after {	background: url(../images/why-office365-list-shadow.png) no-repeat;	width: 86px;	height: 42px;	content: "";	position: absolute;	top: 48px;	left: 20px;}*/
+.whyoffice365 ul li img {
+	display: inline;
+	float: left;
+	margin-right: 12px;
+	width: 45px;
+}
+.whyoffice365 ul li h4 {
+	font-size: 18px;
+	color: #403f3f;
+	padding: 0;
+	clear: none;
+	padding: 6px 0 0;
+}/* Office 365 End *//* Xamarin New Start */
+.XAmarin-banner .banner-colum-left {
+	padding-top: 0px;
+}
+.XAmarin-banner .banner-colum-left img {
+	margin-bottom: 15px;
+}
+.XAmarin-banner .banner-colum-left p {
+	padding-bottom: 25px;
+}
+.XAmarin-banner .banner-colum-right {
+	padding-right: 0;
+}
+.Xamarin-why-choose {
+	padding: 30px 0 40px;
+}
+.Xamarin-why-choose ul {
+	margin-top: 40px;
+}
+.Xamarin-why-choose li {
+	width: 33.4%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 20px 25px 40px;
+	text-align: center;
+	vertical-align: top;
+	margin-left: -4px;
+}
+.Xamarin-why-choose li.graybox1:hover, .Xamarin-why-choose li.graybox2:hover {
+}
+.Xamarin-why-choose li.graybox1 {
+	background: #f7f7f7;
+	border: solid 1px #f7f7f7;
+}
+.Xamarin-why-choose li.graybox2 {
+	background: #f2f2f2;
+	border: solid 1px #f2f2f2;
+}
+.Xamarin-why-choose li img {
+	margin-bottom: 15px;
+	-webkit-transition: all 1.0s;
+	-moz-transition: all 1.0s;
+	transition: all 1.0s
+}
+.Xamarin-why-choose li:hover img {
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(360deg);
+	transform: rotateY(360deg);
+	-webkit-transition: all 1.0s;
+	-moz-transition: all 1.0s;
+	transition: all 1.0s;
+}
+.Xamarin-why-choose li h4 {
+	font-size: 17px;
+	font-weight: 700;
+	color: #2a3c50;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+}
+.Xamarin-why-choose li i {
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	color: #777777;
+	line-height: 24px;
+	padding-bottom: 15px;
+}
+.bluewpbg {
+	background: #2a3c50;
+}
+.bluewpbg .details {
+	padding-top: 15px;
+}
+.bluewpbg h2 {
+	color: #fff;
+	font-size: 26px;
+}
+.bluewpbg p {
+	font-size: 16px;
+	color: #8dacce;
+	line-height: 24px;
+}
+.bluewpbg a.viewmorebtn {
+	display: inline-block;
+	background: #12a3b9;
+}
+.Xamarin-platform {
+	padding: 50px 0;
+}
+.Xamarin-platform .col-50 {
+	width: 50%;
+	float: left;
+}
+.Xamarin-platform .imageitem img {
+	float: right;
+}
+.XAmarin-tab {
+	padding: 0;
+}
+.XAmarin-tab .bluelgtbg {
+	background: #eaeef3;
+	padding: 50px 0;
+	margin-top: -24px;
+}
+.XAmarin-tab .zilla-tab-inner {
+	margin-top: 20px;
+}
+.XAmarin-tab .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0 5px 0 0 !important;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li a {
+	background: #cdd1d5;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #2a3c50!important;
+	height: auto;
+	padding: 20px 20px;
+	width: 300px;
+	border-radius: 8px 8px 0 0
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li a:hover {
+	background: #2a3c50!important;
+	color: #fff!important;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	background: #2a3c50;
+	font-size: 20px;
+	text-align: center;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #fff!important;
+	height: auto;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a:hover {
+	background: #2a3c50!important;
+	color: #fff!important;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active {
+	z-index: 999;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active.ui-tabs-active:after {
+	background: url(../images/XAmarin-tab-arrow.png) no-repeat;
+	width: 24px;
+	height: 18px;
+	content: "";
+	position: absolute;
+	bottom: -18px;
+	text-align: center;
+	margin-left: -7px;
+}
+.XAmarin-tab .zilla-tabs .zilla-tab {
+	background: none;
+	border: 0px;
+	padding: 20px 0;
+}
+.XAmarin-tab-detail {
+	margin-top: 20px;
+}
+.XAmarin-tab-detail .col-50 {
+	width: 50%;
+	float: left;
+}
+.XAmarin-tab-detail .col-50 h2 {
+	font-size: 22px;
+	color: #2a3c50;
+	font-weight: 700;
+}
+.XAmarin-tab-detail .col-50 h3 {
+	font-size: 18px;
+	color: #000000;
+}
+.Xamarin-advantages {
+	padding: 0px 0 70px;
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f8f8f8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f8f8', GradientType=0 ); /* IE6-9 */
+	border-bottom: solid 1px #e1e1e1;
+}
+.Xamarin-advantages h2 {
+	padding-bottom: 0;
+}
+.Xamarin-advantages li {
+	width: 32%;
+	float: left;
+	margin: 5% 1% 0 0;
+}
+.Xamarin-advantages img {
+	float: left;
+	margin: 0 10px 0 0;
+}
+.Xamarin-advantages h4 {
+	display: table-cell;
+	padding-bottom: 0;
+	vertical-align: middle;
+	text-align: left;
+	font-size: 15px;
+	color: #4c4c4c;
+	width: 100%;
+}/* Xamarin New End *//* Cloud Consulting New Start */
+.CloudComputing-Banner .weareImg {
+	padding-top: 60px;
+}
+.CloudCons-agility {
+	padding: 40px 0;
+}
+.CloudCons-agility .cc-lftpart {
+	width: 53%;
+	float: left;
+	padding-top: 20px;
+}
+.CloudCons-agility .cc-rgtpart {
+	width: 40%;
+	float: right;
+}
+.CloudCons-graph h4 {
+	font-size: 21px;
+	font-weight: 700;
+	color: #5c5c5c;
+	border-bottom: solid 1px #ebebeb;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+.CloudCons-graph i {
+	font-size: 12px;
+	color: #737373;
+	font-style: normal;
+	padding-bottom: 20px;
+	display: block;
+}
+.CloudConswp .details {
+	padding-top: 20px;
+}
+.CloudConswp .xamarinwp {
+	min-height: 223px;
+}
+
+.salesforceService li {
+	position: relative;
+	margin-bottom: 35px;
+	display: inline-block;
+	width: 45%;
+	min-height: 100px;
+	margin-right:4%;
+	vertical-align:top;
+}
+
+.salesforceService li:last-child {
+	margin-bottom: 0;
+}
+.salesforceService li img {
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
+.salesforceService li div.salesforceService-detail {
+	padding-left: 100px;
+}
+.enterprise-iconlist li div.salesforceService-detail {
+	padding-left: 85px;
+}
+.salesforceService li div.salesforceService h4 {
+	font-size: 20px;
+	color: #2e2e2e;
+	padding-bottom: 5px;
+}
+.salesforceService li div.salesforceService-detail i {
+	font-style: normal;
+	line-height: 24px;
+}
+
+.Cloud-softweb-you li {
+	position: relative;
+	margin-bottom: 35px;
+	display: block;
+	width: 100%;
+	min-height: 100px;
+}
+.Cloud-softweb-you li:last-child {
+	margin-bottom: 0;
+}
+.Cloud-softweb-you li img {
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
+.Cloud-softweb-you li div.Cloud-softweb-you-detail {
+	padding-left: 100px;
+}
+.enterprise-iconlist li div.Cloud-softweb-you-detail {
+	padding-left: 85px;
+}
+.Cloud-softweb-you li div.Cloud-softweb-you-detail h4 {
+	font-size: 20px;
+	color: #2e2e2e;
+	padding-bottom: 5px;
+}
+.Cloud-softweb-you li div.Cloud-softweb-you-detail i {
+	font-style: normal;
+	line-height: 24px;
+}
+.cloud-computing li {
+	width: 19.7%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 0 10px 0;
+}
+.cloud-computing li img {
+	position: inherit;
+	left: inherit;
+	top: inherit;
+}
+.whyCloud li {
+	border: solid 10px #efefef;
+	border-radius: 155px;
+	width: 26.5%;
+	display: inline-block;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+	color: #2e2e2e;
+	padding: 125px 20px 0;
+	vertical-align: top;
+	min-height: 300px;
+	margin: 0 4%;
+	position: relative;
+	transition-duration: 0.3s
+}
+.whyCloud li p {
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+	color: #2e2e2e;
+}
+.whyCloud li:first-child {
+	margin-left: 0;
+}
+.whyCloud li:last-child {
+	margin-right: 0;
+}
+.whyCloud li:hover {
+	background: #e5796c;
+	color: #fff;
+	transition-duration: 0.3s;
+}
+.whyCloud li:hover p {
+	color: #fff;
+}
+.whyCloud li div.iconbox {
+	background: url(../images/why-cloud-iconbox.png) no-repeat;
+	width: 145px;
+	height: 145px;
+	position: absolute;
+	top: -30px;
+	left: -35px;
+	display: block;
+	transition-duration: 0.5s;
+}
+.whyCloud li div.iconbox span {
+	background: url(../images/why-cloud-icons.png) no-repeat;
+	width: 145px;
+	height: 145px;
+	display: block;
+}
+.whyCloud li div.iconbox span.whyCloud-icon1 {
+	background-position: 0 0;
+}
+.whyCloud li div.iconbox span.whyCloud-icon2 {
+	background-position: -150px 0;
+}
+.whyCloud li div.iconbox span.whyCloud-icon3 {
+	background-position: -300px 0;
+}
+.whyCloud li:hover div.iconbox span.whyCloud-icon1 {
+	background-position: 0 -150px;
+	transition-duration: 0.5s;
+}
+.whyCloud li:hover div.iconbox span.whyCloud-icon2 {
+	background-position: -150px -150px;
+	transition-duration: 0.5s;
+}
+.whyCloud li:hover div.iconbox span.whyCloud-icon3 {
+	background-position: -300px -150px;
+	transition-duration: 0.5s;
+}
+.BenefitCloud li {
+	width: 31%;
+	margin: 3% 1%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+}
+.BenefitCloud li p {
+	padding: 0;
+}
+.BenefitCloud li h4 {
+	padding: 15px 0;
+	font-size: 20px;
+	font-weight: 500;
+	color: #202737;
+	text-transform: uppercase;
+}
+.BenefitCloud li i {
+	font-size: 14px;
+	line-height: 24px;
+	font-style: normal;
+	text-align: center;
+	padding: 0 10px;
+	display: block;
+}
+.cloudAdoption {
+	background: url(../images/cloud-adoption-bg.jpg) repeat;
+	padding: 50px 0;
+}
+.cloudAdoption li {
+	width: 33%;
+	display: inline-block;
+	vertical-align: top;
+	background: url(../images/cloudadoption-bg.png) no-repeat;
+	font-size: 18px;
+	line-height: 28px;
+	color: #626262;
+	text-align: center;
+	padding: 26px 30px 0;
+	height: 170px;
+	background-position: 0 0;
+	position: relative;
+}
+.cloudAdoption li p {
+	font-size: 18px;
+	line-height: 28px;
+}
+.cloudAdoption li:hover p {
+	color: #fff;
+}
+.cloudAdoption li:hover {
+	background-position: -370px 0;
+	color: #fff;
+}
+.cloudAdoption li div.process-arrowtop {
+	position: absolute;
+	right: -15px;
+	top: -30px;
+}
+.cloudAdoption li div.process-arrowbtm {
+	position: absolute;
+	right: -12px;
+	bottom: 20px;
+}/* Cloud Consulting New End *//* Enterprise Mobility Solutions New Start */
+.btmBorder {
+	border-bottom: solid 1px #eaebeb;
+	margin-bottom: 40px;
+}
+.emsSolution .contentSec {
+	width: 64%;
+	margin-right: 2%;
+	float: left;
+}
+.emsSolution .pardotFormSec {
+	width: 34%;
+	float: right;
+	padding: 20px;
+	background: #1270a2;
+	/*min-height: 466px;*/
+	min-height:488px;
+}
+.pardotFormSec h5{color: #ffffff; font-weight: bold; text-align: center; font-size:20px;}
+.FormSec h5{font-weight: bold; text-align: center; font-size:20px;}
+h5.formTitle{font-size: 16px;font-weight: bold; text-align: center; margin-bottom:-5px;}
+.emsSolution .pardotFormSec p {
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+	line-height: 22px;
+	padding: 0;
+}
+.emsSolutionstab {
+	padding: 0;
+}
+.emsSolutionstab .bluelgtbg {
+	background: #f5f5f5;
+	padding: 50px 30px 30px 30px;
+	margin-top: -24px;
+	border-radius: 15px;
+}
+.emsSolutionstab .zilla-tab-inner {
+	margin-top: 20px;
+}
+.emsSolutionstab .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0 5px 0 0 !important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a {
+	font-size: 17px;
+	font-weight: 600;
+	text-align: left;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #2a3c50!important;
+	height: auto;
+	padding: 20px 20px 20px 70px;
+	border-radius: 8px 8px 0 0;
+	background: #f5f5f5;
+	position: relative;
+	transition-duration: 0.3s;
+	overflow: inherit;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a:hover, .emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	color: #fff!important;
+	transition-duration: 0.3s;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a:before {
+	background: url(../images/emstabicons.png) no-repeat;
+	width: 50px;
+	height: 47px;
+	content: ".";
+	font-size: 0px;
+	position: absolute;
+	left: 12px;
+	top: 11px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon1:before {
+	background-position: -158px 0px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon2:before {
+	background-position: -53px 0;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon3:before {
+	background-position: -105px 0;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon4:before {
+	background-position: 0px 0px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon1:hover:before {
+	background-position: -158px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon2:hover:before {
+	background-position: -53px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon3:hover:before {
+	background-position: -105px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon4:hover:before {
+	background-position: 0px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon1:before {
+	background-position: -158px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon2:before {
+	background-position: -53px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon3:before {
+	background-position: -105px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon4:before {
+	background-position: 0px -47px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon1:hover {
+	background: #008ac4!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon2:hover {
+	background: #ff9000!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon3:hover {
+	background: #189200!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a.emsicon4:hover {
+	background: #57008f!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon1 {
+	background: #008ac4!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon2 {
+	background: #ff9000!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon3 {
+	background: #189200!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon4 {
+	background: #57008f!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a:after {
+	content: ".";
+	font-size: 0px;
+	position: absolute;
+	bottom: -13px;
+	text-align: center;
+	margin-left: -14px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 16px 15px 0 15px;
+	z-index: 999999;
+	left: 50%;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon1:after {
+	border-color: #008ac4 transparent transparent transparent;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon2:after {
+	border-color: #ff9000 transparent transparent transparent;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon3:after {
+	border-color: #189200 transparent transparent transparent;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a.emsicon4:after {
+	border-color: #57008f transparent transparent transparent;
+}
+.emsSolutionstab .zilla-tabs .zilla-tab {
+	background: none;
+	border: 0px;
+	padding: 20px 0;
+	margin-top: 4px;
+}
+.emsSolutionstab-detail {
+	margin-top: 20px;
+}
+.emsSolutionstab-detail .col-60 {
+	width: 60%;
+	float: left;
+}
+.emsSolutionstab-detail .col-60 h2 {
+	font-size: 22px;
+	color: #2b2e33;
+	font-weight: 600;
+}
+.emsSolutionstab-detail .col-60 h3 {
+	font-size: 18px;
+	color: #000000;
+}
+.col-40 {
+	width: 40%;
+	float: right;
+}
+#emsPardotForm iframe {
+	min-height: inherit;
+}
+.tabblog-section {
+	width: 205px;
+	float: right;
+}
+.blog-thumbimg {
+	padding-bottom: 10px;
+}
+.blog-thumbimg img {
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+.pdflinks {
+	background: url(../images/pdf-icon.png) no-repeat;
+	width: 26px;
+	height: 26px;
+	display: block;
+	margin-bottom: 5px;
+}
+a.getcopybutton {
+	background: #f7941d;
+	font-size: 15px;
+	color: #fff;
+	text-transform: uppercase;
+	display: block;
+	padding: 10px;
+	text-align: center;
+	font-weight: 600;
+}
+a.getcopybutton:hover {
+	background: #e78918;
+	color: #fff;
+}
+.tabblog-section p {
+	font-size: 13px;
+	line-height: normal;
+	padding: 0px 0px 10px 0px;
+}
+.mobileapp-section {
+	padding: 50px 0px 30px 0px;
+}
+.mobileapp-section h2 {
+	margin-bottom: 40px;
+	color: #2b2e33;
+}
+.mobilety-list {
+	margin-top: -10px;
+}
+.mobilety-list li {
+	width: 33.333333%;
+	float: left;
+}
+.mobilety-list li .services-box {
+	padding-top: 0px;
+}
+.mobilety-list li .services-title {
+	font-size: 14px;
+}
+.bordertop {
+	border-top: 1px solid #eaebeb;
+}
+.borderbottom {
+	border-bottom: 1px solid #eaebeb;
+}
+.technologies-logo {
+	width: 100%;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.technologies-logo li {
+	display: inline-block;
+	text-align: center;
+	width: 15%;
+}
+.technologies-logo li .logonames {
+	clear: both;
+	width: 100%;
+	text-align: center;
+	float: left;
+	padding-top: 10px;
+}
+.technologies-logo li img {
+	transition: all .2s ease-in-out;
+}
+.technologies-logo li:hover img {
+	transform: scale(1.1);
+}
+.clientlogoslider {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-top: 1px #eaebeb solid;
+	border-bottom: 1px #eaebeb solid;
+}
+.clientlogoslider h2 {
+	color: #2b2e33;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.clientlogoslider .sharepoint_clientsection {
+	background: none;
+	border: none;
+}
+.clientlogoslider .sharepoint_clientsection .owl-carousel .owl-item .client-logo a span {
+	background-position: center bottom;
+}
+.posttitles {
+	font-weight: 600;
+}
+.enterprise-footer {
+	width: 100%;
+	text-align: center;
+	padding: 40px 0px 0px 0px;
+	position: relative;
+	z-index: 9999;
+}
+.enterprise-footer a {
+	display: inline-block;
+	margin: 3px 3px;
+	background: #0080c9;
+	color: #fff;
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 20px;
+	font-weight: bold;
+	border: 1px #0080c9 solid;
+	transition-duration:0.3s;
+}
+.enterprise-footer a:hover {
+	background: #fff;
+	border: 1px #0080c9 solid;
+	color: #0080c9;
+	transition-duration:0.3s;
+}/**********************new sectino*******************/
+.iphn-videobg {
+	background: rgba(0, 0, 0, 0) url(../images/iphn-videobg.jpg) no-repeat scroll center bottom;
+	padding: 200px 0 180px;
+}
+.iphn-video h2 {
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	padding: 0 0 20px;
+}
+.iphn-video .play-button {
+	position: relative;
+	text-align: center;
+}
+.iphn-video {
+	background: #53479d none repeat scroll 0 0;
+	text-align: center;
+}
+.iphn-video {
+	background: #53479d none repeat scroll 0 0;
+	text-align: center;
+}
+#singal-slider {
+	padding: 0px 0px 0px 0px;
+}
+.iphn-contactbar h2 {
+	font-size: 28px;
+	color: #ffffff;
+}
+.iphn-contactbar a {
+	border: solid 1px #ffffff;
+	padding: 10px 30px;
+	font-size: 25px;
+	color: #fff;
+}
+.iphn-cs-content h2 {
+	font-size: 34px;
+	color: #2c3137;
+	padding-bottom: 5px;
+}
+.iphn-cs-content p {
+	padding-bottom: 0px;
+}
+.iphn-cs-content .iphn-cs-point {
+	padding: 0 0 0 70px;
+	margin-top: 30px;
+}
+.iphn-cs-content .iphn-cs-point .listicons {
+	float: left;
+	margin-left: -70px;
+	height: 45px;
+	width: 45px;
+	background: url(../images/iphn-cs-icons.png) no-repeat;
+	position: absolute;
+}
+.iphn-cs-content {
+	padding-right: 25px;
+}
+.iphn-cs-content .iphn-cs-point {
+	margin-top: 20px;
+	padding: 0 0 0 70px;
+}
+.iphn-cs-content .iphn-cs-point h3 {
+	font-size: 20px;
+	padding-bottom: 0px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon1 {
+	background-position: 0 0;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon2 {
+	background-position: -58px 0;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon3 {
+	background-position: -116px 0;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon4 {
+	background-position: -174px 0;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon5 {
+	background-position: 0 -58px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon6 {
+	background-position: -58px -58px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon7 {
+	background-position: -116px -58px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon8 {
+	background-position: -0px -114px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon9 {
+	background-position: -58px -114px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon10 {
+	background-position: -116px -114px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon11 {
+	background-position: -174px -114px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon12 {
+	background-position: -0px -167px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon13 {
+	background-position: -58px -167px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon14 {
+	background-position: -116px -167px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon15 {
+	background-position: -174px -167px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon16 {
+	background: url(../images/data_analysis_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon17 {
+	background: url(../images/store_metrics_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon18 {
+	background: url(../images/payment_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon19 {
+	background: url(../images/campaigning_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon20 {
+	background: url(../images/automate_process_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon21 {
+	background: url(../images/cross_platform_development_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon22 {
+	background: url(../images/automatic_update_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon23 {
+	background: url(../images/security_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon24 {
+	background: url(../images/categorical_display_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon25 {
+	background: url(../images/advanced_search_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon26 {
+	background: url(../images/byod_support_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon27 {
+	background: url(../images/cms_system_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon28 {
+	background: url(../images/user_authentication_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon29 {
+	background: url(../images/document_collaboration_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon30 {
+	background: url(../images/local_weather_and_news_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon31 {
+	background: url(../images/cms_system_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon32 {
+	background: url(../images/intuitive_ui_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon33 {
+	background: url(../images/g7_alignment_tool_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon34 {
+	background: url(../images/cloud_based_solution_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon35 {
+	background: url(../images/buy_postage_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon36 {
+	background: url(../images/refund_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon37 {
+	background: url(../images/print_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon38 {
+	background: url(../images/cost_saving_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon39 {
+	background: url(../images/remote_device_connection_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon40 {
+	background: url(../images/different_ip_numbers_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon41 {
+	background: url(../images/customized_headers_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon42 {
+	background: url(../images/product_details_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon43 {
+	background: url(../images/invoice_history_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon44 {
+	background-position: 0 -667px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon45 {
+	background-position: -58px -667px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon46 {
+	background-position: -116px -667px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon47 {
+	background-position: -173px -667px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon48 {
+	background-position: 0 -722px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon49 {
+	background-position: -58px -722px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon50 {
+	background-position: -116px -722px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon51 {
+	background-position: -174px -722px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon52 {
+	background-position: 0 -777px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon53 {
+	background-position: 0px -832px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon54 {
+	background-position: -58px -832px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon55 {
+	background-position: -115px -832px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon56 {
+	background-position: -174px -832px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon57 {
+	background-position: 0px -887px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon58 {
+	background-position: -58px -887px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon59 {
+	background-position: -115px -887px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon60 {
+	background-position: -174px -887px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon61 {
+	background-position: 0px -942px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon62 {
+	background-position: -58px -942px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon63 {
+	background-position: -115px -942px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon64 {
+	background-position: -174px -942px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon65 {
+	background-position: 0px -997px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon66 {
+	background-position: -58px -997px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon67 {
+	background-position: -115px -997px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon68 {
+	background-position: -174px -997px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon69 {
+	background-position: 0px -1052px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon70 {
+	background-position: -58px -1052px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon71 {
+	background-position: -115px -1052px;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon72 {
+	background-position: -174px -1052px;
+}
+.iphn-cs-content .iphn-cs-point .alliant-icon1 {
+	background: url(../images/alert-system1.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .alliant-icon2 {
+	background: url(../images/onlinet-banking.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .alliant-icon3 {
+	background: url(../images/responsive-design.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .alliant-icon4 {
+	background: url(../images/multiple-account.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon73 {
+	background: url(../images/single_point_of_control_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon74 {
+	background: url(../images/multilingual_sites_and_marketing_tools_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon75 {
+	background: url(../images/catalog_management_system_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon76 {
+	background: url(../images/experience_analytics_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon77 {
+	background: url(../images/highly_customizable_intranet_portal_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon78 {
+	background: url(../images/effective_document_management_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon79 {
+	background: url(../images/advanced_search_capabilities_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon80 {
+	background: url(../images/enterprise_grade_solution_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon81 {
+	background: url(../images/document_management_system_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon82 {
+	background: url(../images/community_engagement_portal_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon83 {
+	background: url(../images/implement_a_portal_in_Office_365_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon84 {
+	background: url(../images/events_and_calendar_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon85 {
+	background: url(../images/role_based_access_control_icon.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon86 {
+	background: url(../images/sap_system_integration_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon87 {
+	background: url(../images/push_notification_emails_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon88 {
+	background: url(../images/advanced_search_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon89 {
+	background: url(../images/sap_integration_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon90 {
+	background: url(../images/automatic_updates_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon91 {
+	background: url(../images/bulk_order_management_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon92 {
+	background: url(../images/striking_product_display_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon93 {
+	background: url(../images/eBay_payment_integration_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon94 {
+	background: url(../images/product_and_transaction_management_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon95 {
+	background: url(../images/complete_information_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon96 {
+	background: url(../images/user_friendly_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon97 {
+	background: url(../images/improves_customer_engagement_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon98 {
+	background: url(../images/product_catalog_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon99 {
+	background: url(../images/inx_locations_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon100 {
+	background: url(../images/multimedia_content_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon101 {
+	background: url(../images/cms-based_eLearning_system_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon102 {
+	background: url(../images/online_courses_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon103 {
+	background: url(../images/instant_access_to_lectures_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon104 {
+	background: url(../images/location_based_store_finder_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon105 {
+	background: url(../images/social_media_engagement_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon106 {
+	background: url(../images/sugar_crm_integration_icon.svg) no-repeat scroll center center;
+	background-size: 100% 100%;
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon107{
+	background: url(../images/emkay-access.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon108{
+	background: url(../images/emkay-email-notifications.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon109{
+	background: url(../images/emkay-information.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon110{
+	background: url(../images/bosch-product-information.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon111{
+	background: url(../images/bosch-search-functionality.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon112{
+	background: url(../images/bosch-products-catalog.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon113{
+	background: url(../images/fujiFilm-sap-integration.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon114{
+	background: url(../images/fujiFilm-user-alerts.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon115{
+	background: url(../images/fujiFilm-customer-view.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon116{
+	background: url(../images/better-alert-iot-solution.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon117{
+	background: url(../images/better-alert-cloud-hosting.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon118{
+	background: url(../images/better-alert-watch-integration.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon119{
+	background: url(../images/better-alert-monitoring.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon120{
+	background: url(../images/gea-cloud.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon121{
+	background: url(../images/gea-offline.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon122{
+	background: url(../images/gea-cross-platform.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon123{
+	background: url(../images/backlot-proxy.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon124{
+	background: url(../images/backlot-dashboard.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon125{
+	background: url(../images/backlot-cloud.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon126{
+	background: url(../images/fujifilm-salesforce.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon127{
+	background: url(../images/fujifilm-account.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon128{
+	background: url(../images/fujifilm-managment.svg) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon129{
+	background: url(../images/office_365_mailbox.png) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon130{
+	background: url(../images/domin_migration.png) no-repeat scroll center center;
+	background-size: 100% 100%;	
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon131{
+	background: url(../images/sync_conversation.png) no-repeat scroll center center;
+	background-size: 100% 100%;	
+} 
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon132 {
+	background: url(../images/carrier_rating_system.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon133 {
+	background: url(../images/advance_search.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon134 {
+	background: url(../images/file_cabinet.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon135 {
+	background: url(../images/responsive_design.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon136 {
+	background: url(../images/edis-icon1.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon137 {
+	background: url(../images/edis-icon2.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon138 {
+	background: url(../images/edis-icon3.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+.iphn-cs-content .iphn-cs-point .iphn-cs-icon139 {
+	background: url(../images/edis-icon4.svg) no-repeat center center;
+	background-size: 100% 100%;
+}
+
+.container .tmobilelist .iphn-cs-point h3 {
+	color: #434343;
+	font-size: 18px;
+}
+.container .tmobilelist a.get-quote {
+	border: #434343 1px solid;
+	color: #003d79
+}
+.container .tmobilelist a.get-quote:hover {
+	border: #434343 1px solid;
+	background: #434343;
+	color: #fff
+}
+.container .mercklist .iphn-cs-point h3 {
+	color: #00867b;
+	font-size: 18px;
+}
+.container .mercklist a.get-quote {
+	border: #00867b 1px solid;
+	color: #003d79
+}
+.container .mercklist a.get-quote:hover {
+	border: #00867b 1px solid;
+	background: #00867b;
+	color: #fff
+}
+.container .bloomslist .iphn-cs-point h3 {
+	color: #0d4898;
+	font-size: 18px;
+}
+.container .bloomslist a.get-quote {
+	border: #0080c9 1px solid;
+	color: #0080c9
+}
+.container .bloomslist a.get-quote:hover {
+	border: #0080c9 1px solid;
+	background: #0080c9;
+	color: #fff
+}
+.container .altralist .iphn-cs-point h3 {
+	color: #003d79;
+	font-size: 18px;
+}
+.container .firstannalist .iphn-cs-point h3 {
+	color: #003d79;
+	font-size: 18px;
+}
+.container .firstannalist .iphn-cs-point p {
+	color: #84868a;
+	font-size: 14px;
+}
+.container .firstannalist a.get-quote {
+	border: #003d79 1px solid;
+	color: #003d79
+}
+.container .firstannalist a.get-quote:hover {
+	border: #003d79 1px solid;
+	background: #003d79;
+	color: #fff
+}
+.container .heartwarelist .iphn-cs-point h3 {
+	color: #0077bf;
+}
+.container .heartwarelist .iphn-cs-point p {
+	color: #84868a;
+	font-size: 14px;
+}
+.container .heartwarelist a.get-quote {
+	border: #0077bf 1px solid;
+	color: #0077bf
+}
+.container .heartwarelist a.get-quote:hover {
+	border: #0077bf 1px solid;
+	background: #0077bf;
+	color: #fff
+}
+.container .churchlist .iphn-cs-point h3 {
+	color: #66a0b9;
+}
+.container .churchlist .iphn-cs-point p {
+	color: #84868a;
+	font-size: 14px;
+}
+.container .churchlist a.get-quote {
+	border: #66a0b9 1px solid;
+	color: #66a0b9
+}
+.container .churchlist a.get-quote:hover {
+	border: #66a0b9 1px solid;
+	background: #66a0b9;
+	color: #fff
+}
+.container .fujilist .iphn-cs-point h3 {
+	color: #548b75;
+}
+.container .fujilist a.get-quote {
+	border: #548b75 1px solid;
+	color: #548b75
+}
+.container .fujilist a.get-quote:hover {
+	border: #548b75 1px solid;
+	background: #548b75;
+	color: #fff
+}
+.container .boschlist .iphn-cs-point h3 {
+	color: #446e9a;
+}
+.container .boschlist a.get-quote {
+	border: #446e9a 1px solid;
+	color: #446e9a
+}
+.container .boschlist a.get-quote:hover {
+	border: #446e9a 1px solid;
+	background: #446e9a;
+	color: #fff
+}
+.container .hollandlist .iphn-cs-point h3 {
+	color: #313e48;
+}
+.container .hollandlist a.get-quote {
+	border: #313e48 1px solid;
+	color: #313e48
+}
+.container .hollandlist a.get-quote:hover {
+	border: #313e48 1px solid;
+	background: #313e48;
+	color: #fff
+}
+.brand-title {
+	font-size: 20px;
+	color: #000000;
+	padding-bottom: 10px;
+}
+.android-screen-margintop {
+	margin-top: 160px !important;
+}
+.container .bosch-grouplist .iphn-cs-point h3 {
+	color: #334f6a;
+	font-size: 18px;
+}
+.container .bosch-grouplist a.get-quote {
+	border: #344f6a 1px solid;
+	color: #344f6a
+}
+.container .bosch-grouplist a.get-quote:hover {
+	border: #344f6a 1px solid;
+	background: #344f6a;
+	color: #fff
+}
+.container .walkingspreelist .iphn-cs-point h3 {
+	color: #5f6eae;
+	font-size: 18px;
+}
+.container .walkingspreelist a.get-quote {
+	border: #5f6eae 1px solid;
+	color: #5f6eae
+}
+.container .walkingspreelist a.get-quote:hover {
+	border: #5f6eae 1px solid;
+	background: #5f6eae;
+	color: #fff
+}
+.container .sutronslide-list .iphn-cs-point h3 {
+	color: #1267b8;
+	font-size: 18px;
+}
+.container .sutronslide-list a.get-quote {
+	border: #1267b8 1px solid;
+	color: #1267b8
+}
+.container .sutronslide-list a.get-quote:hover {
+	border: #1267b8 1px solid;
+	background: #1267b8;
+	color: #fff
+}
+.iphn-cs-content.bosch-grouplist-iphone {
+	padding-left: 25px;
+	padding-right: 0;
+}
+.container .emkaylist .iphn-cs-point h3 {
+	color: #5f6eae;
+	font-size: 18px;
+}
+.container .emkaylist a.get-quote {
+	border: #5f6eae 1px solid;
+	color: #5f6eae
+}
+.container .emkaylist a.get-quote:hover {
+	border: #5f6eae 1px solid;
+	background: #5f6eae;
+	color: #fff
+}
+.iphn-cs-content.cobralist {
+	padding-left: 25px;
+	padding-right: 0;
+}
+.container .cobralist .iphn-cs-point h3 {
+	color: #2e2e2e;
+	font-size: 18px;
+}
+.container .cobralist a.get-quote {
+	border: #2e2e2e 1px solid;
+	color: #2e2e2e
+}
+.container .cobralist a.get-quote:hover {
+	border: #2e2e2e 1px solid;
+	background: #2e2e2e;
+	color: #fff
+}
+a.get-quote {
+	color: #0057a0;
+	border: solid 1px #0080c9;
+	font-size: 18px;
+	padding: 12px 40px;
+	float: left;
+	transition-duration: 0.3s;
+}
+a.get-quote:hover {
+	background: #0080c9;
+	border: 1px solid #0080c9;
+	color: #fff;
+	transition-duration: 0.3s;
+}
+.padl0 {
+	padding-left: 0px;
+}
+.iphn-cs-content-right {
+	padding-right: 0px;
+	padding-left: 35px;
+}
+.owl-carousel .iphn-cs-content-right{padding-left:0px;  }
+.iphn-cs {
+	padding-top: 20px;
+}
+.ituneslink {
+	margin-right: 15px;
+}
+.fujifilm-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.sharepoint-screen {
+	margin-top: 55px;
+	text-align: center;
+}
+#toPopup:after {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background-color: rgba(0, 0, 0, 0.6);
+	content: ".";
+	font-size: 0px;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+.popup-inner-div {
+	background: #ffffff none repeat scroll 0 0;
+}/* Enterprise Mobility Solutions New End *//* Apple Watch Development Start */
+.applewatchBanner h1 {
+	font-size: 60px;
+	font-weight: normal;
+	padding-top: 60px;
+	line-height: normal;
+}
+.appleWatchDev {
+	padding: 50px 0;
+}
+.appleWatchDev h2 {
+	font-size: 60px;
+	font-weight: normal;
+	color: #1e1e1e;
+	padding-bottom: 30px;
+}
+.appleWatchDev p {
+	font-size: 18px;
+	color: #323232;
+	line-height: 35px;
+}
+.appleWatchDev p a {
+	font-weight: 600;
+	color: #2b9fd9;
+	text-decoration: none;
+}
+.appleWatchDev p span.blue-txt {
+	font-weight: 600;
+}
+.appleWatchDev img {
+	padding: 50px 0 30px;
+}
+.appleWatchEnterprise {
+	background: #f2f2f2;
+	padding: 70px 0;
+}
+.appleWatchEnterprise h2 {
+	font-size: 60px;
+	font-weight: normal;
+	color: #1e1e1e;
+	padding-bottom: 80px;
+}
+.appleWatchEnterprise .colum-40 img {
+	margin-top: 60px;
+}
+.appleWatchEnterprise .colum-60 h3 {
+	font-size: 36px;
+	color: #2b9fd9;
+	padding-bottom: 30px;
+}
+.appleWatchEnterprise .colum-60 p {
+	font-size: 18px;
+	color: #323232;
+	line-height: 32px;
+	padding: 0;
+}
+.appleWatchEnterprise .colum-60 ul {
+	margin: 15px 0 20px;
+}
+.appleWatchEnterprise .colum-60 ul li {
+	font-size: 18px;
+	color: #323232;
+	padding-bottom: 10px;
+	list-style: disc;
+	list-style-position: inside;
+}
+.appleWatchEnterprise .colum-60 .btnsec a {
+	display: inline-block;
+	margin: 30px 0 0 0;
+}
+.watchapp-screen img {
+	margin-right: 18px;
+}
+.watchapp-screen br {
+	display: none;
+}
+.appleWatchQuote {
+	background: url(../images/applewatch-quotebg.jpg) no-repeat;
+	background-size: cover;
+	padding: 30px 0;
+}
+.appleWatchQuote blockquote {
+	display: block;
+	padding: 15px 20px 15px 45px;
+	margin: 0 0 20px;
+	position: relative;
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+}
+.appleWatchQuote blockquote p {
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+	padding: 0;
+}
+.appleWatchQuote blockquote::before {
+	background: url(../images/apple-quote-left.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	left: 5%;
+	top: 5px;
+	content: "";
+}
+.appleWatchQuote blockquote::after {
+	background: url(../images/apple-quote-right.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	right: 4%;
+	bottom: -12px;
+	content: "";
+}
+.appleWatchExpertise {
+	padding: 80px 0;
+}
+.appleWatchExpertise h2 {
+	font-size: 60px;
+	font-weight: normal;
+	color: #1e1e1e;
+	padding-bottom: 80px;
+	text-align: center;
+}
+.appleWatchExpertise li {
+	width: 33%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	margin-bottom: 50px;
+	vertical-align: top;
+}
+.appleWatchExpertise li > div.Expertiseicon {
+	position: absolute;
+	bottom: -20px;
+	width: 100%;
+}
+.appleWatchExpertise li > div.Expertiseicon h3 {
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 600;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor1 {
+	color: #02c5b0;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor2 {
+	color: #86ad00;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor3 {
+	color: #00a8ff;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor4 {
+	color: #e45290;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor5 {
+	color: #764eb7;
+}
+.appleWatchExpertise li > div.Expertiseicon h3.titlecolor6 {
+	color: #ff8a00;
+}
+.appleWatchQuote2 {
+	background: url(../images/applewatch-quotebg2.jpg) no-repeat;
+	background-size: cover;
+	padding: 30px 0;
+}
+.appleWatchQuote2 blockquote {
+	display: block;
+	padding: 15px 20px 15px 45px;
+	margin: 0 0 20px;
+	position: relative;
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+}
+.appleWatchQuote2 blockquote p {
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+	padding: 0;
+}
+.appleWatchQuote2 blockquote::before {
+	background: url(../images/apple-quote-left.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	left: 4%;
+	top: 5px;
+	content: "";
+}
+.appleWatchQuote2 blockquote::after {
+	background: url(../images/apple-quote-right.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	right: 7%;
+	bottom: -12px;
+	content: "";
+}
+.appleWatchTesti {
+	padding: 80px 0;
+}
+.appleWatchTesti h2 {
+	font-size: 47px;
+	font-weight: normal;
+	color: #1e1e1e;
+	padding-bottom: 20px;
+}
+.appleWatchTesti .colum-50 {
+	width: 48%;
+	margin-right: 2%;
+}
+.appleWatchTesti #pardotform h1 {
+	display: none;
+}
+.appleWatchclientSlider {
+	padding-left: 20px;
+}
+.testi h3 {
+	color: #323232;
+	margin-top: 10px;
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	width: 70%;
+}
+.testi h3 span {
+	color: #2b9fd9;
+	font-size: 24px;
+	font-weight: 600;
+	display: block;
+	padding-bottom: 5px;
+}
+.testi h3 strong {
+	font-size: 16px;
+	color: #323232;
+	font-weight: 600;
+	padding-top: 5px;
+	display: block;
+}
+.testi .img-box {
+	margin: 20px 0 15px;
+}
+.marg10 {
+	margin-top: 10px !important;
+}
+.testi .img-file {
+	float: left;
+	margin-right: 20px;
+	display: inline-block;
+}
+.testi h5 {
+	color: #444;
+	margin-bottom: 11px;
+	font-size: 20px;
+}/* Apple Watch Development End *//*******Fleet Management********/
+.w-60per {
+	float: left;
+	width: 60%;
+	box-sizing: border-box;
+}
+.w-40per {
+	float: left;
+	width: 40%;
+}
+.padr25 {
+	padding-right: 25px;
+}/*******Fleet Management********/
+.fleet-management-bg {
+	background: #f8f8f8;
+	border-bottom: solid 1px #d5dae0;
+	padding: 20px 0 52px;
+	margin: 65px 0;
+}
+.fleet-management {/*border-bottom:1px solid #f0f0f0;*/;
+	margin: 42px 0;
+}
+.fleet-management h3 {
+	padding-bottom: 33px;
+}
+.fleet-management-bg .part20 {
+	width: 25%;
+	float: left;
+	margin: 40px 0 0 0
+}
+.fleet-management-bg .part20 h4 {
+	text-transform: uppercase;
+	font-size: 24px;
+}
+.fleet-management-bg .enable_part {
+	margin-top: 30px;
+}
+.fleet-management .smattransport {
+	margin-top: 63px
+}
+.fleet-management .smattransport .need {
+	width: 31%;
+	margin-right: 2%;
+	background: #f0f1f2;
+	float: left;
+	margin-bottom: 42px;
+}
+.fleet-management .smattransport .need h3 {
+	color: #fff;
+	background: #538aa2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.fleet-management .smattransport .need ul li {
+	color: #538aa2;
+	border-bottom: 1px solid #538aa2;
+	padding: 12px 0;
+	font-size: 18px;
+	font-weight: normal;
+}
+.fleet-management .smattransport .need ul li:last-child {
+	border-bottom: 0;
+}
+.fleet-management .smattransport .solution {
+	width: 31%;
+	margin-right: 1%;
+	margin-left: 1%;
+	float: left;
+	background: #f0f1f2;
+	margin-bottom: 42px;
+}
+.fleet-management .smattransport .solution h3 {
+	color: #fff;
+	background: #538aa2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.fleet-management .smattransport .solution ul li {
+	color: #538aa2;
+	border-bottom: 1px solid #538aa2;
+	padding: 38px 0 37px;
+	font-size: 18px;
+	font-weight: normal;
+}
+.fleet-management .smattransport .solution ul li:last-child {
+	border-bottom: 0;
+}
+.fleet-management .smattransport .benefits {
+	width: 31%;
+	margin-left: 2%;
+	float: left;
+	background: #f0f1f2;
+	margin-bottom: 42px;
+}
+.fleet-management .smattransport .benefits h3 {
+	color: #fff;
+	background: #538aa2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.fleet-management .smattransport .benefits ul li {
+	color: #538aa2;
+	border-bottom: 1px solid #538aa2;
+	padding: 38px 0 37px;
+	font-size: 18px;
+	font-weight: normal;
+}
+.fleet-management .smattransport .benefits ul li:last-child {
+	border-bottom: 0;
+}
+.fleetQuote {
+	background: url(../images/fleetquote_img.jpg) no-repeat;
+	background-size: cover;
+	padding: 30px 0;
+	margin-top: 50px;
+	margin-bottom: 48px;
+}
+.fleetQuote blockquote {
+	display: block;
+	padding: 15px 20px 15px 45px;
+	margin: 0 0 20px;
+	position: relative;
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+}
+.fleetQuote blockquote p {
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+	padding: 0;
+}
+.fleetQuote blockquote::before {
+	background: url(../images/apple-quote-left.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	left: 0%;
+	top: 5px;
+	content: "";
+}
+.fleetQuote blockquote::after {
+	background: url(../images/apple-quote-right.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	right: 5%;
+	bottom: -12px;
+	content: "";
+}
+.fleet-management .w-33 {
+	width: 33%;
+	float: left;
+	padding: 3.1% 1.5% 0.6%
+}
+.fleet-management .w-33 h4 {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.fleet-content {/*border-bottom:1px solid #f0f0f0;*/
+	margin-top: 30px;
+	margin-bottom: 0;
+	padding-bottom: 45px;
+}
+.fleet-content .w-60per_left {
+	width: 60%;
+	box-sizing: border-box;
+	padding-top: 62px;
+}
+.fleet-content .w-40per_left {
+	width: 40%;
+	margin-bottom: -1.5em
+}
+.fleet-content .padr25 {
+	padding-right: 25px;
+}
+.fleet-content .text-align-right {
+	text-align: right;
+}
+.fleet-content .text-align-left {
+	text-align: left;
+}
+.fleet-getintouch {
+	background: url(../images/fleet_touch_img.png) no-repeat scroll center top;
+	padding: 50px 0;
+}
+.fleet-getintouch .colum-30 {
+	margin-top: 10px;
+}
+.fleet-content .mid_tittle {
+	padding-top: 16px;
+	padding-bottom: 26px;
+}/*******Logi Analysis********/
+.our-expertise {
+	max-width: 850px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.our-expertise h2 {
+	padding: 0 0 65px;
+}
+.our-expertise li {
+	box-sizing: border-box;
+	float: left;
+	padding: 0 5% 30px 0;
+	position: relative;
+	width: 50%;
+}
+.our-expertise li .iconPart {
+	height: 36px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 36px;
+}
+.our-expertise li .expertise-icon1 {
+	background: url(../images/expertise-consulting-icon.png) no-repeat scroll 0 0;
+}
+.our-expertise li .expertise-icon2 {
+	background: url(../images/expertise-development-icon.png) no-repeat scroll 0 0;
+}
+.our-expertise li .expertise-icon3 {
+	background: url(../images/expertise-deployment-icon.png) no-repeat scroll 0 0;
+}
+.our-expertise li .expertise-icon4 {
+	background: url(../images/expertise-support-icon.png) no-repeat scroll 0 0;
+}
+.our-expertise li .dataPart {
+	padding: 0 0 0 50px;
+}
+.our-expertise li h3 {
+	color: #0668a2;
+	font-size: 18px;
+	padding-bottom: 15px;
+	font-weight: 600;
+}
+.data-solution {
+	background: rgba(0, 0, 0, 0) url(../images/data-solution-bg.jpg) no-repeat scroll center center / cover;
+}
+.data-solution h3 {
+	font-size: 40px;
+	color: #fff;
+}
+.data-solution h4 {
+	color: #fff;
+	display: block;
+	padding: 15px 0 50px;
+}
+.data-solution .data-solution-text span {
+	display: block;
+}
+.get-relevent {
+	padding-top: 75px;
+}
+.get-relevent .col-left {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0 8% 0 0;
+}
+.get-relevent li {
+	background: rgba(0, 0, 0, 0) url(../images/bullate3.png) no-repeat scroll left 4px;
+	color: #555555;
+	font-size: 14px;
+	margin-top: 10px;
+	padding-left: 24px;
+}
+.get-relevent p {
+	color: #555555;
+	font-size: 16px;
+	line-height: 30px;
+}
+.get-relevent .col-right {
+	float: right;
+	width: 50%;
+	box-sizing: border-box;
+	margin: 0;
+}
+.discover-data {
+	padding-bottom: 60px;
+}
+.discover-data .col-left {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	margin: 0;
+}
+.discover-data li {
+	background: rgba(0, 0, 0, 0) url(../images/bullate3.png) no-repeat scroll left 4px;
+	color: #555555;
+	font-size: 14px;
+	margin-top: 10px;
+	padding-left: 24px;
+}
+.discover-data p {
+	color: #555555;
+	font-size: 16px;
+	line-height: 30px;
+}
+.discover-data .col-right {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0 0 0 8%;
+}/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.Digital-tab {
+	padding: 0;
+}
+.Digital-tab .bluelgtbg {
+	background: #ffffff;
+	border-top: #f4f4f4 solid 1px;
+	padding: 0px 0 30px;
+	margin-top: -24px;
+}
+.Digital-tab .zilla-tab-inner {
+	margin-top: 20px;
+}
+.Digital-tab .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.Digital-tab .zilla-tabs {
+	margin-bottom: 0 !important;
+}
+.Digital-tab .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0!important;
+}
+.Digital-tab .zilla-tabs .zilla-nav li a {
+	background: #e5e5e5;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #303030!important;
+	height: auto;
+	padding: 20px 20px;
+	width: 300px;
+	border-radius: 0;
+}
+.Digital-tab .zilla-tabs .zilla-nav li a:hover {
+	background: #1f9fe0!important;
+	color: #fff!important;
+}
+.Digital-tab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	background: #0282c3;
+	font-size: 18px;
+	text-align: center;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #fff!important;
+	height: auto;
+}
+.Digital-tab .zilla-tabs .zilla-nav li.ui-tabs-active a:hover {
+	background: #0282c3!important;
+	color: #fff!important;
+}
+.Digital-tab .zilla-tabs .zilla-nav li.ui-tabs-active {
+	z-index: 999;
+}/*.Digital-tab .zilla-tabs .zilla-nav li.ui-tabs-active.ui-tabs-active:after{background:url(../images/XAmarin-tab-arrow.png) no-repeat; width:24px; height:18px; content:""; position:absolute; bottom:-18px; text-align:center; margin-left:-7px;}*/
+.Digital-tab .zilla-tabs .zilla-tab {
+	background: none;
+	border: 0px;
+	padding: 20px 0;
+}
+.Digital-tab-detail {
+	margin-top: 20px;
+}
+.Digital-tab-detail .col-50 {
+	width: 50%;
+	float: left;
+}
+.Digital-tab-detail .col-50 h2 {
+	font-size: 22px;
+	color: #2a3c50;
+	font-weight: 700;
+}
+.Digital-tab-detail .col-50 h3 {
+	font-size: 18px;
+	color: #000000;
+}
+.Digital-advantages {
+	padding: 0px 0 70px;
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f8f8f8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffffff 0%, #f8f8f8 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f8f8', GradientType=0 ); /* IE6-9 */
+	border-bottom: solid 1px #e1e1e1;
+}
+.service-innovative h3 {
+	font-size: 31px;
+	color: #0282c3;
+	text-transform: none;
+	font-weight: normal;
+	padding: 0 0 15px;
+}
+.service-innovative h1 {
+	font-size: 76px;
+	color: #5c5c5c;
+	font-weight: bold;
+	padding: 0;
+}
+.service-innovative h1 span.creative-text {
+	background: #0282c3;
+	color: #fff;
+	padding: 0 15px;
+}
+.service-innovative h4 {
+	font-size: 76px;
+	color: #000000;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 20px 0 0 0;
+}
+.service-innovative h4 span.passionate-text {
+	color: #5c5c5c;
+	font-size: 98px;
+}/*.service-inspiring{background:#f9f9f9 url(../images/services-mapbg.png) no-repeat center center;}*/
+.service-inspiring i {
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+	background: url(../images/service-blue-arrow.png) no-repeat right center;
+	padding: 0 25px 0 0;
+	margin-right: 10px;
+	font-style: normal;
+}
+.service-inspiring i:last-child {
+	background: none;
+	padding:0;
+	margin:0;
+}
+.service-inspiring h5 {
+	font-size: 28px !important;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px 0;
+}
+.service-inspiring ul {
+	padding-top: 40px;
+}
+.service-inspiring ul li {
+	width: 22.9%;
+	display: inline-block;
+	text-align: center;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 0 13px;
+	vertical-align: top;
+	margin: 0 10px;
+}
+.service-inspiring ul li h3 {
+	font-size: 18px;
+	color: #0282c3;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	padding: 10px 0 20px;
+}
+.serviceIndServe ul {
+	margin-top: 50px;
+}
+.serviceIndServe ul li {
+	width: 16%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.serviceIndServe ul li h3 {
+	font-size: 15px;
+	color: #000000;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 20px 0 20px;
+}
+.serviceIndSpace {
+	padding-top: 80px;
+}
+.service-banner i {
+	display: inline-block;
+	font-size: 14px;
+	line-height: 25px;
+	font-style: normal;
+	margin-top: 15px;
+}
+.cloudpdfsection {
+	margin-top: 30px;
+}
+.cloudpdfsection .Rightsec {
+	width: 100%;
+	text-align: center;
+}
+.cloudpdfsection .Rightsec li {
+	display: inline-block;
+	width: 48%;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	min-height: inherit;
+	text-align: center;
+	border: solid 1px #efefef;
+	border-radius: 5px;
+	padding: 10px;
+	vertical-align: top;
+}
+.cloudpdfsection .Rightsec li:hover {
+	background: #efefef;
+}
+.cloudpdfsection .Rightsec li:last-child {
+	margin-right: 0;
+}
+.cloudpdfsection .Rightsec li br {
+	display: none;
+}
+.cloudpdfsection .Rightsec li img {
+	display: inline-block;
+	float: left;
+	position: inherit;
+}
+.cloudpdfsection .office-pdf-sec h4 {
+	font-size: 14px;
+	color: #000;
+	border-radius: 0 5px 5px 0;
+	margin: 12px 0 0 72px;
+	clear: none;
+	text-align: left;
+	cursor: pointer;
+}
+.cloudpdfsection .office-pdf-sec h4:hover {
+	background: none;
+}
+.cloudpdfsection .office-pdf-sec h4 a {
+	color: #000;
+}
+.highlight-bg ul.listing {
+	margin-top: 15px;
+}
+.highlight-bg ul.listing li {
+	background: url(../images/bulliet2.png) no-repeat 0px 6px;
+	color: #fff;
+}
+.webinar h3.webinar-icons {
+	background: rgba(0, 0, 0, 0) url(../images/webinar-icon.png) no-repeat scroll 0 7px;
+	color: #ffffff;
+	font-size: 27px;
+	padding: 0 0 0 102px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.coloum .col-7 {
+	width: 75%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	float: left;
+}
+.coloum .col-3 {
+	width: 23%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	margin-left: 20px;
+	float: left;
+}
+.contactus_add {
+	position: relative;
+	display: table;
+	width: 100%;
+}
+.contactus_add .contactus_left {
+	display: table-cell;
+	padding-right: 20px;
+}
+.contactus_add .contact_us_now {
+	background: #0282c3;
+	color: #ffffff;
+	padding: 48px 32px;
+	text-align: center;
+	font-size: 14px;
+	width: 350px;
+	display: table-cell;
+}
+.contactus_add .contact_us_now h5.uppercase {
+	letter-spacing: 2px;
+	margin-right: -2px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #ffffff;
+	margin-bottom: 25px;
+}
+.contactus_add .contact_us_now .btn {
+	height: 50px;
+	line-height: 46px;
+	min-width: 200px;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-bottom: 24px;
+	padding: 0 26px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-ms-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	white-space: nowrap;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+}
+.contactus_add .contact_us_now .btn:hover {
+	background: #ffffff;
+	color: #222222;
+}
+.contactus_add .contact_us_now p {
+	color: #ffffff !important;
+	padding-bottom: 0 !important;
+}
+.contactus_add .contact_us_now p .call_no {
+	display: block;
+	font-size: 25px;
+	padding-top: 8px;
+}
+.contactus_add .contact_us_now p .call_no a, .contactus_add .contact_us_now p .call_no a:hover{color:#fff;}
+
+/**************defult tab**********/
+.default-tab .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.default-tab .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0px;
+}
+.default-tab .zilla-tabs .zilla-nav li a {
+	background: #e5e5e5;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 0px;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #333!important;
+	height: auto;
+	padding: 15px 20px;
+	transition-duration:0.3s
+}
+.default-tab .zilla-tabs .zilla-nav li a:hover {
+	background: #23a3e4!important;
+	color: #fff!important;
+	transition-duration:0.3s	
+}
+.default-tab .zilla-tabs .zilla-nav li.ui-tabs-active a:hover {
+	background: #2b9fd9!important;
+	color: #fff!important;
+	transition-duration:0.3s	
+}
+.default-tab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	background: #0282c3;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 0px;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #fff!important;
+	height: auto;
+	padding: 15px 20px;
+		transition-duration:0.3s
+}
+/********************************/
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *//***********************************************//*****************Media Css*********************//***********************************************/
+@media only screen and (max-width:1120px) {
+}
+@media only screen and (max-width:1100px) {
+.smartcar-parking .container {
+	width: 950px;
+	margin: auto;
+}
+.parking-truning {
+	left: 0px;
+}
+.parking-spaces {
+	left: 0px;
+}
+.smartcar-parking .container {
+	background-position: 358px 2px
+}
+.parking-alert2 {
+	right: 300px;
+}
+.parking-alert {
+	right: 70px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a {
+	font-size: 14px;
+}
+}
+@media only screen and (max-width:959px) {
+}
+@media only screen and (max-width:1024px) {
+#easing {
+	display: none;
+}
+body.home .sharepoint_clientsection {
+	position: relative;
+	margin-top: 0px;
+}
+.strip-fixed {
+	display: none;
+}
+.whyoffice365 ul li h4 {
+	font-size: 17px;
+}
+.whyoffice365 ul li img {
+	margin-right: 7px;
+}
+.office365-cs-sec li h4 {
+	padding: 0 6% 5%;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details p br {
+	display: none;
+}
+.Xamarin-why-choose li {
+	padding: 20px 8px 40px;
+}/* Cloud Consulting */
+.cloudAdoption ul {
+	text-align: center;
+}
+.cloudAdoption li {
+	width: 37%;
+	margin: 1% 2%;
+}
+.cloudAdoption li div.process-arrowtop, .cloudAdoption li div.process-arrowbtm {
+	display: none;
+}
+.cloud-computing li {
+	width: 19.5%;
+}
+.appleWatchEnterprise .colum-60 {
+	padding-left: 30px;
+}
+.appleWatchQuote blockquote p, .appleWatchQuote2 blockquote p {
+	font-size: 40px;
+}
+.testi h3 {
+	width: 68%;
+}
+.fleet-content .w-60per_left {
+	width: 56%;
+	margin-right: 20px;
+}
+.fleetQuote blockquote p {
+	font-size: 41px;
+	line-height: 68px;
+}
+.service-inspiring ul li {
+	margin: 0 8px;
+}
+.whyCloud li {
+	margin-left: 2%;
+	margin-right: 2%;
+	width: 28.5%
+}
+.whyCloud li p {
+	font-size: 17px;
+	line-height: 24px;
+}
+.coloum .col-3 {
+	margin-left: 18px;
+}
+}
+@media only screen and (max-width:999px) {
+.smartcar-parking .container {
+	width: 100%;
+}
+.smartcar-parking .container {
+	background: url(../images/carparking-bg4.jpg) no-repeat right 2px;
+}
+.parking-spaces {
+	left: 10px;
+}
+.parking-alert2 {
+	right: 157px;
+}
+.parking-alert {
+	display: none;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a {
+	font-size: 13px;
+	padding-left: 59px;
+	padding-right: 10px;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a:before {
+	left: 5px;
+}
+.fleet-content .w-60per_left {
+	width: 54%;
+	margin-right: 30px;
+}
+.contactus_add {
+	display: block
+}
+.contactus_add .contactus_left {
+	width: auto;
+	display: block;
+	padding-right: 0;
+}
+.contactus_add .contact_us_now {
+	width: 100%;
+	display: block;
+	margin-top: 20px;
+}
+.whyoffice365 ul li {width:30%; }   
+}
+@media only screen and (min-width:768px) and (max-width:959px) {
+.manufac_tab .zilla-tabs .zilla-nav {
+	width: 100%;
+}
+.manufac_tab .zilla-tabs .zilla-nav li {
+	padding: 0 5px 0 0
+}
+.manufac_tab .zilla-tabs .zilla-nav .ui-tabs-selected a, .manufac_tab .zilla-tabs .zilla-nav .ui-tabs-active a {
+	padding: 10px !important;
+	font-size: 15px;
+}
+.manufac_tab .zilla-tabs .zilla-nav li a {
+	padding: 10px !important;
+	font-size: 15px;
+}
+.manfac_iot_box1_bg {
+	width: 85%;
+	float: left;
+	background: #68b9a6;
+	height: 235px;
+	padding: 20px 5%;
+	text-align: center;
+}
+.manfac_iot_box1_bg p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.manfac_iot_box2_bg {
+	width: 85%;
+	float: left;
+	background: #6db4cd;
+	height: 235px;
+	padding: 20px 5%;
+	text-align: center;
+}
+.manfac_iot_box2_bg p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.manfac_iot_box3_bg {
+	width: 85%;
+	float: left;
+	background: #8a8fc5;
+	height: 235px;
+	padding: 10px 5%;
+	text-align: center;
+}
+.manfac_iot_box3_bg p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.manfac_iot_box4_bg {
+	width: 85%;
+	float: left;
+	background: #cb877f;
+	height: 235px;
+	padding: 10px 5%;
+	text-align: center;
+}
+.manfac_iot_box4_bg p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.manufac_blog1_bg {
+	width: 65%;
+}
+.manufac_blog2_bg {
+	width: 65%;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details h2 {
+	padding-top: 15px;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details br {
+	display: none;
+}
+.office365-service div.graylistbox {
+	min-height: 460px;
+}
+.office365-conversion .msa-getintouch .btnsec {
+	padding: 0;
+	margin-top: 40px;
+}
+.office365-cs-sec li h4 {
+	padding: 0 4% 5%;
+}
+.whyoffice365 ul li {
+	margin: 8px 10px;
+    width: 28%;
+}/* Xamarin New Start */
+.XAmarin-banner .banner-colum-left h1 {
+	padding: 0;
+	font-size: 38px;
+	line-height: 45px;
+}
+.Xamarin-why-choose li {
+	padding: 20px 10px 40px;
+	min-height: 315px;
+}
+.bluewpbg .details {
+	padding-top: 0;
+}
+.Xamarin-platform .col-50 {
+	padding-top: 0;
+}/* Cloud Consulting */
+.whyCloud li {
+	min-height: 365px;
+	font-size: 16px;
+}
+.cloud-computing li {
+	width: 19.5%;
+}
+.BenefitCloud li {
+	width: 30%;
+}
+.cloudAdoption ul {
+	text-align: center;
+}
+.cloudAdoption li {
+	width: 363px;
+}
+.cloudAdoption li div.process-arrowtop, .cloudAdoption li div.process-arrowbtm {
+	display: none;
+}
+.applewatchBanner h1 {
+	font-size: 52px;
+}
+.appleWatchEnterprise .colum-60 {
+	width: 100%;
+}
+.appleWatchEnterprise .colum-40 {
+	width: 100%;
+	text-align: center;
+}
+.appleWatchEnterprise .colum-40 img {
+	margin: 0px 0 30px;
+}
+.appleWatchQuote blockquote p {
+	font-size: 27px;
+	line-height: 55px;
+}
+.appleWatchQuote2 blockquote p {
+	font-size: 27px;
+	line-height: 52px;
+}
+.testi h3 {
+	width: 58%;
+	margin-top: 0;
+}
+.testi p {
+	padding-bottom: 0;
+}
+.appleWatchTesti h2 {
+	font-size: 32px;
+}
+.appleWatchExpertise, .appleWatchEnterprise, .appleWatchDev {
+	padding: 30px 0;
+}
+.appleWatchExpertise h2, .appleWatchEnterprise h2, .appleWatchDev h2 {
+	font-size: 46px;
+	padding-bottom: 20px;
+}
+.fleet-content .w-60per_left {
+	width: 56%;
+	margin-right: 20px;
+}/*******Logi Analysis********/
+.get-relevent .col-left {
+	padding: 0 3% 0 0;
+}
+.discover-data .col-right {
+	padding: 0 0 0 3%;
+}
+}
+@media only screen and (max-width:800px) {
+.XAmarin-tab .zilla-tabs .zilla-nav li a, .XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	width: 245px;
+	padding: 20px 10px;
+	font-size: 16px;
+}
+.XAmarin-tab-detail .col-50 {
+	width: 100%;
+}
+.XAmarin-tab-detail .imgpart {
+	text-align: center;
+}
+.XAmarin-tab-detail .toppadding40, .XAmarin-tab-detail .toppadding20, .XAmarin-tab-detail {
+	padding: 0;
+	margin: 0;
+}
+.Xamarin-advantages li {
+	width: 49%;
+}
+.Xamarin-platform {
+	padding: 50px 0 20px 0;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li {
+	width: 100%;
+	margin-bottom: 5px!important;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a {
+	border-radius: 6px;
+	font-size: 15px;
+	padding-left: 70px;
+	width: 100%;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li.ui-tabs-active a:after {
+	display: none;
+}
+.emsSolutionstab .zilla-tabs .zilla-nav li a:before {
+	left: 15px;
+}/* 25-08-15*/
+.fleet-content .w-60per_left {
+	width: 54%;
+	margin-right: 30px;
+}
+.fleetQuote blockquote p {
+	font-size: 29px;
+	line-height: 49px;
+}
+.fleet-management .smattransport .solution ul li {
+	padding: 31px 0;
+}
+.fleet-management .smattransport .benefits ul li {
+	padding: 28px 0;
+}
+.fleet-management .w-33 h4 {
+	font-size: 20px;
+}
+.fleet-management .part20 h4 {
+	font-size: 20px;
+}
+.fleet-management .part20 img {
+	width: 80%;
+}/*******Logi Analysis********/
+.get-relevent .col-left {
+	padding: 0;
+	width: 100%;
+}
+.get-relevent .col-right {
+	width: 100%;
+}
+.discover-data .col-left {
+	width: 100%;
+}
+.discover-data .col-right {
+	width: 100%;
+	padding: 0;
+}
+.get-relevent img, .discover-data img {
+	width: 100%;
+}/*******Digital********/
+.Digital-tab-detail .col-50 {
+	width: 100%;
+}
+.Digital-tab-detail .imgpart {
+	text-align: center;
+}
+.Digital-tab-detail .toppadding40, .XAmarin-tab-detail .toppadding20, .XAmarin-tab-detail {
+	padding: 0;
+	margin: 0;
+}
+.Digital-advantages li {
+	width: 49%;
+}
+.Digital-platform {
+	padding: 50px 0 20px 0;
+}
+.service-inspiring ul li {
+	width: 49%;
+	margin: 0;
+}
+.cloudpdfsection .Rightsec li {
+	width: 46%;
+}
+.coloum .col-7, .coloum .col-3 {
+	width: 100%;
+}
+
+.salesforceServices .imagePart { width: 100%;}
+.salesforceServices .contentPart { margin-right: 0; width: 100%;}
+
+}
+@media only screen and (max-width:767px) {
+.homestrip {
+	margin-top: 0px;
+}
+.strip-content {
+	padding-left: 0px;
+	width: 100%;
+	text-align: center;
+}
+.stripimg {
+	margin: auto;
+	display: table;
+	position: relative;
+	padding-bottom: 20px;
+	top: 0px;
+}
+.stripimg {
+	margin: auto;
+	display: table;
+	margin-top: 8px;
+	float: none;
+}
+.resever-btn {
+	float: none;
+	margin: auto;
+	display: table;
+	margin-top: 15px;
+}
+.our-content {
+	padding-bottom: 10px;
+}
+.customers-solutions .carparking-tab1 a.parklist {
+	width: 50%;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.customers-solutions .zilla-tabs .zilla-nav li a, .customers-solutions .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 14px;
+	width: 240px;
+}
+.customers-solutions .zilla-tabs .zilla-nav li {
+	width: auto;
+}
+.customers-solutions {
+	background-size: auto 100%;
+}
+.smartcar-parking .container {
+	background: url(../images/carparking-bg4.jpg) no-repeat right 2px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.mobileoption {
+	background: url(../images/grash-bg.jpg) repeat;
+	width: 100%;
+	clear: both;
+	float: left;
+	height: 158px;
+	position: relative;
+}
+.parking-truning {
+	left: inherit;
+	right: 10px;
+	top: 40px;
+}
+.customers-solutions {
+	padding-top: 50px;
+}
+.man_iot_bg {
+	padding: 30px 0
+}
+.manufac_tab .zilla-tabs .zilla-nav {
+	width: 100%;
+	border-radius: 20px;
+}
+.manufac_tab .zilla-tabs .zilla-nav li {
+	padding: 0;
+	margin-bottom: 0px 0 10px
+}
+.manu_left {
+	width: 100%;
+}
+.manu_right {
+	width: 100%;
+}
+.manfac_iot_box1, .manfac_iot_box2, .manfac_iot_box3, .manfac_iot_box4 {
+	width: 100%;
+	padding: 0px 0 30px;
+}
+.manfac_iot_box1_bg, .manfac_iot_box2_bg, .manfac_iot_box3_bg, .manfac_iot_box4_bg {
+	width: 100%;
+	height: auto;
+}
+.manufac_blog1_bg {
+	width: 100%;
+}
+.manufac_blog2_bg {
+	width: 100%;
+}
+.iot_workshop_left {
+	width: 100%;
+}
+.iot_workshop_right {
+	width: 100%;
+	padding: 50px 0 0 0
+}/* Office 365 Start */
+.office365-tab .zilla-tabs .zilla-nav li a, .office365-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 14px;
+	width: 250px;
+}
+.office365-tab .zilla-tabs .zilla-nav li {
+	width: auto;
+}/* Xamarin New Start */
+.XAmarin-tab .zilla-tabs .zilla-nav li a, .XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 14px;
+	width: 250px;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li {
+	width: auto;
+}
+.mobilety-list {
+	margin-top: 25px;
+}
+.enterprise-video {
+	width: 100%;
+	text-align: center;
+}
+.emsSolutionstab-detail .col-60 {
+	width: 100%;
+}
+.emsSolutionstab-detail .col-40 {
+	width: 100%;
+}
+.tabblog-section {
+	float: left;
+}
+.technologies-logo li {
+	width: 32.333333%;
+	padding-bottom: 20px;
+}
+.emsSolution .contentSec {
+	width: 100%;
+	margin-right: 0px;
+}
+.emsSolution .pardotFormSec {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.iphn-cs-content {
+	padding-right: 0px;
+}/* Apple Watch Development Start */
+.appleWatchDev, .appleWatchTesti {
+	padding: 20px 0;
+}
+.appleWatchEnterprise h2, .appleWatchExpertise h2 {
+	padding: 0;
+	font-size: 38px;
+}
+.watchapp-screen img {
+	margin-right: 10px;
+}
+.appleWatchQuote blockquote p {
+	font-size: 30px;
+	line-height: 50px;
+}
+.appleWatchQuote2 blockquote p {
+	font-size: 28px;
+	line-height: 50px;
+}
+.appleWatchExpertise li {
+	width: 49%;
+}
+.appleWatchTesti .colum-50 {
+	width: 100%;
+}
+.appleWatchTesti h2 {
+	font-size: 35px;
+}/*******Logi Analysis********/
+.data-solution h3 {
+	font-size: 30px;
+}
+.data-solution h4 {
+	padding: 5px 0 30px;
+	font-size: 16px;
+}/******* android ********/
+.android-screen-margintop {
+	margin-top: 75px !important;
+}/* Digital New Start */
+.Digital-tab .zilla-tabs .zilla-nav li {
+	width: auto;
+}
+.service-inspiring ul li {
+	width: 46%;
+	padding: 0;
+}
+.cloudpdfsection .Rightsec li {
+	width: 100%;
+}
+.cloudpdfsection .Rightsec li img {
+	display: inline;
+	float: left;
+	left: inherit;
+	margin-left: 0;
+	position: inherit;
+}
+.whyCloud li {
+	border-radius: 0px;
+	min-height: inherit;
+}
+.webinar h3.webinar-icons {
+	height: 70px;
+	padding: 13px 0 0 102px;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li a, .XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a{width:100%;   }	
+
+.salesforceService li { margin-bottom: 25px; margin-right: 0; width: 100%;}
+
+
+
+}
+
+
+@media only screen and (max-width:600px) {
+.parking-truning {
+position: relative;
+left: 0px;
+right: 0px;
+margin: auto;
+top: 15px;
+}
+.parking-spaces {
+position: relative;
+left: 0px;
+right: 0px;
+margin: auto;
+top: 50px;
+}
+.mobileoption {
+height: 250px;
+}
+.smart-technology {
+padding-top: 35px;
+background-position: center -36px
+}
+.smart-technology h2 {
+font-size: 25px;
+}
+.smart-technology p {
+font-size: 15px;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li a, .XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+font-size: 15px;
+width: auto;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li:first-child, .XAmarin-tab .zilla-tabs .zilla-nav li, .XAmarin-tab .zilla-tabs .zilla-nav li:last-child {
+width: auto;
+}/* Cloud Consulting */
+.whyCloud li {
+border-radius: 40px;
+padding: 95px 20px 35px;
+min-height: inherit;
+margin: 7% 0;
+}
+.whyCloud li div.iconbox {
+top: -78px;
+}/* Apple Watch Development Start */
+.applewatchBanner h1 {
+font-size: 22px;
+line-height: 40px;
+padding-top: 40px;
+}
+.applewatchBanner a.viewmorebtn {
+font-size: 13px;
+}
+.appleWatchDev h2, .appleWatchEnterprise h2, .appleWatchExpertise h2 {
+font-size: 35px;
+padding-bottom: 30px;
+}
+.appleWatchDev {
+padding: 20px 0;
+}
+.watchapp-screen {
+text-align: center;
+}
+.appleWatchQuote blockquote p {
+font-size: 20px;
+line-height: 44px;
+}
+.appleWatchQuote blockquote::before {
+background-size: 50%;
+background-position: left;
+}
+.appleWatchQuote blockquote::after {
+background-size: 50%;
+background-position: right;
+}
+.appleWatchQuote2 blockquote p {
+font-size: 20px;
+line-height: 44px;
+}
+.appleWatchQuote2 blockquote::before {
+background-size: 50%;
+background-position: left;
+}
+.appleWatchQuote2 blockquote::after {
+background-size: 50%;
+background-position: right;
+}
+.appleWatchEnterprise .colum-40 img {
+margin: 10px 0 30px;
+}
+.watchapp-screen img {
+margin: 0 0 10px 0;
+}
+.appleWatchExpertise li {
+width: 100%;
+}
+.appleWatchTesti .colum-50 {
+width: 100%;
+}
+.appleWatchTesti h2 {
+font-size: 28px;
+padding-bottom: 0;
+}
+.appleWatchEnterprise, .appleWatchExpertise, .appleWatchTesti {
+padding: 30px 0;
+}
+.testi .img-box, .testi h3 {
+text-align: center;
+padding: 20px 0 0;
+}
+.testi .img-file, .testi h3 {
+float: none;
+margin: 0;
+}
+.testi p {
+padding: 10px;
+}
+.our-expertise li {
+padding: 0 0 10px 0;
+width: 100%;
+}/* Digital New Start */
+.Digital-tab .zilla-tabs .zilla-nav li:first-child, .Digital-tab .zilla-tabs .zilla-nav li, .Digital-tab .zilla-tabs .zilla-nav li:last-child {
+width: auto;
+}
+.service-inspiring ul li {
+width:100%;
+padding:0;
+margin:0;
+}
+.service-inspiring i {
+margin-right:0;
+}
+}
+@media only screen and (min-width:480px) and (max-width:767px) {
+.manufac_blog_bg, .manufac_blog2 {
+	padding: 100px 0 130px;
+	height: 630px;
+}/* Office 365 Start */
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details {
+	padding-left: inherit;
+	padding-top: 228px;
+	text-align: center;
+}
+.office-cons-service {
+	padding-top: 0;
+}
+.microsoft-office-consulting .leftRightWrap {
+	margin-bottom: 0;
+}
+.power-office-tool li {
+	width: 100%;
+	margin: 0 0 18%;
+}
+.power-office-tool {
+	padding: 40px 0 20px;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details p {
+	font-size: 16px;
+}
+.office365-service div.graylistbox {
+	width: 97%;
+}
+.office365-conversion h4.getintuch-title1 {
+	font-size: 27px;
+}
+.office365-conversion .msa-getintouch .btnsec {
+	margin: 0 0 20px;
+}
+.office365-tab .zilla-tabs .zilla-nav li:first-child a, .office365-tab .zilla-tabs .zilla-nav li:last-child a {
+	border-radius: 30px !important;
+}
+.office365-tabdetail .Leftsec, .office365-tabdetail .Rightsec {
+	width: 100%;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	font-size: 14px;
+	margin: 22px 0 0 55px;
+}
+.office365-cs-sec li {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.office365-cs-sec {
+	padding: 30px 0;
+}
+.whyoffice365 ul li {
+    margin: 12px 10px;
+    width: 45%;	
+}
+.whyoffice365 ul li h4 {
+	padding: 8px 0 0;
+	font-size: 16px;
+}
+.whyoffice365 ul li img {
+	margin-right: 8px;
+}/* Xamarin New Start */
+.XAmarin-tab-detail .col-50, .office365-tabdetail .imgpart {
+	width: 100%;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li:first-child a, .XAmarin-tab .zilla-tabs .zilla-nav li:last-child a {
+	border-radius: 7px 7px 0 0 !important;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li:first-child, .XAmarin-tab .zilla-tabs .zilla-nav li, .XAmarin-tab .zilla-tabs .zilla-nav li:last-child {
+	width: 90%;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active.ui-tabs-active::after {
+	background: none;
+}
+.XAmarin-tab .bluelgtbg {
+	padding: 0 0 50px;
+	margin-top: -25px;
+}
+.XAmarin-tab-detail .col-50, .office365-tabdetail .imgpart {
+	width: 100%;
+}
+.Xamarin-why-choose {
+	padding: 0 0 20px;
+}
+.Xamarin-why-choose ul {
+	margin-top: 20px;
+}
+.XAmarin-tab-detail {
+	padding-top: 30px;
+}
+.Xamarin-why-choose li {
+	width: 100%;
+	margin-left: 0;
+}
+.Xamarin-platform .col-50 {
+	width: 100%;
+}
+.Xamarin-advantages li {
+	width: 98%;
+	margin: 10% 1% 0 0;
+}
+.Xamarin-platform {
+	padding: 0 0 50px 0;
+}/* Cloud Consulting */
+.CloudCons-agility {
+	padding: 0;
+}
+.CloudCons-agility .cc-lftpart, .CloudCons-agility .cc-rgtpart {
+	width: 100%;
+	float: none;
+}
+.CloudConswp .xamarinwp .details {
+	padding-top: 250px;
+}
+.Cloud-softweb-you li img {
+	left: 50%;
+	margin-left: -40px;
+}
+.Cloud-softweb-you li div.Cloud-softweb-you-detail {
+	padding: 85px 0 0 0;
+	text-align: center;
+}
+.cloud-computing ul {
+	text-align: center;
+}
+.cloud-computing li {
+	width: 49%;
+	text-align: center;
+}
+.cloud-computing li img {
+	position: inherit;
+	left: inherit;
+	top: inherit;
+	margin: 0;
+}
+.whyCloud li {
+	width: 100%;
+	margin: 8% 0;
+	padding: 94px 20px 20px
+}
+.whyCloud li:last-child {
+	margin-bottom: 0;
+}
+.whyCloud li div.iconbox {
+	left: 50%;
+	margin-left: -75px;
+	top: -62px;
+}
+.BenefitCloud li {
+	width: 100%;
+	margin: 5% 0;
+}
+.cloudAdoption li div.process-arrowtop, .cloudAdoption li div.process-arrowbtm {
+	display: none;
+}
+.cloudAdoption li {
+	background: #e5e5e5;
+	width: 100%;
+	border-radius: 25px;
+	height: auto;
+	padding: 15px 23px;
+	margin: 0 0 25px;
+	border: solid 1px #aeaeae;
+}
+.cloudAdoption li:hover {
+	background: #d8513f;
+	border: solid 1px #d8513f;
+}/* Apple Watch Development Start */
+.applewatchBanner h1 {
+	font-size: 30px;
+	line-height: 40px;
+	padding-top: 40px;
+}
+.appleWatchDev h2 {
+	font-size: 40px;
+}
+.appleWatchQuote blockquote::before {
+	background-size: 50%;
+	background-position: left;
+}
+.appleWatchQuote blockquote::after {
+	background-size: 50%;
+	right: 0;
+	background-position: right;
+}
+.appleWatchQuote2 blockquote p {
+	font-size: 20px;
+	line-height: 44px;
+}
+.appleWatchQuote2 blockquote::before {
+	background-size: 50%;
+	background-position: left;
+}
+.appleWatchQuote2 blockquote::after {
+	background-size: 50%;
+	right: 0;
+	background-position: right;
+}
+.testi h3 {
+	text-align: left;
+}
+.fleetQuote blockquote p {
+	font-size: 18px;
+	line-height: 34px;
+}
+.fleetQuote blockquote::before {
+	background-size: 50%;
+	background-position: left;
+}
+.fleetQuote blockquote::after {
+	background-size: 50%;
+	right: 0;
+	background-position: right;
+}/* Digital New Start */
+.Digital-tab-detail .col-50, .office365-tabdetail .imgpart {
+	width: 100%;
+}
+.Digital-tab .zilla-tabs .zilla-nav li:first-child a, .Digital-tab .zilla-tabs .zilla-nav li:last-child a {
+	border-radius: 7px 7px 0 0 !important;
+}
+.Digital-tab .zilla-tabs .zilla-nav li.ui-tabs-active.ui-tabs-active::after {
+	background: none;
+}
+.Digital-tab .bluelgtbg {
+	padding: 0 0 50px;
+	margin-top: -25px;
+}
+.Digital-tab-detail .col-50, .office365-tabdetail .imgpart {
+	width: 100%;
+}
+.Digital-why-choose {
+	padding: 0 0 20px;
+}
+.Digital-why-choose ul {
+	margin-top: 20px;
+}
+.Digital-tab-detail {
+	padding-top: 30px;
+}
+.Digital-why-choose li {
+	width: 100%;
+	margin-left: 0;
+}
+.Digital-platform .col-50 {
+	width: 100%;
+}
+.Digital-advantages li {
+	width: 98%;
+	margin: 10% 1% 0 0;
+}
+.Digital-platform {
+	padding: 0 0 50px 0;
+}
+.office365-tabdetail .Rightsec li {
+	width: 100%;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	margin: 15px 0 0 55px;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	margin: 65px 0 0 0;
+	text-align: center;
+}
+.office365-tabdetail .Rightsec li img {
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+}
+}
+@media only screen and (max-width:550px) {
+.customers-solutions .zilla-tabs .zilla-nav li:first-child {
+	right: 0px;
+	width: 100%;
+}
+.customers-solutions .zilla-tabs .zilla-nav li:last-child {
+	left: 0px;
+	width: 100%;
+}
+.customers-solutions .zilla-tabs .zilla-nav li a, .customers-solutions .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 14px;
+	width: 100%;
+}
+.customers-solutions .carparking-tab1 a.parklist {
+	width: 100%;
+}/* Office 365 Start */
+.office365-tab .zilla-tabs .zilla-nav li:first-child {
+	right: 0px;
+	width: 100%;
+}
+.office365-tab .zilla-tabs .zilla-nav li:last-child {
+	left: 0px;
+	width: 100%;
+}
+.office365-tab .zilla-tabs .zilla-nav li a, .office365-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 16px;
+	width: 100%;
+}/* Xamarin New Start */
+.XAmarin-tab .zilla-tabs .zilla-nav li a, .XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active a, .zilla-tabs .zilla-nav li a {
+	font-size: 16px;
+	width: 100%;
+}
+.Xamarin-advantages h4 {
+	width: 100%;
+}
+.iphn-cs-content-right {
+	padding-left: 0px;
+}/* Apple Watch Development Start */
+.applewatchBanner h1 {
+	font-size: 22px;
+	line-height: 40px;
+	padding-top: 40px;
+}
+.applewatchBanner a.viewmorebtn {
+	font-size: 13px;
+}
+.appleWatchDev h2, .appleWatchEnterprise h2, .appleWatchExpertise h2 {
+	font-size: 35px;
+	padding-bottom: 30px;
+}
+.appleWatchDev {
+	padding: 20px 0;
+}
+.watchapp-screen {
+	text-align: center;
+}
+.appleWatchQuote blockquote, .appleWatchQuote2 blockquote {
+	padding: 15px 30px 15px 45px;
+}
+.appleWatchQuote blockquote p {
+	font-size: 23px;
+	line-height: 44px;
+}
+.appleWatchQuote blockquote::before {
+	background-size: 30%;
+	background-position: left;
+	left: 2%;
+	top: -6px;
+}
+.appleWatchQuote blockquote::after {
+	background-size: 30%;
+	background-position: right;
+	right: 0
+}
+.appleWatchQuote2 blockquote p {
+	font-size: 23px;
+	line-height: 44px;
+}
+.appleWatchQuote2 blockquote::before {
+	background-size: 30%;
+	background-position: left;
+	left: 2%;
+	top: -6px;
+}
+.appleWatchQuote2 blockquote::after {
+	background-size: 30%;
+	background-position: right;
+	right: 0
+}
+.appleWatchEnterprise .colum-40 img {
+	margin: 10px 0 30px;
+}
+.watchapp-screen img {
+	margin: 0 0 10px 0;
+}
+.appleWatchExpertise li {
+	width: 100%;
+}
+.appleWatchTesti .colum-50 {
+	width: 100%;
+}
+.appleWatchTesti h2 {
+	font-size: 28px;
+	padding-bottom: 0;
+}
+.appleWatchEnterprise, .appleWatchExpertise, .appleWatchTesti {
+	padding: 30px 0;
+}
+.testi .img-box, .testi h3 {
+	text-align: center;
+	padding: 20px 0 0;
+}
+.testi .img-file, .testi h3 {
+	float: none;
+	margin: 0;
+}
+.testi p {
+	padding: 10px;
+}/*25-08-15 */
+.w-60per {
+	width: 100%;
+}
+.w-40per {
+	width: 100%;
+}
+.fleet-management .part20 {
+	width: 50%;
+}
+.fleet-management .smattransport .need {
+	width: 100%;
+	margin-bottom: 35px;
+	margin-right: 0;
+}
+.fleet-management .smattransport .solution {
+	width: 100%;
+	margin-bottom: 35px;
+	margin-left: 0;
+	margin-right: 0;
+}
+.fleet-management .smattransport .benefits {
+	width: 100%;
+	margin-bottom: 35px;
+	margin-left: 0;
+}
+.fleet-content .w-60per_left {
+	width: 51%
+}
+.fleet-management .w-33 {
+	width: 100%;
+}
+.cloudpdfsection .office-pdf-sec h4 {
+	margin: 15px 0 0 55px;
+}
+.cloudpdfsection .office-pdf-sec h4 {
+	margin: 65px 0 0 0;
+	text-align: center;
+}
+.cloudpdfsection .Rightsec li img {
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+}
+.office365-tabdetail .Rightsec li {
+	width: 100%;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	margin: 15px 0 0 55px;
+}
+.office365-tabdetail .office-pdf-sec h4 {
+	margin: 65px 0 0 0;
+	text-align: center;
+}
+.office365-tabdetail .Rightsec li img {
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+}
+.webinar h3.webinar-icons {
+	background-size: contain;
+	background-position: top left;
+	padding: 0 0 0 100px;
+	font-size: 20px;
+}
+
+.salesforceService li div.salesforceService-detail { padding-left: 80px;}
+
+}
+@media only screen and (max-width:479px) {
+.manufac_tab .zilla-toggle-inner, .zilla-tabs .zilla-tab {
+padding: 10px 0 20px;
+}
+.manufac_tab .zilla-tabs .zilla-nav {
+border-radius: 0;
+}
+.manufac_tab .zilla-tabs .zilla-nav .ui-tabs-selected a, .manufac_tab .zilla-tabs .zilla-nav .ui-tabs-active a {
+border-radius: 0;
+padding: 15px 29px;
+}
+.manufac_tab .zilla-tabs .zilla-nav li:last-child {
+left: 0;
+}
+.manufac_blog_bg, .manufac_blog2 {
+padding: 100px 0 130px;
+}/* Office 365 Start */
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details {
+padding-left: inherit;
+padding-top: 228px;
+text-align: center;
+}
+.office-cons-service {
+padding-top: 0;
+}
+.microsoft-office-consulting .leftRightWrap {
+margin-bottom: 0;
+}
+.power-office-tool li {
+width: 100%;
+margin: 0 0 18%;
+}
+.power-office-tool {
+padding: 40px 0 20px;
+}
+.office-whitepaper-sec .xamarinwpWrap .xamarinwp .details p {
+font-size: 16px;
+}
+.office365-service div.graylistbox {
+width: 97%;
+}
+.office365-conversion h4.getintuch-title1 {
+font-size: 27px;
+}
+.office365-conversion .msa-getintouch .btnsec {
+margin: 0 0 20px;
+}
+.office365-tab .zilla-tabs .zilla-nav li:first-child a, .office365-tab .zilla-tabs .zilla-nav li:last-child a {
+border-radius: 30px !important;
+}
+.office365-tabdetail .Leftsec, .office365-tabdetail .Rightsec {
+width: 100%;
+}
+.office365-cs-sec li {
+width: 100%;
+margin-bottom: 20px;
+}
+.office365-cs-sec {
+padding: 30px 0;
+}
+.whyoffice365 ul li {
+width: 100%;
+
+}
+.whyoffice365 ul li h4 {
+padding: 8px 0 0;
+font-size: 16px;
+}
+.whyoffice365 ul li img {
+margin-right: 8px;
+}/* Xamarin New Start */
+.XAmarin-tab .zilla-tabs .zilla-nav li:first-child a, .XAmarin-tab .zilla-tabs .zilla-nav li:last-child a {
+border-radius: 7px 7px 0 0 !important;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li:first-child, .XAmarin-tab .zilla-tabs .zilla-nav li, .XAmarin-tab .zilla-tabs .zilla-nav li:last-child {
+width: 90%;
+}
+.XAmarin-tab .zilla-tabs .zilla-nav li.ui-tabs-active.ui-tabs-active::after {
+background: none;
+}
+.XAmarin-tab .bluelgtbg {
+padding: 0 0 50px;
+margin-top: -25px;
+}
+.XAmarin-tab-detail .col-50, .office365-tabdetail .imgpart {
+width: 100%;
+padding-top: 30px;
+}
+.Xamarin-why-choose {
+padding: 0 0 20px;
+}
+.Xamarin-why-choose ul {
+margin-top: 20px;
+}
+.Xamarin-why-choose li {
+width: 100%;
+margin-left: 0;
+}
+.Xamarin-platform .col-50 {
+width: 100%;
+}
+.Xamarin-advantages li {
+width: 98%;
+margin: 10% 1% 0 0;
+}
+.Xamarin-platform {
+padding: 0 0 50px 0;
+}/* Cloud Consulting */
+.CloudCons-agility {
+padding: 0;
+}
+.CloudCons-agility .cc-lftpart, .CloudCons-agility .cc-rgtpart {
+width: 100%;
+float: none;
+}
+.CloudConswp .xamarinwp .details {
+padding-top: 250px;
+}
+.Cloud-softweb-you li img {
+left: 50%;
+margin-left: -30px;
+}
+.Cloud-softweb-you li div.Cloud-softweb-you-detail {
+padding: 90px 0 0 0;
+text-align: center;
+}
+.cloud-computing li {
+width: 100%;
+text-align: center;
+}
+.cloud-computing li img {
+position: inherit;
+left: inherit;
+top: inherit;
+margin: 0;
+}
+.whyCloud li {
+width: 100%;
+margin: 15% 0;
+padding: 115px 20px 0;
+border-radius: 155px;
+min-height: 285px;
+}
+.whyCloud li:last-child {
+margin-bottom: 0;
+}
+.whyCloud li div.iconbox {
+left: 50%;
+margin-left: -75px;
+top: -62px;
+}
+.BenefitCloud li {
+width: 100%;
+margin: 5% 0;
+}
+.cloudAdoption li div.process-arrowtop, .cloudAdoption li div.process-arrowbtm {
+display: none;
+}
+.cloudAdoption li {
+background: #e5e5e5;
+width: 100%;
+border-radius: 25px;
+height: auto;
+padding: 15px 23px;
+margin-bottom: 25px;
+border: solid 1px #aeaeae;
+}
+.cloudAdoption li:hover {
+background: #d8513f;
+border: solid 1px #d8513f;
+}
+.mobilety-list li {
+width: 50%;
+}
+.mobilety-list li .services-box {
+height: 160px;
+padding: 0px;
+}
+.technologies-logo li {
+width: 49%;
+}
+.fleet-content .w-60per_left {
+width: 100%;
+margin-right: 0;
+text-align: center
+}
+.fleet-content .w-40per_left {
+width: 100%;
+}
+.fleetQuote blockquote p {
+font-size: 18px;
+line-height: 34px;
+}
+.fleetQuote blockquote::before {
+background-size: 50%;
+background-position: left;
+}
+.fleetQuote blockquote::after {
+background-size: 50%;
+right: 0;
+background-position: right;
+}
+.fleet-management .w-33 {
+width: 100%;
+}
+}
+@media only screen and (max-width:399px) {
+}/*************Softweb New Site Css add by by yogesh**********************/
+.Digital-tab-detail p {
+	text-align: center
+}
+.Digital-tab-detail .clearfix > p {
+	margin: 0 auto;
+	text-align: center;
+	width: 75%;
+}
+.manufacturing-list .listicon {
+	position: relative;
+	height: 75px;
+	width: 100%;
+	text-align: center;
+}
+.manufacturing-list .manufacturlist-content {
+	padding-left: 0;
+}
+.right_image_content {
+	margin-top: 40px;
+}
+.right_image_content .col-left {
+	box-sizing: border-box;
+	float: left;
+	margin: 0;
+	padding: 0 8% 0 0;
+	width: 34%;
+}
+.right_image_content .col-right {
+	box-sizing: border-box;
+	float: right;
+	margin: 0;
+	width: 65%;
+}
+.left_image_content {
+	margin-top: 40px;
+}
+.left_image_content .col-left {
+	box-sizing: border-box;
+	float: left;
+	margin: 0;
+	padding: 0 8% 0 0;
+	width: 65%;
+}
+.left_image_content .col-right {
+	box-sizing: border-box;
+	float: right;
+	margin: 0;
+	width: 34%;
+}
+.dark-bg .case-studies-custome p {
+	color: #ffffff;
+}
+.page_divider {
+	border-bottom: solid 1px #cfcfcf;
+}
+.viewmore_link {
+	text-decoration: underline;
+	color: #0282c3;
+	font-size: 14px;
+}
+.viewmore_link:hover {
+	text-decoration: none;
+}
+a.get-quote{padding:12px 18px; font-size: 17px;
+}

@@ -1,0 +1,5009 @@
+@charset "utf-8";
+.findus h3 {
+	font-size: 22px;
+}
+ul.pythonList {
+	overflow: hidden;
+}
+ul.pythonList li {
+	float: left;
+	width: 33%;
+}
+.ioat-banner h1 {
+	padding: 80px 0 30px;
+}
+.ioat-banner h1 em {
+	color: #fd3c16;
+}
+.ioat-talkus-sec {
+	text-align: center;
+	padding: 20px 0 60px 0;
+	border-bottom: solid 1px #d6d8db;
+}
+.ioat-talkus-sec h2 {
+	font-size: 46px;
+	color: #000000;
+	padding-bottom: 30px;
+}
+.ioat-talkus-sec h2 em {
+	color: #ff0000;
+}
+.ioat-talkus-sec h3 {
+	margin-top: 85px;
+	font-size: 26px;
+	font-weight: 700;
+}
+.ioat-talkus-sec h3 a {
+	text-decoration: underline;
+}
+.ioat-talkus-sec ul.ioat-talkus-list {
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li {
+	display: inline-block;
+	width: 22%;
+	border-radius: 100px;
+	color: #fff;
+	margin: 0 1%;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li.red-bg {
+	background: #fb6149;
+	padding: 20px 25px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li.yellow-bg {
+	background: #f2c029;
+	padding: 20px 25px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li.blue-bg {
+	background: #567cab;
+	padding: 20px 25px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li.navy-bg {
+	background: #48c6d5;
+	padding: 20px 25px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li p {
+	padding: 20px 25px;
+	color: #fff;
+	font-size: 18px;
+	line-height: 28px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li i {
+	padding: 20px 25px;
+	color: #fff;
+	font-size: 18px;
+	line-height: 28px;
+	font-style: normal;
+}
+.ioat-mid-content {
+	padding: 100px 0;
+	border-bottom: solid 1px #d6d8db;
+}
+.ioat-mid-content:last-child {
+	border: none;
+	padding-bottom: 0px;
+}
+.ioat-mid-content .lft-sec, .ioat-mid-content .rgt-sec {
+	width: 50%;
+	float: left;
+}
+.ioat-industry-content {
+	position: relative;
+	padding: 50px 40px 0 35px;
+}
+.ioat-industry-content .ioat-rgt-arrow {
+	position: absolute;
+	left: -65px;
+	top: 60px;
+}
+.ioat-industry-content .ioat-lft-arrow {
+	position: absolute;
+	right: -40px;
+	top: 60px;
+}
+.ioat-industry-content h2 {
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-bottom: 25px;
+}
+.ioat-industry-content h3 {
+	padding-bottom: 30px;
+}
+.ioat-industry-content a {
+	display: inline-block;
+}
+.text-right {
+	text-align: right;
+}
+.text-center {
+	text-align: center;
+}
+.ioat-industry-content-lft {
+	padding: 50px 85px 0 0;
+}
+.ioat-health-sec h2 {
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+.ioat-health-sec h3 {
+	padding-bottom: 10px;
+}
+.ioat-health-sec ul.ioat-health-list {
+	margin-top: 40px;
+}
+.ioat-health-sec ul.ioat-health-list li {
+	width: 48%;
+	display: inline-block;
+	vertical-align: top;
+}
+.ioat-health-sec ul.ioat-health-list li p {
+	padding: 25px 82px;
+}
+.ioat-health-sec ul.ioat-health-list li a {
+	display: inline-block;
+}
+.healthcare-service {
+	background: url(../images/healthcare-service-bg.jpg);
+	background-size: cover;
+	padding: 80px 0;
+	text-align: center;
+	margin-top: 50px;
+}
+.healthcare-service h2 {
+	font-size: 30px;
+	color: #fff;
+	padding-bottom: 60px;
+}
+.healthcare-service li {
+	display: inline-block;
+	vertical-align: top;
+	width: 24%;
+	margin: 0px;
+	padding: 0px 10px;
+}
+.healthcare-service li em {
+	overflow: hidden;
+	width: 100%;
+	display: block;
+}
+.healthcare-service li i {
+	font-size: 17px;
+	color: #fff;
+	font-style: normal;
+}
+.healthcare-service li em img {
+	-moz-transform: scale(1);
+	-webkit-transform: scale(1);
+	-o-transform: scale(1);
+	transition-duration: 0.4s;
+	width: 100%;
+	height: auto;
+}
+.healthcare-service li:hover em img {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transition-duration: 0.4s
+}
+.healthcare-service li img, .healthcare-service li span {
+	float: left;
+}
+.healthcare-service li span {
+	background: #fff;
+	padding: 20px 30px 20px 15px;
+	width: 100%;
+}
+.healthcare-service li span h3 {
+	font-size: 18px;
+	font-weight: 700;
+	color: #6969a0;
+	text-align: left;
+	text-transform: uppercase;
+	padding: 0 10px 0 0;
+}
+.healthcare-service li span br {
+	display: none;
+}
+.whitepaper-flip .colum-left {
+	float: right;
+}
+.whitepaper-flip .colum-right {
+	float: left;
+	margin-left: 0px;
+	margin-right: 5%;
+}
+.mhealth-section {
+	background: url(../images/mhealth-background.jpg) no-repeat center top;
+	padding: 100px 0px;
+	background-size: cover;
+}
+.mhealth-section h2 {
+	padding-bottom: 50px;
+}
+.mhealth-section p {
+	font-size: 16px;
+	color: #fff;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 60px;
+	line-height: 25px;
+}
+.healthcare-getintuch {
+	background: #f0f1f2;
+	padding: 60px 0px;
+}
+.healthcare-getintuch .container {
+	position: relative;
+}
+.healthcare-getintuch h4.getintuch-title1 {
+	color: #000000;
+	text-transform: uppercase;
+	font-size: 30px;
+	padding-right: 180px;
+	padding-bottom: 0px;
+}
+.healthcare-getintuch p {
+	position: absolute;
+	right: 0px;
+	top: 10px;
+	width: 275px;
+}
+.enterprise-banner-content {
+	text-align: center;
+	padding: 60px 0 0 0;
+}
+.enterprise-banner-content .cd-headline {
+	font-size: 42px
+}
+.enterprise-banner-content .cd-headline.loading-bar b {
+	top: inherit;
+}
+.enterprise-banner-content .cd-headline.loading-bar span {
+	padding: 0;
+}
+.enterprise-banner-content .cd-intro {
+	padding: 0;
+}
+.enterprise-banner-content h2 {
+	font-size: 20px;
+	color: #fff;
+}
+.enterprise-banner-content a {
+	display: inline-block;
+	margin-top: 40px;
+	position: relative;
+}
+.IoTworkshop-banner h1 {
+	padding: 50px 0 30px;
+	margin-top: 25px;
+}
+.IoTworkshop-banner h1 strong {
+	color: #fd3c16;
+	font-weight: 700;
+}
+.IoTworkshop-banner p {
+	font-size: 20px;
+}
+.IoTworkshop-banner p strong {
+	color: #fd3c16;
+	font-weight: 600;
+}
+.IoTgraybg {
+	background: #fafafa;
+	padding: 60px 0;
+}
+.IoT-solutions-indus h1 {
+	font-size: 38px;
+	color: #000;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.IoT-tab h4 {
+	font-size: 24px;
+	font-weight: 700;
+	padding: 15px 0;
+}
+.IoT-tab p a {
+	text-decoration: underline;
+}
+.IoT-tab p a.viewmorebtn {
+	text-decoration: none;
+}
+.IoT-tab .zilla-toggle-inner, .IoT-tab .zilla-tabs .zilla-tab {
+	padding: 50px 10px 20px 20px;
+}
+.IoT-tab .zilla-tabs .zilla-nav li {
+	margin: 0 10px -1px 0 !important;
+	width: 23%;
+}
+.IoT-tab .zilla-tabs .zilla-nav li a {
+	height: 65px;
+	padding: 0 10px;
+	line-height: 65px;
+	text-transform: uppercase;
+	font-size: 18px;
+	color: #767676;
+	text-align: center;
+	display: block;
+	background: #ffffff;
+	border: solid 1px #cecece!important;
+	border-top: solid 6px #cecece !important;
+	border-radius: 4px 4px 0 0!important;
+}
+.IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-selected a, .IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	font-size: 18px;
+	color: #767676 !important;
+	font-weight: 600;
+	border-top: solid 6px #2b9fd9!important;
+	position: relative;
+	overflow: inherit;
+}
+.IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-selected a:before, .IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-active a:before {
+	content: "";
+	display: inline-block;
+	width: 17px;
+	height: 11px;
+	background: url(../images/iot-solutions-tab-active-arrow.png) no-repeat top center;
+	position: absolute;
+	bottom: -11px;
+	left: 50%;
+	margin-left: -8px;
+}
+.IoT-tab .left {
+	width: 49%;
+	float: left;
+}
+.IoT-tab .right {
+	width: 48%;
+	float: right;
+}
+.IoTservice {
+	background: url(../images/azure-sectionbg.jpg) no-repeat;
+	background-size: cover;
+	padding: 60px 0;
+	text-align: center
+}
+.IoTservice h2 {
+	font-size: 38px;
+	color: #ffffff;
+	padding: 0 0 60px 0;
+	text-align: center;
+}
+.IoTservice ul li {
+	color: #fff;
+	width: 30%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 45px 25px 0;
+}
+.IoTservice ul li:last-child {
+	margin: 0;
+	text-align: center;
+	margin: 0 55px
+}
+.IoTservice ul li:nth-child(3n+0) {
+	margin: 0;
+}
+.IoTservice ul li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	color: #e7c14d;
+	padding-bottom: 17px;
+	margin-top: 10px;
+}
+.IoTservice ul li p {
+	font-size: 14px;
+	color: #fffefe;
+	line-height: 24px;
+}
+.IoT-business {
+	background: url(../images/start-building_bg.jpg) no-repeat top left #000;
+	background-size: cover;
+	padding: 60px 0;
+}
+.IoT-business h2 {
+	font-size: 38px;
+	padding-bottom: 30px;
+	color: #ffffff;
+}
+.IoT-business h2 em {
+	color: #ffffff;
+	font-style: normal
+}
+.IoT-business p {
+	display: inline-block;
+	padding: 0 20px 20px;
+	font-size: 16px;
+	line-height: 28px;
+	color: #ffffff;
+}
+.IoT-business p a.viewmorebtn {
+	display: inline-block;
+	padding: 18px 50px;
+	font-size: 25px;
+	border-radius: 60px;
+	margin-top: 15px;
+	background: #ffc000;
+	color: #1b2c33;
+}
+.zilla-tabs .zilla-tab {
+	background: none;
+	border: 0;
+}
+.SmartBuilding-banner h1 {
+	padding: 50px 0 30px;
+	margin-top: 25px;
+}
+.SmartBuilding-banner h1 strong {
+	color: #fd3c16;
+	font-weight: 700;
+}
+.SmartBuilding-banner p {
+	font-size: 20px;
+}
+.SmartBuilding-banner p strong {
+	color: #fd3c16;
+	font-weight: 600;
+}
+.smartBuilding-testi {
+	padding-bottom: 50px;
+}
+.smartBuilding-testi h4 {
+	color: #818181;
+	font-size: 30px;
+	font-weight: 500;
+	text-align: right;
+	display: inline-block;
+	margin-top: 15px;
+}
+.smartBuilding-testi h4 span {
+	font-size: 21px;
+}
+.aware-systems {
+	padding: 60px 0;
+	background: #f0f0f0;
+	text-align: center
+}
+.aware-systems h2 {
+	color: #000000;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.aware-systems a.viewmorebtn {
+	padding: 15px 32px;
+	border-radius: 40px;
+	margin-top: 20px;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 600;
+}
+.bulding_info {
+	background: #c7d4db;
+	background-size: cover;
+	padding: 60px 0 0 0;
+	text-align: center;
+}
+.bulding_info h2 {
+	font-size: 38px;
+	color: #ffffff;
+	padding: 0 0 60px 0;
+	text-align: center;
+}
+.bulding_info ul li {
+	color: #fff;
+	width: 45%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 45px 40px 0;
+}
+.bulding_info ul li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	color: #000101;
+	text-transform: uppercase;
+	padding-bottom: 17px;
+	margin-top: 10px;
+}
+.bulding_info ul li p {
+	font-size: 14px;
+	color: #325b6d;
+	line-height: 24px;
+}
+.schedule-chart {
+	background: #343e44;
+	background-size: cover;
+	padding: 0px 0 60px 0;
+	text-align: center;
+}
+.schedule-chart .viewmorebtn {
+	background: #db9c2e;
+	display: inline-block;
+	padding: 20px 52px;
+	font-size: 20px;
+	font-weight: 700;
+	border-radius: 40px;
+}
+.schedule-chart .viewmorebtn:hover {
+	background: #73838c;
+}
+.use-cases {
+	padding: 60px 0 15px 0;
+	text-align: center
+}
+.use-cases h2 {
+	font-size: 30px;
+	color: #000000;
+	padding: 0 0 60px 0;
+	text-align: center;
+}
+.use-cases ul li {
+	color: #fff;
+	width: 30%;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 45px 25px 0;
+}
+.use-cases ul li:last-child {
+	margin: 0;
+	text-align: center;
+	margin: 0 55px
+}
+.use-cases ul li:nth-child(3n+0) {
+	margin: 0;
+}
+.use-cases ul li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	color: #000101;
+	padding-bottom: 17px;
+	margin-top: 20px;
+	text-transform: uppercase;
+}
+.use-cases ul li p {
+	font-size: 14px;
+	color: #606060;
+	line-height: 24px;
+}
+.use-cases ul li .image {
+	width: 101px;
+	height: 101px;
+	margin: 0 auto;
+	border-radius: 100px;
+	line-height: 101px;
+}
+.use-cases ul li.red_tone .image {
+	background: #ef6968;
+}
+.use-cases ul li.blue_tone .image {
+	background: #79c7d4;
+}
+.use-cases ul li.black_tone .image {
+	background: #646c77;
+}
+.use-cases ul li .image img {
+	vertical-align: middle
+}
+.use-cases ul li .viewmorebtn {
+	display: inline-block;
+	padding: 10px 32px;
+}
+.use-cases ul li.red_tone .viewmorebtn {
+	background: #ef6968;
+}
+.use-cases ul li.blue_tone .viewmorebtn {
+	background: #79c7d4;
+}
+.use-cases ul li.black_tone .viewmorebtn {
+	background: #646c77;
+}
+.smart-building-system {
+	padding: 60px 0 45px 0;
+	text-align: center;
+	background: #f1f1f1;
+}
+.smart-building-system h2 {
+	font-size: 30px;
+	color: #000000;
+	padding: 0 0 60px 0;
+	text-align: center;
+}
+.smart-building-system ul li {
+	color: #fff;
+	width: 30%;
+	text-align: left;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 30px 25px 0;
+	padding: 20px;
+	min-height: 348px;
+}
+.smart-building-system ul li:last-child {
+	margin: 0;
+}
+.smart-building-system ul li:nth-child(3n+0) {
+	margin: 0;
+}
+.smart-building-system ul li h3 {
+	font-size: 24px;
+	font-weight: 700;
+	color: #ffffff;
+	padding-bottom: 17px;
+	margin-top: 10px;
+}
+.smart-building-system ul li p {
+	font-size: 15px;
+	color: #ffffff;
+	line-height: 24px;
+}
+.smart-building-system ul li.venues {
+	background: url(../images/smar_bulding_venues_bg.jpg);
+	background-size: cover;
+}
+.smart-building-system ul li.office {
+	background: url(../images/smar_bulding_office_bg.jpg);
+	background-size: cover;
+}
+.smart-building-system ul li.realestate {
+	background: url(../images/smar_bulding_realestate_bg.jpg);
+	background-size: cover;
+}
+.smartoffice-solution {
+	background: #b6e2ea;
+	padding: 60px 0px;
+}
+.smartoffice-solution h2 {
+	text-align: center;
+	padding-bottom: 35px;
+}
+.content-section p.smartoffice-content {
+	text-align: center;
+	padding: 30px 0px 50px 0px;
+}
+.smartoffice-sigzag {
+	padding-top: 50px;
+}
+.smartoffice-sigzag h2 {
+	text-align: center;
+}
+.smartoffice-sigzag p.powering-subtitle {
+	text-align: center;
+	padding: 0px 10%;
+}
+.smartoffice-graphic {
+	padding: 0px 0px 20px 0px;
+	text-align: center;
+	width: 100%;
+}
+.qutos-people {
+	font-size: 26px;
+	font-weight: bold;
+	color: #4d7b83;
+	font-style: italic;
+	width: 730px;
+	margin: auto;
+	text-align: center;
+	position: relative;
+	clear: both;
+}
+.qutos-people:before {
+	content: '“';
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: -40px;
+	top: -14px;
+	color: #fff;
+	font-size: 66px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+.qutos-people:after {
+	content: '”';
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	right: -14px;
+	bottom: 5px;
+	color: #fff;
+	font-size: 66px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+.qutos-name {
+	color: #4f8089;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 5px;
+}
+.smartoffice_content_bg {
+	width: 50%;
+}
+.smartoffice_content_bg p {
+	font-size: 16px;
+}
+.smartoffice_title {
+	width: 100%;
+	padding: 0 0 0px 0;
+	float: left
+}
+.smartoffice_title img {
+	display: inline;
+}
+.smartoffice_title h3 {
+	clear: none;
+	width: auto;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 20px 0 0 0;
+	line-height: 33px;
+	font-size: 24px;
+}
+.getintuch-design2 {
+	background: url("../images/smart-office-connect-bg.jpg") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.getintuch-title2 {
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	margin-bottom: 25px;
+}
+.getintuch-design2 a.viewmorebtn {
+	float: none;
+}
+.colum-100 {
+	text-align: center;
+}
+.smartoffice_white_bg .imageitem {
+	padding-top: 10px;
+}
+.smartoffice_white_bg .imageitem .alignleft {
+	margin-bottom: 0;
+	margin-right: 0;
+}
+.smartoffice_white_bg {
+	border-bottom: 1px solid #f0f0f0;
+	margin-bottom: 0px;
+	padding: 36px 0 0 0;
+}
+.smartoffice_gray_bg {
+	background: #ffffff;
+	background: -moz-linear-gradient(top, #ffffff 0%, #ededed 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #ededed));
+	background: -webkit-linear-gradient(top, #ffffff 0%, #ededed 100%);
+	background: -o-linear-gradient(top, #ffffff 0%, #ededed 100%);
+	background: -ms-linear-gradient(top, #ffffff 0%, #ededed 100%);
+	background: linear-gradient(to bottom, #ffffff 0%, #ededed 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed', GradientType=0);
+}
+.getintuch-row1 {
+	padding: 40px 0;
+	width: 100%;
+}
+.retail-iot-first-sec {
+	padding: 0 0 50px 0;
+}
+.retail-iot-first-sec .colum-left {
+	width: 50%;
+}
+.retail-iot-first-sec .colum-right {
+	width: 44%;
+	padding-top: 30px;
+}
+.iot-retail-delivering {
+	background: #ebeff2;
+	padding: 50px 0;
+}
+.iot-retail-delivering h2 {
+	font-size: 30px;
+}
+.iot-retail-delivering p {
+	font-size: 16px;
+	color: #606060;
+	padding-bottom: 50px;
+	line-height: 24px;
+}
+.iot-retail-delivering p:last-child {
+	padding: 0;
+}
+.iot-retail-delivering img {
+	margin-bottom: 30px;
+}
+.iot-retail-getintuch {
+	background: url(../images/retail-softwebhelp-bg.png) no-repeat top center;
+	background-size: cover;
+	padding: 60px 0px;
+}
+.iot-retail-getintuch .container {
+	position: relative;
+}
+.iot-retail-getintuch h4.getintuch-title1 {
+	color: #fff;
+	font-size: 28px;
+	padding-right: 180px;
+	padding-bottom: 0px;
+}
+.iot-retail-getintuch p {
+	position: absolute;
+	right: 0px;
+	top: 10px;
+	width: 205px;
+}
+.iot-retail-end-to-end {
+	padding: 60px 0;
+	border-bottom: solid 1px #d1d1d1;
+}
+.iot-retail-end-to-end h2 {
+	padding-bottom: 25px;
+}
+.iot-retail-end-to-end p {
+	padding: 0;
+}
+.iot-retail-end-to-end li {
+	padding-bottom: 60px;
+	position: relative;
+}
+.iot-retail-end-to-end li:last-child {
+	padding: 0;
+}
+.iot-retail-end-to-end li div.retail-solution-numbering {
+	background: #ebebeb;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	display: block;
+	position: absolute;
+	top: 10px;
+	left: 0;
+	transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+}
+.iot-retail-end-to-end li div > div {
+	transform: none;
+	font-size: 30px;
+	font-weight: 700;
+	color: #3f3f3f;
+	transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	margin: 4px 0 0;
+}
+.iot-retail-end-to-end li div.brd-text {
+	border-top: solid 5px #ebebeb;
+	padding: 15px 0 0 60px;
+	margin-left: 25px;
+	color: #606060;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 img {
+	margin: 0 3%;
+}
+.iot-retail-end-to-end li div.retail-quote {
+	margin: 3% 0% 0 7%;
+	background: #79b8d2;
+	border-bottom: solid 3px #4385aa;
+	padding: 25px 20px;
+}
+.iot-retail-end-to-end li div.retail-quote p {
+	font-size: 19px;
+	color: #fff;
+	padding: 0;
+	border: none;
+	margin: 0;
+}
+.iot-retail-end-to-end li div.retail-quote strong {
+	font-size: 38px;
+	font-weight: 700;
+	color: #fff;
+}
+.iot-retail-end-to-end li h3 {
+	padding: 50px 0 10px 0;
+	font-size: 20px;
+	font-weight: 700;
+	color: #3e3e3e;
+	text-transform: uppercase;
+}
+.iot-retail-end-to-end li strong {
+	font-size: 18px;
+	font-weight: normal;
+	color: #3e3e3e;
+	padding-bottom: 25px;
+}
+.iot-retail-end-to-end li strong.blue-txt {
+	font-size: 16px;
+	font-weight: 600;
+	color: #4385aa;
+	padding: 35px 0 20px;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+}
+.IoTnew-banner h1 {
+	padding: 50px 0 30px;
+	font-size: 54px;
+	line-height: 70px;
+}
+.IoTnew-banner h1 strong {
+	color: #fd3c16;
+	font-weight: 700;
+}
+.IoTnew-banner p {
+	font-size: 20px;
+}
+.IoTnew-banner p strong {
+	color: #fd3c16;
+	font-weight: 600;
+}
+.IoTnew-talkus {
+	padding: 30px 0 40px 0;
+}
+.IoTnew-talkus .resources-box {
+	border-bottom: solid 1px #e1e1e1;
+}
+.IoTnew-talkus .leftRightWrap .colum-left {
+	width: 58%;
+}
+.IoTnew-talkus .resources-box .resources-img {
+	height: 193px;
+}
+.IoTnew-talkus .resources-content {
+	padding: 10px 15px;
+}
+.IoTnew-talkus .resources-content h3 {
+	min-height: inherit;
+	border: none;
+	padding: 0;
+}
+.IoTnew-industries {
+	background: #f7f7f8;
+	padding: 60px 0;
+}
+.IoTnew-industries h2 {
+	font-size: 30px;
+	padding-bottom: 40px;
+}
+.IoTnew-industries li {
+	width: 340px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 2% 1.3%;
+	position: relative;
+	overflow: hidden;
+}
+.IoTnew-industries li img {
+	margin: 0;
+}
+.IoTnew-industries li span {
+	background: #fff;
+	padding: 30px 0;
+	text-align: center;
+	display: block;
+	margin-top: -4px;
+}
+.IoTnew-industries li span br {
+	display: none;
+}
+.IoTnew-industries li span h3 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: 700;
+	padding: 0;
+}
+.IoTnew-industries li div.iot-industries-popup {
+	background: #fff;
+	position: absolute;
+	top: 0;
+	text-align: center;
+	min-height: 325px;
+	transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	opacity: 0;
+	width: 100%;
+	right: -100%;
+}
+.IoTnew-industries li:hover div.iot-industries-popup {
+	display: block;
+	top: 0px;
+	opacity: 1;
+	transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.4s;
+	opacity: 1;
+	right: 0%;
+	width: 100%;
+}
+.IoTnew-industries li div.iot-industries-popup h3 {
+	font-size: 18px;
+	color: #2b9fd9;
+	border-bottom: solid 1px #f1f1f2;
+	padding: 30px 0;
+	margin-bottom: 30px;
+	font-weight: 700;
+}
+.IoTnew-industries li div.iot-industries-popup p {
+	font-size: 14px;
+	color: #606060;
+	padding: 0 20px 30px;
+}
+.IoTnew-industries li div.iot-industries-popup a {
+	font-size: 16px;
+	color: #2b9fd9;
+	background: url(../images/blue-arrow.png) no-repeat right 3px;
+	padding: 0 20px 0 0
+}
+.IoTnew-ready-business {
+	background: #e6e7e9;
+	padding: 50px 0;
+}
+.IoTnew-ready-business p a.viewmorebtn {
+	display: inline-block;
+}
+.IoTplusazure {
+	padding: 50px 0;
+}
+.IoTplusazure h2 {
+	padding-bottom: 60px;
+}
+.IoTplusazure li {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	text-align: center;
+	border-bottom: solid 1px #e3e3e3;
+	border-right: solid 1px #e3e3e3;
+	box-sizing: border-box;
+	position: relative;
+	margin-left: -4px;
+}
+.IoTplusazure li div.IoT-contact-banner {
+	background: #eeeeee;
+	padding-bottom: 23px;
+}
+.IoTplusazure li div.IoT-contact-banner img {
+	margin: 30px 0;
+}
+.IoTplusazure li div.IoT-contact-banner h3 {
+	padding-bottom: 30px;
+}
+.IoTplusazure li.brdrgt {
+	border-right: none;
+}
+.IoTplusazure li.brdbtm {
+	border-bottom: none;
+}
+.IoTplusazure li img {
+	margin: 50px 0 40px;
+}
+.IoTplusazure li h3 {
+	padding: 0 0 60px 0;
+	font-size: 16px;
+	color: #000000;
+}/******************infographics page css*************//**********pagination**********/
+.pagination {
+	clear: both;
+	padding: 20px 0;
+	position: relative;
+	font-size: 12px;
+	line-height: 13px;
+	text-align: center;
+	font-weight: bold;
+}
+.pagination span, .pagination a {
+	display: inline-block;
+	margin: 2px 5px 2px 0;
+	padding: 6px 9px 5px 9px;
+	text-decoration: none;
+	width: auto;
+	color: #969696;
+	border-radius: 15px;
+	border: solid 1px #bcbcbc;
+	transition-duration: 0.3s;
+}
+.pagination a:hover {
+	color: #fff;
+	background: #2b9fd9;
+	border: solid 1px #2b9fd9;
+	transition-duration: 0.3s;
+}
+.pagination .current {
+	padding: 6px 9px 5px 9px;
+	background: #2b9fd9;
+	color: #fff;
+	border: solid 1px #2b9fd9;
+}/**********pagination**********/
+.infographics-page h1 {
+	color: #0a83bf;
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: normal;
+	padding-top: 6px;
+	padding-left: 7px;
+}
+.infographic-list {
+	width: 100%;
+	clear: both;
+	padding: 25px 0px 0px 0px;
+}
+.infographic-list li {
+	width: 25%;
+	padding: 0px 15px 25px 10px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -3px;
+}
+.infographic-box {
+	border: 1px #e6e6e6 solid;
+	min-height: 320px;
+	position: relative;
+	box-shadow: 0 0 5px #d8d8d8;
+	overflow: hidden;
+}
+.infographic-box:after {
+	transition-duration: 0.3s;
+	content: ".";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: -101%;
+	left: 0px;
+	background-color: rgba(29, 31, 37, 0.9);
+	font-size: 0px;
+}
+.infographic-box:hover:after {
+	content: ".";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	transition-duration: 0.3s;
+	background-color: rgba(29, 31, 37, 0.9);
+	font-size: 0px;
+}
+.infographic-box .info-img {
+	padding: 5px;
+	overflow: hidden;
+	height: 195px;
+}
+.infographic-box .info-img img {
+	width: 100%;
+	height: auto;
+	transition-duration: 0.3s;
+}
+.infographic-box:hover .info-img img {
+	transition-duration: 0.3s;
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+.infographic-box h2 {
+	font-size: 14px;
+	padding: 0px 10px;
+	padding-top: 25px;
+	text-align: center;
+	min-height: 75px;
+} /*.infographic-box .readmore-btn{background:#fff; padding:5px 18px; font-size:15px; color:#000; font-size:14px; text-align:center; margin:auto; display:table; margin-top:15px; border-radius:3px; position:absolute; left:0px; right:0px; top:50%; bottom:0px; opacity:0; transition-duration:0.3s; z-index:999999; margin-top:-18px;-moz-transform:scale(0.5);-webkit-transform:scale(0.5);-o-transform:scale(0.5);-ms-transform:scale(0.5);transform:scale(0.5); opacity:0; width:115px; }   .infographic-box:hover .readmore-btn{opacity:1; transition-duration:0.3s; transition-duration:0.5s;-moz-transform:scale(1.0);-webkit-transform:scale(1.0);-o-transform:scale(1.0);-ms-transform:scale(1.0);transform:scale(1.0);  }.infographic-box:hover .readmore-btn:hover{background:#e0e0e0; }*//**************magento page*****************/
+.banner-center {
+	text-align: center;
+	padding-top: 15px;
+}
+.magento-threebox .framwork-services li {
+	width: 33.33333%;
+	margin-left: -3px;
+}
+.magentobox {
+	padding: 20px;
+	background: #fcfcfc;
+	border: 1px #e0e0e0 solid;
+	min-height: 490px;
+}
+.magento-company-content {
+	padding: 50px 0px;
+	border-bottom: 1px solid #e7e7e7;
+	width: 100%;
+	float: left;
+}
+.magentolist .listing-view .icon-fram {
+	top: 8px;
+}
+.magentobox a {
+	margin-top: 15px;
+	display: block;
+}
+.magentobox a:hover {
+	text-decoration: underline;
+}
+.page-magento .sharepoint_clientsection {
+	border-top: 0px;
+	margin-top: 2px;
+}
+.twocolum-list li {
+	width: 50%;
+	float: left;
+}
+.wordpress-company-content {
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+}
+.wordpress-company-content h3 {
+	font-size: 22px;
+	padding-bottom: 17px;
+}
+.our-wordpress-dev {
+	background: #f0f1f2;
+	padding: 50px 0px;
+	display: inline-block;
+	width: 100%;
+}
+.infographic-box .readmore-btn {
+	background: #fff url(../images/viewicon.svg) no-repeat center;
+	padding: 5px 18px;
+	font-size: 15px;
+	color: #000;
+	font-size: 14px;
+	text-align: center;
+	margin: auto;
+	display: table;
+	position: absolute;
+	left: 50% !important;
+	right: 0px;
+	top: 50%;
+	bottom: 0px;
+	opacity: 0;
+	transition-duration: 0.5s;
+	z-index: 999999;
+	margin-top: -35px;
+	margin-left: -35px;
+	-moz-transform: scale(0.5);
+	-webkit-transform: scale(0.5);
+	-o-transform: scale(0.5);
+	-ms-transform: scale(0.5);
+	transform: scale(0.5);
+	opacity: 0;
+	width: 65px;
+	height: 65px;
+	font-size: 0px;
+	border-radius: 100px;
+	background-size: 34px;
+}
+.infographic-box:hover .readmore-btn {
+	opacity: 1;
+	transition-duration: 0.5s;
+	-moz-transform: scale(1.0);
+	-webkit-transform: scale(1.0);
+	-o-transform: scale(1.0);
+	-ms-transform: scale(1.0);
+	transform: scale(1.0);
+}
+.infographic-box .readmore-btn:hover {
+	background: #fff url(../images/viewicon.svg) no-repeat center;
+	background-size: 34px;
+	transition-duration: 0.3s
+}
+.infographic-box .readmore-btn:after {
+	width: 65px;
+	height: 65px;
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+	box-shadow: 0px 0px 0px 2px #fff;
+	content: ".";
+	font-size: 0px;
+	position: absolute;
+	margin: auto;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	border-radius: 100px;
+	bottom: 0px;
+}
+.angular-banner p {/*display:none;*/
+}
+.angular-service p {
+	font-size: 15px;
+	line-height: 25px;
+}
+.angular-service a.viewmorebtn {
+	display: inline-block;
+	margin-top: 5px;
+}
+.why-softweb-angular {
+	padding: 50px 0;
+	width: 100%;
+}
+.why-softweb-angular ul {
+	margin-top: 30px;
+}
+.why-softweb-angular ul li {
+	display: inline-block;
+	width: 16%;
+	vertical-align: top;
+	text-align: center;
+}
+.why-softweb-angular ul li h4 {
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 22px;
+	padding: 0 10px;
+}
+.icon_big {
+	min-height: 70px;
+}
+.angular-cs {
+	background: #9e9f96;
+	float: left;
+	width: 100%;
+}
+.angular-cs h2, .angular-cs p {
+	color: #fff;
+}
+.angular-cs a.viewmorebtn {
+	background: #4c4e43;
+	display: inline-block;
+	padding: 12px 38px;
+	font-size: 18px;
+}/* Microsoft Dynamics CRM Start */
+.microCrmBanner p {
+	color: #78809f;
+}
+.microCrmPartner .col60 {
+	width: 60%;
+	float: left;
+}
+.microCrmPartner .col35 {
+	width: 35%;
+	float: right;
+}
+.microCrmPartner h2 {
+	padding-bottom: 40px;
+}
+.microCrmPartner p {
+	font-size: 15px;
+	line-height: 26px;
+	color: #4c4c4c;
+	padding: 0 30px 20px 0;
+}
+.crmPortfolibox {
+	width: 100%;
+}
+.crmPortfolibox img {
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.crmPortfolibox > div {
+	border: solid 1px #e4e4e4;
+	padding: 12px 15px 20px;
+	text-align: center;
+	float: left;
+}
+.crmPortfolibox > div h4 {
+	padding-bottom: 10px;
+	color: #4c4c4c;
+	font-size: 16px;
+}
+.crmPortfolibox > div a {
+	display: inline-block;
+}
+.microCrmServiceBox {
+	width: 33.3333%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 50px 50px 30px;
+	float: left;
+	padding: 28px 20px 10px 20px
+}
+.microCrmServiceBox.marginlftrgtNone {
+	margin: 0;
+}
+.microCrmCollaborate h2 {
+	background: #445472 url(../images/microCrmServiceicon1.png) no-repeat 14px 12px;
+	padding: 0 0 0 70px;
+	height: 70px;
+	line-height: 75px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+}
+.microCrmServiceBox ul {
+	background: #fff;
+	border: solid 2px #445472;
+	border-radius: 0 0 5px 5px;
+	padding: 20px 5px 20px 20px;
+}
+.microCrmServiceBox ul li {
+	background: url(../images/crm-bluearrow.png) no-repeat left 5px;
+	padding: 0 0 10px 25px;
+	color: #445472;
+	font-size: 15px;
+}
+.microCrmBuild h2 {
+	background: #707d96 url(../images/microCrmServiceicon2.png) no-repeat 14px 12px;
+	padding: 0 0 0 70px;
+	height: 70px;
+	line-height: 75px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+}
+.microCrmBuild ul {
+	border: solid 2px #707d96;
+}
+.microCrmSupport h2 {
+	background: #a9b4c5 url(../images/microCrmServiceicon3.png) no-repeat 14px 12px;
+	padding: 0 0 0 70px;
+	height: 70px;
+	line-height: 75px;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+}
+.microCrmSupport ul {
+	border: solid 2px #a9b4c5;
+}
+.microCrmService {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	border-bottom: 1px #e0e0e0 solid;
+}
+.microCrmFeature {
+	width: 100%;
+	padding: 60px 0px 80px 0px;
+}
+.premisesBox {
+	background: #4db4c7;
+	width: 47%;
+	float: left;
+	padding: 20px 25px 25px 25px;
+	min-height: 380px;
+	position: relative;
+}
+.premisesBox h3 {
+	color: #1d626f;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	text-transform: uppercase;
+	padding-bottom: 25px;
+}
+.premisesBox ul {
+	margin-left: 10px;
+}
+.premisesBox ul li {
+	color: #ffffff;
+	font-size: 17px;
+	padding: 0px 0px 4px 25px;
+	background: url(../images/bulliet-2.png) no-repeat 0px 11px;
+}
+.onlineBox {
+	background: #89c481;
+	float: right;
+}
+.dynamics-features-wrapper {
+	padding-top: 115px;
+}
+.onlineBox h3 {
+	color: #477541;
+}
+.premises-icon {
+	width: 126px;
+	height: 126px;
+	border-radius: 100px;
+	background: #fff url(../images/on-premises-icon.png) no-repeat center;
+	border: 9px #4db4c7 solid;
+	position: absolute;
+	left: -20px;
+	top: -55px;
+}
+.Online-icon {
+	width: 126px;
+	height: 126px;
+	border-radius: 100px;
+	background: #fff url(../images/online-icon.png) no-repeat center;
+	border: 9px #89c481 solid;
+	position: absolute;
+	left: -20px;
+	top: -55px;
+}
+.microCrmDynamics {
+	border-bottom: 1px solid #e0e0e0;
+	padding: 50px 0 25px 0;
+	background: #414b5d;
+}
+.microCrmDynamics h2 {
+	color: #ffffff;
+	padding-bottom: 45px;
+}
+.microCrmDynamics .dyna-left {
+	width: 43%;
+	float: left;
+	margin-bottom: 10px;
+	min-height: 300px;
+}
+.microCrmDynamics .dyna-right {
+	width: 43%;
+	float: right;
+	margin-bottom: 10px;
+	min-height: 300px;
+}
+.microCrmDynamics h3 {
+	font-size: 20px;
+	color: #ffffff;
+	padding-left: 115px;
+	height: 105px;
+	margin-bottom: 15px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.microCrmDynamics p {
+	font-size: 15px;
+	color: #9ab0d6;
+}
+.microCrmDynamics h3.icon1 {
+	background: url(../images/crm-sales.png) no-repeat top left;
+}
+.microCrmDynamics h3.icon2 {
+	background: url(../images/crm-customer_service.png) no-repeat top left;
+}
+.microCrmDynamics h3.icon3 {
+	background: url(../images/crm_social_media.png) no-repeat top left;
+}
+.microCrmDynamics h3.icon4 {
+	background: url(../images/crm-marketing.png) no-repeat top left;
+}/* Microsoft Dynamics CRM End *//********************************************//*****************java page css**************/
+.development-panal {
+	background: #c7dfee;
+	color: #0a74a1;
+	padding: 75px 30px 30px 30px;
+}
+.number-dev {
+	float: left;
+	font-size: 130px;
+	font-weight: 600;
+	line-height: 130px;
+	position: relative;
+	top: -50px;
+	padding-right: 8px;
+}
+.number-dev sub {
+	font-size: 63px;
+	top: 0px;
+}
+.container .development-panal p {
+	color: #0a74a1;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 35px;
+}
+.section-wrap {
+	width: 100%;
+	padding: 70px 0px;
+	position: relative;
+}
+.section-wrap h2 {
+	text-align: center;
+}
+.javabanner .banner-colum-left {
+	color: #ffffff;
+	font-size: 28px;
+	font-weight: 200;
+	margin-top: 70px;
+	width: 52%;
+}
+.javabanner .banner-colum-right-img {
+	width: 42%;
+}
+.javabanner h1 {
+	font-size: 56px;
+	font-weight: 200;
+	color: #feffff;
+}
+.javabanner .banner-colum-right-img {
+	margin-top: 50px;
+}
+.java-services {
+	background: #f5f5f5;
+}
+.java-services .java-servicesbox {
+	width: 46%;
+	background: #ffffff;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	padding: 20px;
+	margin-top: 25px;
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	min-height:185px;
+	
+}
+.java-services .java-servicesbox.color2, .java-services .java-servicesbox.color4, .java-services .java-servicesbox.color6 {
+	margin-left: 4%;
+	width: 46%;
+}
+.java-services .java-servicesbox:before {
+	width: 5px;
+	height: 100%;
+	background: #000000;
+	content: "";
+	position: absolute;
+	left: 0px;
+	top: 0;
+}
+.java-services .java-servicesbox h3 {
+	font-size: 24px;
+}
+.java-services .java-servicesbox p {
+	padding-bottom: 10px;
+}
+.java-services .java-servicesbox.color1 h3 {
+	color: #16bbad;
+}
+.java-services .java-servicesbox.color1:before {
+	background: #16bbad;
+}
+.java-services .java-servicesbox.color2 h3 {
+	color: #f49c1e;
+}
+.java-services .java-servicesbox.color2:before {
+	background: #f49c1e;
+}
+.java-services .java-servicesbox.color3 h3 {
+	color: #db7ca6;
+}
+.java-services .java-servicesbox.color3:before {
+	background: #db7ca6;
+}
+.java-services .java-servicesbox.color4 h3 {
+	color: #5169b1;
+}
+.java-services .java-servicesbox.color4:before {
+	background: #5169b1;
+}
+.java-services .java-servicesbox.color5 h3 {
+	color: #9c76a9;
+}
+.java-services .java-servicesbox.color5:before {
+	background: #9c76a9;
+}
+.java-services .java-servicesbox.color6 h3 {
+	color: #29ba48;
+}
+.java-services .java-servicesbox.color6:before {
+	background: #29ba48;
+}
+.we_serve {
+	background: url(../images/we_serve_bg.jpg) no-repeat top left;
+	background-size: cover;
+	min-height: 423px;
+	padding: 50px 0;
+}
+.we_serve h2 {
+	font-size: 30px;
+	color: #fefefe;
+	text-align: center;
+}
+.we_serve ul {
+	margin-top: 30px;
+}
+.we_serve li {
+	float: left;
+	width: 16.66%;
+	text-align: center
+}
+.we_serve li div {
+	display: block;
+	color: #ffffff;
+	font-size: 18px;
+	margin-top: 10px;
+}
+.we_serve a.contact_bt {
+	background: #edb119;
+	border: solid 2px #edb119;
+	display: block;
+	margin: 0 auto;
+	width: 218px;
+	height: 54px;
+	line-height: 48px;
+	margin-top: 50px;
+	color: #fefefe;
+	font-size: 26px;
+	text-align: center;
+	border-radius: 30px;
+	font-weight: 600;
+	text-shadow: 2px 2px 2px #777;
+	transition: all 0.40s;
+	-moz-transition: all 0.40s;
+	-ms-transition: all 0.40s;
+	-o-transition: all 0.40s;
+	-webkit-transition: all 0.40s;
+}
+.we_serve a.contact_bt:hover {
+	background: #b58218;
+}
+.skillsets .block {
+	border-bottom: solid 1px #d5dae0;
+	padding: 25px 0;
+}
+.skillsets .block li {
+	display: inline-block;
+	vertical-align: middle;
+	width: 111px;
+	text-align: center;
+	margin: 0 20px;
+}
+.skillsets .block li.head {
+	background: url(../images/skillsets_head_bg.png) no-repeat left center;
+	width: 166px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	margin-left: 0px;
+}
+.skillsets .block.last {
+	border-bottom: 0;
+}
+.java_based .zilla-tabs {
+	margin-top: 25px;
+	margin-bottom: 0;
+}
+.java_based .bluelgtbg {
+	width: 100%;
+}
+.java_based .bluelgtbg {
+	background: #f9f9f9;
+	margin-top: -24px;
+	padding: 50px 30px 50px;
+}
+.java_based .ui-tabs-nav {
+	width: 100%;
+	text-align: center;
+}
+.java_based .zilla-tabs .zilla-tab {
+	padding: 20px 0;
+	padding-bottom: 0;
+}
+.java_based .zilla-tabs .zilla-nav li {
+	display: inline-block;
+	float: none;
+	padding: 0px;
+	margin: 0 5px 0 0 !important;
+	width: 35%;
+}
+.java_based .zilla-tabs .zilla-nav li a {
+	font-size: 17px;
+	font-weight: 600;
+	text-align: left;
+	border: 0px!important;
+	margin: 0px!important;
+	color: #085e95!important;
+	height: auto;
+	padding: 20px 20px 20px 20px;
+	border-radius: 8px 8px 0 0;
+	background: #d7dee6;
+	position: relative;
+	transition-duration: 0.3s;
+	overflow: inherit;
+	text-align: center
+}
+.java_based .zilla-tabs .zilla-nav li a:hover, .java_based .zilla-tabs .zilla-nav li.ui-tabs-active a {
+	color: #fff!important;
+	transition-duration: 0.3s;
+	background: #085e95 !important;
+}
+.java_based .zilla-tabs .zilla-nav li.ui-tabs-active a:after {
+	content: ".";
+	font-size: 0px;
+	position: absolute;
+	bottom: -13px;
+	text-align: center;
+	margin-left: -14px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 16px 15px 0 15px;
+	z-index: 999999;
+	left: 50%;
+	border-color: #085e95 transparent transparent transparent;
+}
+.java_based .emsSolutionstab-detail .col-50 {
+	float: left;
+	width: 50%;
+}
+.java_based .emsSolutionstab-detail .col-50 h2 {
+	color: #2b2e33;
+	font-size: 22px;
+	font-weight: 600;
+	padding: 0 0 15px 0;
+	text-align: left;
+}
+.java_based .emsSolutionstab-detail .col-50 p {
+	margin-bottom: 20px;
+}
+.java_based .emsSolutionstab-detail .col-50.imgpart {
+	float: right;
+}
+.java_based .blog-thumbimg img {
+	box-shadow: none;
+}
+.java_based .tabblog-section {
+	width: auto;
+	float: none;
+	text-align: right;
+}
+.sutron-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.container .sutronlist .iphn-cs-point h3 {
+	color: #106cad;
+}
+.shoppertrak-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.container .shoppertraklist .iphn-cs-point h3 {
+	color: #0080c9;
+}
+.container .shoppertraklist .iphn-cs-point a.get-quote {
+	border: solid 1px #0080c9;
+	color: #0080c9;
+}
+.container .shoppertraklist .iphn-cs-point a.get-quote:hover {
+	background: #0080c9;
+	color: #ffffff;
+}
+.container .sutronlist .iphn-cs-point a.get-quote {
+	border: solid 1px #106cad;
+	color: #106cad;
+}
+.container .sutronlist .iphn-cs-point a.get-quote:hover {
+	background: #106cad;
+	color: #ffffff;
+}
+
+/*****************Share Point page css**************/
+.SharePoint .dotnet_development-panal {
+	background: #c7dfee;
+	    padding: 30px 20px 25px 20px;
+}
+.SharePoint .dotnet_development-panal h2 {
+	color: #1a71a7;
+	font-size: 34px;
+	line-height: 125%;
+	padding-bottom:10px;
+}
+.SharePoint .dotnet_development-panal p.highlight_font {
+	color: #1a71a7;
+	font-size: 20px;
+	line-height:125%
+}
+.SharePoint .dotnet_development-panal span.bold_font{
+	font-size:31px;
+}
+
+/*****************java page css**************//*****************Dotnet page css**************/
+.dotnet_banner .banner-colum-left h1 {
+	font-weight: normal;
+	padding-bottom: 0;
+}
+.contentSec .dotnet_development-panal {
+	background: #c7dfee;
+	padding: 40px 50px 20px 50px;
+}
+.contentSec .dotnet_development-panal h2 {
+	color: #1a71a7;
+	font-size: 50px;
+	line-height: 50px;
+}
+.contentSec .dotnet_development-panal p {
+	color: #1a71a7;
+	font-size: 28px;
+}
+.contentSec .dotnet_development-panal .list li {
+	display: inline-block;
+	background: url(../images/bullate4.png) no-repeat left center;
+	padding-left: 20px;
+	margin-left: 15px;
+	color: #4693c3;
+	font-size: 18px;
+}
+.contentSec .dotnet_development-panal .list li:first-child {
+	padding-left: 0;
+	margin-left: 0;
+	background: none;
+}
+.readmore_link {
+	background: #49b7df;
+	font-size: 12px;
+	color: #ffffff;
+	width: 72px;
+	height: 25px;
+	line-height: 25px;
+	display: inline-block;
+	text-align: center;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.readmore_link:hover {
+	color: #ffffff;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.readmore_link:focus, .readmore_link:visited {
+	color: #ffffff;
+}
+.get-free-quote {
+	background: #edb119;
+	border: solid 2px #edb119;
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 54px;
+	line-height: 48px;
+	margin-top: 70px;
+	color: #fefefe;
+	font-size: 24px;
+	text-align: center;
+	border-radius: 30px;
+	font-weight: 600;
+	text-shadow: -1px 0 1px #999;
+	transition: all 0.40s;
+	-moz-transition: all 0.40s;
+	-ms-transition: all 0.40s;
+	-o-transition: all 0.40s;
+	-webkit-transition: all 0.40s;
+}
+.get-free-quote:hover {
+	background: #b58218;
+	color: #ffffff;
+}
+.get-free-quote:active, .get-free-quote:visited {
+	color: #ffffff;
+}
+.skillsets.dotnet .block li {
+	width: 142px;
+}
+.skillsets.dotnet .block li.head {
+	width: 166px;
+}
+.container .iphn-cs-content .subhead {
+	font-size: 20px;
+	color: #333;
+	padding: 5px 0 7px;
+	font-weight:500;
+}
+.fujifilm-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.container .fujifilmlist .iphn-cs-point h3 {
+	color: #24a37d;
+}
+.container .fujifilmlist .iphn-cs-point a.get-quote {
+	border: solid 1px #0080c9;
+	color: #0080c9;
+}
+.container .fujifilmlist .iphn-cs-point a.get-quote:hover {
+	background: #0080c9;
+	color: #ffffff;
+}
+.stamp-screen {
+	margin-top: 75px;
+	text-align: center;
+	padding-left:30px;
+}
+.container .stamplist .iphn-cs-point h3 {
+	color: #106cad;
+}
+.container .stamplist .iphn-cs-point a.get-quote {
+	border: solid 1px #0080c9;
+	color: #0080c9;
+}
+.container .stamplist .iphn-cs-point a.get-quote:hover {
+	background: #0080c9;
+	color: #ffffff;
+}
+.abb-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.container .abblist .iphn-cs-point h3 {
+	color: #464646;
+}
+.container .abblist .iphn-cs-point a.get-quote {
+	border: solid 1px #0080c9;
+	color: #0080c9;
+}
+.container .abblist .iphn-cs-point a.get-quote:hover {
+	background: #0080c9;
+	color: #ffffff;
+}
+.insite-screen {
+	margin-top: 75px;
+	text-align: center;
+}
+.container .insitelist .iphn-cs-point h3 {
+	color: #3f6e89;
+}
+.container .insitelist .iphn-cs-point a.get-quote {
+	border: solid 1px #0080c9;
+	color: #0080c9;
+}
+.container .insitelist .iphn-cs-point a.get-quote:hover {
+	background: #0080c9;
+	color: #ffffff;
+}
+.testimonials {
+	background: url(../images/testimonials_bg.jpg) no-repeat left center;
+	background-size: cover;
+	min-height: 370px;
+	padding: 50px 0;
+}
+.testimonials h2 {
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+}
+.testimonials p {
+	color: #ffffff;
+	font-size: 17px;
+	font-style: italic;
+	line-height: 30px;
+	padding-left: 25px;
+	background: url(../images/testimonials_top_quote.png) no-repeat left 5px;
+	margin-top: 15px;
+}
+.testimonials p:after {
+	content: " ";
+	background: url(../images/testimonials_bottom_quote.png) no-repeat left 5px;
+	display: inline-block;
+	width: 20px;
+	height: 26px;
+	margin-left: 5px;
+}
+.testimonials .name_details {
+	font-size: 17px;
+	color: #ffffff;
+	margin-bottom: 10px;
+	float: right
+}
+.testimonials .company {
+	color: #ffffff;
+	font-size: 14px;
+}
+#testimonials-slider.owl-theme .owl-controls .owl-page span {
+	background: #d1d1d1
+}
+#testimonials-slider.owl-theme .owl-controls .owl-page.active span, #testimonials-slider.owl-theme .owl-controls.clickable .owl-page:hover span {
+	background: #0080c9;
+}/*****************Dotnet page css**************/
+.morecontent {
+	display: none;
+}
+.java-services .java-servicesbox {
+	transition-duration: 0.3s
+}
+.displaycontent {
+	transition-duration: 0.3s
+}
+.displaycontent .morecontent {
+	display: inline;
+	transition-duration: 0.3s
+}    /*****************Data Analytics css**************/
+.DataAnalyticsBanner {
+	padding-top: 80px;
+}
+.DataAnalyticsBanner h1 {
+	font-size: 56px;
+}
+.DataAnalyticsBanner p {
+	font-size: 20px;
+}
+.dataAnalusisFirstSec {
+	padding: 30px 0;
+}
+.dataAnalusisFirstSec blockquote.lftArrow {
+	padding: 8px;
+	background-image: url(../images/data-blackquote-left.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	text-indent: 23px;
+	font-size: 29px;
+	width: 85%;
+	margin: 10px auto 0;
+}
+.dataAnalusisFirstSec blockquote p {
+	font-size: 29px;
+	text-align: center;
+	line-height: 45px;
+}
+.dataAnalusisFirstSec blockquote.lftArrow span {
+	display: block;
+	background-image: url(../images/data-blackquote-right.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+.dataSciService {
+	background: #f5f5f5;
+	padding: 50px 0;
+}
+.dataSciService p {
+	color: #252525;
+	font-size: 17px;
+}
+.dataSciService p.smallTxt {
+	color: #606060;
+	font-size: 14px;
+}
+.dataSciService ul {
+	margin: 10px 0 30px;
+}
+.dataSciService li {
+	background: url(../images/blue-bullet.png) no-repeat left 4px;
+	padding-left: 24px;
+	color: #606060;
+	font-size: 16px;
+	width: 50%;
+	float: left;
+	margin-top: 10px;
+}
+.DataAnalyticsTools {
+	padding: 50px 0;
+}
+.DataAnalyticsTools h2 {
+	padding-bottom: 30px;
+}
+.DataAnalyticsTools li {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	padding: 0 3% 0 0;
+	position: relative;
+}
+.DataAnalyticsTools li h3 {
+	font-size: 20px;
+	color: #000000;
+	padding-bottom: 5px;
+}
+.DataAnalyticsTools li p {
+	font-size: 14px;
+	color: #606060;
+}
+.DataAnalyticsTools li .iconPart {
+	background: url(../images/dataAnalyticsTools.png) no-repeat;
+	width: 56px;
+	height: 57px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.DataAnalyticsTools li .dataPart {
+	padding: 0 0 0 75px;
+}
+.DataAnalyticsTools li .iconPart .DataToolsIcon1 {
+	background-position: 0 0;
+}
+.DataAnalyticsTools li .DataToolsIcon2 {
+	background-position: -60px 0;
+}
+.DataAnalyticsTools li .DataToolsIcon3 {
+	background-position: -124px 0;
+}
+.DataAnalyticsTools li .DataToolsIcon4 {
+	background-position: -184px 0;
+}/********************************************//*****************SharePoint css**************/
+.sharepointBanner h1 {
+	font-size: 52px;
+	color: #1982c3;
+	padding-bottom: 20px;
+	line-height: normal;
+}
+.sharepointBanner p {
+	font-size: 16px;
+	color: #1982c3;
+	padding-bottom: 20px;
+}
+.sharepointBanner .weareImg {
+	float: left;
+	margin-top: 45px;
+}
+.sharePointContent .contentPart {
+	width: 50%;
+	margin-right: 2%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+}
+.sharePointContent .imagePart {
+	width: 47%;
+	display: inline-block;
+	vertical-align: top;
+}
+.sharepointGetintuch {
+	background: url(../images/sharepoint-getintuch-bg.jpg) no-repeat center;
+	background-size: cover;
+}
+.officePortal {
+	position: relative;
+}
+.office365 {
+	width: 50%;
+	background: #090b0c url(../images/sharepoint-office365bg.jpg) no-repeat right top;
+	background-size: cover;
+	position: absolute;
+	padding: 15px 0;
+	left: 0;
+	height: 100%;
+}
+.smartPortal {
+	width: 50%;
+	background: #000a12 url(../images/sharepoint-smartportalbg.jpg) no-repeat left top;
+	background-size: cover;
+	position: absolute;
+	padding: 15px 0;
+	right: 0;
+	height: 100%;
+}
+.officePortalDetail {
+	position: relative;
+	float: left;
+	width: 50%;
+	padding: 30px 0;
+}
+.smartPortal {
+	padding-left: 50px;
+}
+.officePortalDetail h1 {
+	font-size: 48px;
+	color: #2b9fd9;
+	font-weight: 200;
+}
+.officePortalDetail h2 {
+	font-size: 30px;
+	color: #fff;
+	padding: 10px 0 5px;
+}
+.officePortalDetail li {
+	background: url(../images/bullate3.png) no-repeat left 4px;
+	padding-left: 24px;
+	color: #ffffff;
+	font-size: 16px;
+	margin-top: 15px;
+}
+.officePortalDetail a {
+	display: inline-block;
+	margin-top: 35px;
+}/********************************************//*****************Android css**************/
+.AndroidDevBanner h1 {
+	font-size: 50px;
+	font-weight: normal;
+}
+.AndroidDevBanner p {
+	font-size: 20px;
+	line-height: 30px;
+}
+.AndroidDevBanner .banner-colum-right {
+	padding: 0;
+}
+.noPaddingTop {
+	padding-top: 0;
+}
+.award-winning {
+	padding: 50px 0;
+	border-bottom: 2px solid #eee;
+}
+.award-winning p {
+	font-size: 16px;
+	line-height: 28px;
+}
+.expertise-android {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.expertise-list {
+	margin: 0;
+	padding: 0;
+}
+.expertise-list li {
+	display: inline-block;
+	margin: 0;
+	padding: 60px 0 0;
+	width: 24%;
+	vertical-align: top;
+}
+.expertise-list h3 {
+	font-size: 22px;
+}
+.development-process {
+	background: #f4f4f4;
+	padding: 70px 0;
+}
+.development-process h2 {
+	padding-bottom: 80px;
+}
+.development-process li {
+	display: inline-block;
+	float: left;
+	margin: 0 2%;
+	text-align: center;
+	vertical-align: top;
+	width: 21%;
+	position: relative;
+}
+.development-process li div.process-arrowtop {
+	position: absolute;
+	right: -34px;
+	top: -10px;
+}
+.development-process li div.process-arrowtop-2 {
+	position: absolute;
+	right: -34px;
+	top: 90px;
+}
+.development-process h4 {
+	padding-top: 10px;
+}
+.development-process .app-strategy {
+	color: #fb6149;
+}
+.development-process .app-design {
+	color: #d0a41e;
+}
+.development-process .app-development {
+	color: #567cab;
+}
+.development-process .app-launch {
+	color: #48c6d5;
+}
+.mobile-plateform {
+	text-align: center;
+	padding: 80px 0
+}
+.mobile-plateform h2 {
+	font-size: 45px;
+}
+.mobile-plateform h3 {
+	font-size: 21px;
+	color: #262626;
+	padding-bottom: 30px;
+}
+.mobile-plateform a.crate-btn {
+	font-size: 15px;
+	padding: 10px 32px;
+	display: inline-block;
+}
+.border-bottom-Android {
+	border-bottom: solid 2px #e1e1e1;
+}
+.why-softweb {
+	text-align: center;
+	padding: 80px 0
+}
+.why-softweb h2 {
+	padding-bottom: 70px;
+}
+.why-softweb li {
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0 0 8px 0.5%;
+	position: relative;
+	text-align: center;
+	vertical-align: top;
+	width: 32.7%;
+}
+.why-softweb li:first-child {
+	margin-left: 0;
+}
+.why-softweb .developbg {
+	background: #5f90b0;
+	margin: 0;
+	padding: 30px 40px 0;
+	min-height: 320px;
+}
+.why-softweb .developbg:hover {
+	background: #2d668b;
+}
+.why-softweb h4 {
+	color: #fff;
+}
+.why-softweb p {
+	color: #fff;
+	line-height: 20px;
+	padding: 0;
+}
+.appleWatchTesti.Android-getin-toch {
+	padding-bottom: 50px;
+}/*****************iPhone Mobile Application css**************/
+.iphoneDevBanner a.viewmorebtn {
+	text-transform: none;
+}
+.iPhoneMobile {
+}
+.iPhoneMobile p {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.iPhoneMobile ul {
+	margin: 30px 0 0 0;
+padding:
+}
+.iPhoneMobile li {
+	display: inline-block;
+	margin: 30px 1% 10px;
+	text-align: center;
+	vertical-align: top;
+	width: 31%;
+}
+.iPhoneMobile li h4 {
+	color: #000;
+	font-size: 24px;
+	margin: 0;
+	padding: 40px 0 30px;
+}
+.embrace-platform {
+	background: rgba(0, 0, 0, 0) url("../images/embrace-bg.jpg") no-repeat scroll center center / cover;
+}
+.embrace-platform h3 {
+	color: #fff;
+	font-size: 40px;
+}
+.embrace-platform h4 {
+	color: #fff;
+	display: block;
+	padding: 15px 0 50px;
+}
+.embrace-platform a.viewmorebtn {
+	text-transform: none;
+}
+.domainexpertise-list li {
+	display: inline-block;
+	margin: 0;
+	padding: 60px 0 30px;
+	vertical-align: top;
+	width: 21%;
+}
+.expertise-main {
+	display: inline-block;
+}
+.domain-expertise h4 {
+	color: #6a6a6a;
+	text-transform: uppercase;
+	padding: 12px 0 0 0;
+}
+.domain-expertise-icon {
+	border: 2px solid #a0a0a0;
+	display: inline-block;
+	border-radius: 30px;
+	line-height: 0;
+	padding: 24px;
+	transition: all 0.3s ease-in-out 0s;
+}
+.domain-expertise-icon span {
+	width: 61px;
+	height: 61px;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	background: url(../images/domain-expertise-icon.png) no-repeat 0 0;
+	transition: all 0.3s ease-in-out 0s;
+}
+.expertise-main:hover .domain-expertise-icon {
+	background: #1982c3;
+	border: solid 2px #1982c3;
+}
+.expertise-main:hover h4 {
+	color: #1982c3;
+}
+.expertise-main:hover .healthcare-icon {
+	background-position: 0 -71px;
+}
+.expertise-main .manufacturing-icon {
+	background-position: -84px 0px;
+}
+.expertise-main:hover .manufacturing-icon {
+	background-position: -84px -71px;
+}
+.expertise-main .retail-icon {
+	background-position: -157px 0px;
+}
+.expertise-main:hover .retail-icon {
+	background-position: -157px -71px;
+}
+.expertise-main .education-icon {
+	background-position: -234px 0px;
+}
+.expertise-main:hover .education-icon {
+	background-position: -234px -71px;
+}
+.expertise-main .finance-icon {
+	background-position: 5px -140px;
+}
+.expertise-main:hover .finance-icon {
+	background-position: 5px -200px;
+}
+.expertise-main .sports-icon {
+	background-position: -86px -139px;
+}
+.expertise-main:hover .sports-icon {
+	background-position: -86px -199px;
+}
+.expertise-main .entertainment-icon {
+	background-position: -161px -139px;
+}
+.expertise-main:hover .entertainment-icon {
+	background-position: -161px -199px;
+}
+.expertise-main .logistic-icon {
+	background-position: -239px -137px;
+}
+.expertise-main:hover .logistic-icon {
+	background-position: -239px -197px;
+}
+.iPhone-app {
+	background: #f2f2f2;
+	padding-top: 70px;
+}
+.iPhone-app .imageitem {
+	padding-top: 5px;
+	text-align: center;
+	vertical-align: middle;
+	width: 250px;
+	display: table-cell;
+}
+.iPhone-app .iPhone-textdata {
+	display: table-cell;
+}
+.iPhone-app h3 {
+	font-size: 24px;
+	color: #1982c3;
+}
+.iPhone-app p {
+	font-size: 16px;
+	line-height: 30px;
+	color: #555555;
+}
+.iPhone-app .textright-align {
+	text-align: right;
+}
+.iPhone-app li {
+	margin: 0;
+	padding: 45px 0 15px;
+}
+.iphoneQuote {
+	background: url(../images/iphone-quote-bg.jpg) no-repeat;
+	background-size: cover;
+	padding: 30px 0;
+}
+.iphoneQuote blockquote {
+	display: block;
+	padding: 5px 20px 0px 45px;
+	margin: 0 0 20px;
+	position: relative;
+	font-size: 48px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+	font-style: normal;
+}
+.iphoneQuote blockquote p {
+	font-size: 44px;
+	text-align: center;
+	color: #fff;
+	line-height: 66px;
+	font-style: normal;
+	padding: 0 100px;
+}
+.iphoneQuote blockquote::before {
+	background: url(../images/apple-quote-left.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	left: 5%;
+	top: 5px;
+	content: "";
+	opacity: 0.4;
+}
+.iphoneQuote blockquote::after {
+	background: url(../images/apple-quote-right.png) no-repeat;
+	width: 96px;
+	height: 81px;
+	position: absolute;
+	right: 4%;
+	bottom: -12px;
+	content: "";
+	opacity: 0.4;
+}
+.iphoneQuote .smalllink {
+	font-size: 10px;
+	color: #fff;
+	text-align: right;
+	padding-right: 140px;
+}/********************************************//*****************IoT Workshop css**************/
+#IoTForm .IoTFormBg iframe {
+	min-height: 370px;
+}
+.IoTWorkshopBanner h1 {
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 55px;
+}
+.IoTWorkshopBanner img {
+	margin: 40px 0 20px 0;
+}
+#IoTForm {
+	margin-top: 0px;
+}
+.IoTForm-Hed {
+	text-align: center;
+	padding-bottom: 10px;
+}
+.IoTForm-Hed h2 {
+	font-size: 25px
+}
+#IoTForm .IoTFormBg {
+	background-color: rgba(0, 0, 0, 0.8);
+	padding: 10px 30px;
+	border-radius: 10px;
+}
+#IoTForm .IoTFormBg input[type="text"] {
+	background: #fff;
+	padding: 10px;
+	height: 55px;
+	color: #888888;
+	width: 100%;
+	font-size: 16px;
+	margin-bottom: 15px;
+	border-radius: 3px;
+	border: 2px solid #fff;
+}
+#IoTForm .IoTFormBg input[type="submit"] {
+	height: 55px;
+	border: 2px solid #0282c3;
+	background: #0282c3;
+	color: #fff;
+	width: 100%;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1px;
+	border-radius: 3px;
+}
+.whyIoTimportant {
+	padding: 30px 0 50px;
+}
+.whyIoTimportant h2 {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #292929;
+	font-weight: bold;
+	padding-bottom: 20px;
+	border-bottom: solid 1px #cccccc;
+	margin-bottom: 30px;
+	letter-spacing: 1px;
+}
+.whyIoTimportant li {
+	width: 33.3333%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+	padding: 0 30px;
+	margin-top: 30px;
+}
+.whyIoTimportant li img {
+	margin-bottom: 20px;
+}
+.whyIoTimportant li h3 {
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #292929;
+	padding-bottom: 20px;
+}
+.whyIoTimportant li p {
+	font-size: 14px;
+	color: #666666;
+	line-height: 24px;
+}
+.workShopAgenda {
+	background: #eaeaea;
+	padding: 90px 0 40px;
+}
+.workShopAgenda .lftSec {
+	width: 33%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.workShopAgenda .lftSec img {
+	margin-top: 20px;
+}
+.workShopAgenda .lftSec p {
+	padding-top: 20px;
+}
+.workShopAgenda .lftSec .wpSection {
+	background: #FFF;
+	padding: 50px 0;
+	width: 375px;
+	margin: 0 auto;
+	text-align: center;
+}
+.workShopAgenda .lftSec .wpSection img {
+	margin-bottom: 30px;
+}
+.workShopAgenda .lftSec .wpSection p {
+	font-size: 15px;
+	color: #666666;
+	line-height: 24px;
+}
+.workShopAgenda .lftSec .wpSection a.wpDownloadBtn {
+	background: #0282c3;
+	padding: 15px 40px;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+	display: inline-block
+}
+.workShopAgenda .rgtSec {
+	width: 60%;
+	float: right;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.workShopAgenda .rgtSec h2 {
+	font-size: 38px;
+	letter-spacing: 1px;
+	color: #222222;
+}
+.workShopAgenda .rgtSec p {
+	font-size: 14px;
+	color: #666666;
+	line-height: 24px;
+	padding-bottom: 10px;
+}
+.workShopAgenda .rgtSec ul {
+	margin-top: 10px;
+}
+.workShopAgenda .rgtSec li {
+	background: url(../images/bluesmallarrow.png) no-repeat left 3px;
+	padding: 0 0 5px 20px;
+	font-size: 14px;
+	color: #666666;
+	float: left;
+	width: 50%;
+}
+.workShopAgenda iframe {
+	min-height: 370px;
+}
+.companySection {
+	background: url(../images/iotcompanybg.jpg) no-repeat;
+	background-position: bottom center;
+	background-size: cover;
+	padding: 100px 0;
+	text-align: center;
+}
+.companySection h2 {
+	font-size: 32px;
+	color: #fff;
+	padding: 30px 0;
+}
+.companySection p {
+	font-size: 15px;
+	color: #fff;
+	line-height: 24px;
+}
+.clientLogoSec img {
+	margin-right: 20px;
+}
+.clientLogoSec br {
+	display: none;
+}
+.clientLogoSec img:last-child {
+	margin: 0;
+}/*****************IoT Workshop css**************//********Sitecore page***************/
+.sitecore-banner {
+	padding: 0px 0 0 0;
+	margin-top: 90px;
+}
+.sitecore-banner .banner-colum-left h1 {
+	font-size: 64px;
+	font-weight: 300;
+	padding-bottom: 50px;
+}
+.sitecore-banner .banner-colum-left p {
+	font-size: 20px;
+	padding-bottom: 50px;
+}
+.sitecore_certified .container {
+	padding: 0 70px;
+	border-bottom: solid 1px #cccccc;
+	padding-bottom: 30px;
+}
+.sitecore_certified .leftRightWrap .colum-right {
+	width: auto;
+}
+.sitecore_certified .leftRightWrap .colum-left {
+	width: 65%;
+}
+.sitecore_certified .leftRightWrap .colum-left p {
+	font-size: 17px;
+	line-height: 38px;
+}
+.sitecore-services-list li {
+	position: relative;
+	min-height: 200px;
+	padding-right: 25px;
+	width: 33.3333%;
+	margin-top: 50px;
+	float: left;
+}
+.sitecore-services-list .listicon {
+	width: 40px;
+	top: 0;
+}
+.sitecore-services-list .projectlist-content {
+	padding-left: 55px;
+}
+.sitecore-services-list .projectlist-content h4 {
+	font-size: 18px;
+	border: 0;
+	text-transform: uppercase;
+}
+.sitecore-upgrade .leftRightWrap .colum-left {
+	float: right;
+	width: 58%;
+	padding-top: 70px;
+}
+.sitecore-upgrade .leftRightWrap .colum-right {
+	float: left;
+}
+.getintuch-design3 {
+	background: #0282c3;
+}
+.getintuch-design3 .colum-30 {
+	float: right;
+	text-align: center;
+}
+.getintuch-design3 h4 {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.getintuch-design3 p {
+	font-size: 18px;
+	color: #ffffff;
+	padding-bottom: 0;
+}
+.getintuch-design3 a.viewmorebtn {
+	display: inline-block;
+	margin-top: 20px;
+	border: solid 2px #ffffff;
+	background: #0282c3;
+}
+.getintuch-design3 a.viewmorebtn:hover {
+	background: #2b9fd9;
+}
+.sitecore-benefits .listing-view li {
+	display: inline-block;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	vertical-align: top;
+	width: 50%;
+}
+.sitecore-benefits .listing-view li .listview-content {
+	padding-left: 55px;
+}
+.sitecore-benefits .listing-view li .listview-content h4 {
+	font-size: 18px;
+}
+.sitecore-benefits .listing-view li .icon-fram {
+	top: 0;
+	text-align: right;
+	width: 40px;
+}
+.sitecore-benefits .listing-view li {
+	width: 33.33%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+.sitecore-top-reasons {
+	background: #f8f8f8;
+}
+.sitecore-top-reasons .container {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.sitecore-top-reasons .sitecore-cms-left {
+	float: right;
+	text-align: right;
+}
+.sitecore-top-reasons .sitecore-cms-right {
+	float: left;
+	padding-top: 25px;
+}
+.sitecore-top-reasons .content-section p {
+	line-height: 30px;
+}
+.sitecore-top-reasons .viewmorebtn {
+	display: inline-block;
+	margin-top: 20px;
+}/******** Digital Manufacturing page Start ***************/
+h2.main-title {
+	color: #292929;
+	font-size: 14px;
+	padding: 0 0 25px;
+	margin-bottom: 10px;
+	border-bottom: solid 1px #cccccc;
+	font-weight: bold;
+}
+.manufacturing-list li {
+	position: relative;
+	padding-right: 35px;
+	width: 33%;
+	margin-top: 50px;
+	display: inline-block;
+	vertical-align: top;
+}
+.manufacturing-list .listicon {
+	width: 45px;
+	top: 0;
+}
+.manufacturing-list .manufacturlist-content {
+	padding-left: 55px;
+}
+.manufacturing-list .manufacturlist-content h4 {
+	font-size: 14px;
+	border: 0;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+.manufacturing-list .manufacturlist-content p {
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+}
+.digital-experience {
+	background: #f8f8f8;
+	padding: 70px 0;
+}
+.get-started h4 {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.move-the-bar {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+.move-the-bar h2 {
+	font-weight: normal;
+	padding-bottom: 0;
+	padding-top: 35px;
+}
+.move-the-bar .col-left {
+	float: left;
+	width: 65%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0 8% 0 0;
+}
+.move-the-bar .col-right {
+	float: right;
+	width: 34%;
+	box-sizing: border-box;
+	margin: 0;
+}
+.channel-message {
+	background: #f8f8f8;
+	padding: 70px 0;
+}
+.channel-message {
+	padding-top: 75px;
+}
+.channel-message h2 {
+	font-weight: normal;
+	padding-bottom: 0;
+	padding-top: 45px;
+}
+.channel-message .col-left {
+	float: left;
+	width: 39%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0 8% 0 0;
+}
+.channel-message .col-right {
+	float: right;
+	width: 61%;
+	box-sizing: border-box;
+	margin: 0;
+}
+.case-studies-manufacturing {
+	background: #f8f8f8;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+.case-studies-custome .case-studies-block {
+	float: left;
+	padding: 0;
+	width: 50%;
+	margin: 0 0 4% 0
+}
+.case-studies-custome .margin-right {
+	margin-right: 0;
+}
+.case-studies-inner {
+	position: relative;
+}
+.case-studies-img {
+	line-height: 0;
+}
+.case-studies-img img {
+	margin-bottom: 0;
+}
+.case-studies-inner .case-studies-hover-show {
+	opacity: 0;
+	transition: all 0.4s ease-in-out 0s;
+}
+.case-studies-inner .case-studies-hover-show {
+	background-color: rgba(0, 0, 0, 0.6);
+	color: #fff;
+	height: 100%;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	transition: all 0.4s ease-in-out 0s;
+	width: 100%;
+	padding: 0 18%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.case-studies-hover-show h3 {
+	color: #fff;
+	font-size: 42px;
+	font-weight: 500;
+	padding: 5% 20px 0;
+	position: relative;
+	text-transform: capitalize;
+	top: 0;
+	transition-duration: 0.2s;
+}
+.case-studies-custome .case-studies-hover-show h2 {
+	color: #fff;
+	font-size: 26px;
+	text-transform: uppercase;
+	padding: 28% 20px 20px;
+}
+.case-studies-custome p {
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+}
+.case-studies-hover-show a {
+	color: #ffffff;
+	font-size: 14px;
+	background: #0282c3;
+	display: inline-block;
+	padding: 10px 12px;
+	margin-top: 25px
+}
+.case-studies-hover-show a:hover {
+	opacity: 0.8;
+	transition-duration: 0.2s;
+}
+.case-studies-hover-show h6 {
+	color: #fff;
+	position: relative;
+	text-transform: uppercase;
+	top: 0;
+	transition-duration: 0.2s;
+	padding: 9% 0 0 0;
+}
+.case-studies-inner:hover .case-studies-hover-show {
+	opacity: 1;
+}
+.about_section {
+	padding: 50px 0 20px !important;
+}
+.about-border {
+	margin: 10px 0 0 0;
+	padding: 0 0 10px 0;
+	border-bottom: solid 1px #cfcfcf;
+	border-top: solid 1px #cfcfcf;
+	max-width: 365px;
+}
+.banner-sucribe-form {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+.digitalmanBanner p#display-msg {/*background:rgba(2, 130, 195, 0.8);*/
+	color: #fff;
+	padding: 5px 30px;
+	font-size: 16px;
+	border-radius: 5px;
+	width: 60%;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.banner-sucribe-form .sub-email {
+	border: medium none;
+	border-radius: 0;
+	float: left;
+	padding: 15px 20px;
+	width: 264px;
+}
+.banner-sucribe-form .sub_submitbtn {
+	background: #0282c3 none repeat scroll 0 0;
+	border-radius: 0;
+	float: left;
+	padding: 15px 0;
+	width: 224px;
+}
+.banner-sucribe-form .sub_submitbtn:hover {
+	background: #026ac3;
+}/******** Digital Manufacturing page END ***************/
+.phpExpertise ul {
+	margin-top: 75px;
+}
+.phpHowweProcess img {
+	padding: 70px 0;
+}
+ul.iconlist li {
+	width: 25%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	float: left;
+	text-align: center;
+}
+ul.iconlist li img {
+	margin-bottom: 15px;
+}
+.phpskillsets .block:first-child {
+	padding: 0;
+}
+.phpskillsets .block {
+	border-bottom: solid 1px #d5dae0;
+	padding: 25px 0 0;
+	overflow: hidden;
+}
+.phpskillsets .block ul {
+	float: left;
+	width: 80%;
+	margin-left: 30px;
+}
+.phpskillsets .block li {
+	display: inline-block;
+	vertical-align: middle;
+	width: 120px;
+	text-align: center;
+	margin: 0 13px 20px;
+}
+.phpskillsets .block div.head {
+	width: 166px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	margin-left: 0px;
+	background: #eef2f6;
+	border-radius: 25px;
+	position: relative;
+	float: left;
+}
+.phpskillsets .block div.head:after {
+	left: 92%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(136, 183, 213, 0);
+	border-left-color: #eef2f6;
+	border-width: 20px;
+	margin-top: -20px;
+}
+.phpskillsets .block.last {
+	border-bottom: 0;
+}
+.javaskillsets .block div.head {
+	font-size: 17px;
+	background: #fff;
+}
+.javaskillsets .block div.head:after {
+	border-left-color: #fff;
+}
+.javaskillsets .block {
+	padding-bottom: 15px;
+}
+.sharepoint-solutions ul {
+	/*margin: 50px 0;*/
+	margin: 30px 0 10px;
+}
+.sharepoint-solutions{padding:20px 0 10px !important;}
+.ecommerce-tools .technology-list li {
+	width: 16%;
+}
+.ecommerce-digital {
+	background: #075995 !important;
+}
+.ecommerce-digital img {
+	padding-top: 50px;
+}
+.eCommerceSoftweb li {
+	width: 42%;
+	margin: 3%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.eCommerceSoftweb li h4 {
+	padding: 15px 0;
+	font-size: 20px;
+	font-weight: 500;
+	color: #000;
+	text-transform: uppercase;
+}
+.eCommerceSoftweb li i {
+	font-size: 14px;
+	line-height: 24px;
+	font-style: normal;
+	text-align: center;
+	padding: 0 10px;
+	display: block;
+}
+.how-we-help h1 {
+	font-size: 30px;
+	padding: 20px 0;
+	color: #0282c3;
+}
+.leftrightsection .contentsec {
+	width: 74%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.leftrightsection .logosec {
+	width: 20%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	margin-left: 2%;
+}
+.qu-automation-panal{background:#c7dfee; padding:20px;}
+.qu-automation-panal h4{font-size:16px; font-weight:normal; color:#000; padding-bottom:15px;}
+.qu-automation-panal li{display: inline-block; padding-left: 50px; margin-left: 15px; line-height: 45px; color: #4693c3; font-size: 18px;}
+.qu-automation-panal li.webqaicon{background:url(../images/web_qa_icon.svg) no-repeat; }
+.qu-automation-panal li.mobileqaicon{background:url(../images/mobile_qa_icon.svg) no-repeat; padding-left: 42px;}
+.qu-automation-panal li.cloudqaicon{background:url(../images/cloude_qa_icon.svg) no-repeat;}
+.magento-banner h5 strong{color:#fff; font-size:20px; font-family:"Roboto",sans-serif; font-weight:800; text-decoration:underline;}
+.power-magento ul{margin-top:40px;}
+.power-magento li{box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; width:16.3%; display:inline-block; vertical-align:top; text-align:center;}
+.power-magento li img{margin-bottom:15px;}
+.power-magento li h3{font-size:15px; padding-bottom:40px;}
+
+@media only screen and (max-width:1120px) {
+.healthcare-service h2 {
+	padding-bottom: 40px;
+}
+.healthcare-service li span h3 {
+	font-size: 16px;
+}
+.healthcare-getintuch p {
+	padding-right: 10px;
+}
+.iot-retail-getintuch p {
+	padding-right: 10px;
+}
+.healthcare-service li span h3 {
+	text-transform: none;
+	font-size: 14px;
+	font-weight: normal;
+}
+}
+@media only screen and (max-width:1100px) {
+.smartoffice_content_bg {
+	width: 46%;
+}
+.smartoffice_title h3 {
+	font-size: 24px;
+}
+.use-cases ul li {
+	width: 29%;
+}
+.smart-building-system ul li {
+	min-height: 360px;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 img {
+	margin: 0 0 25px;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 a.viewmore-btn {
+	display: inline-block;
+}
+.iot-retail-getintuch h4.getintuch-title1 {
+	font-size: 25px;
+}
+.IoTnew-industries li {
+	width: 300px;
+	margin: 2% 1%;
+}
+.IoTnew-industries li div.iot-industries-popup {
+	min-height: 300px;
+}
+.IoTnew-industries li div.iot-industries-popup h3 {
+	margin-bottom: 20px;
+	padding: 20px 0;
+}
+.IoTnew-industries li div.iot-industries-popup p {
+	padding: 0 20px 15px;
+}
+.IoTnew-industries li span h3 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.IoTplusazure li div.IoT-contact-banner {
+	padding-bottom: 43px;
+}
+.microCrmDynamics .left, .microCrmDynamics .right {
+	width: 47%;
+}
+.microCrmDynamics .left {
+	display: inline-block;
+	width: 45%;
+	float: none;
+}
+.we_serve ul {
+	margin-top: 0;
+}
+.we_serve li {
+	width: 33.33%;
+	margin-top: 30px;
+}
+.javabanner .banner-colum-right-img {
+	margin-top: 20px;
+}
+.javabanner .banner-colum-left {
+	margin-top: 0;
+}
+.shoppertrak-screen, .sutron-screen {
+	float: right;
+}
+.contentSec .dotnet_development-panal p {
+	font-size: 24px;
+}
+.dotnet_banner .banner-colum-left p {
+	padding-top: 0;
+}/*****************Data Analytics css**************/
+.DataAnalyticsBanner h1 {
+	line-height: 65px;
+}
+.DataAnalyticsTools, .dataAnalusisFirstSec {
+	padding: 50px 15px;
+}/*****************Sharepoint css**************/
+.officePortalDetail h1 {
+	font-size: 40px;
+}
+.officePortalDetail h2 {
+	font-size: 25px;
+}
+.iphoneQuote blockquote p {
+	font-size: 34px;
+	line-height: 56px;
+}
+.sitecore-upgrade .leftRightWrap .colum-left {
+	padding-top: 40px;
+}
+.leftRightWrap .colum-right {
+	margin-left: 0;
+}/******** Digital Manufacturing page Start ***************/
+.case-studies-custome .case-studies-hover h2 {
+	padding: 6% 20px 0;
+}
+.case-studies-hover h6 {
+	padding: 2% 0 0;
+}
+.power-magento li{width:24%;}
+}
+@media only screen and (max-width:999px) {
+.microCrmDynamics .dyna-right, .microCrmDynamics .dyna-left {
+	min-height: 350px;
+}/*****************Android css**************/
+.why-softweb .developbg {
+	padding: 30px 20px 0;
+}
+.mobile-plateform h2 {
+	font-size: 35px;
+}/*****************iPhone Mobile Application css**************/
+.iPhoneMobile p {
+	padding-left: 0;
+	padding-right: 0;
+}
+.domainexpertise-list li {
+	width: 24.5%;
+}
+}
+@media only screen and (max-width:959px) {
+.ioat-talkus-sec ul.ioat-talkus-list li {
+	width: 44%;
+	margin: 5px 0px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li p {
+	font-size: 17px;
+}
+.whitepaper-flip .colum-right {
+	float: none;
+	margin: auto;
+}
+.retail-iot-first-sec .colum-left, .retail-iot-first-sec .colum-right {
+	width: 50%;
+	clear: inherit;
+	float: left;
+}
+.contentSec .dotnet_development-panal .list li {
+	padding-left: 12px;
+}
+.iphn-cs-content.bosch-grouplist-iphone {
+	clear: both;
+	padding-left: 0 !important;
+}
+.manufacturing-list li {
+	width: 49%;
+}
+.case-studies-custome .case-studies-hover h2 {
+	font-size: 28px;
+	padding: 6% 20px 0;
+}
+}
+@media only screen and (min-width:768px) and (max-width:959px) {
+.healthcare-service li {
+	margin-bottom: 30px;
+}
+.healthcare-service {
+	padding: 60px 0;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 img {
+	margin: 0 0 25px;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 a.viewmore-btn {
+	display: inline-block;
+}
+.IoTnew-banner h1 {
+	font-size: 42px;
+	line-height: 55px;
+	padding: 50px 0 15px;
+}
+.IoTnew-banner a.viewmorebtn {
+	display: inline-block;
+}
+.IoTplusazure li div.IoT-contact-banner {
+	padding-bottom: 44px;
+}
+.skillsets .block li {
+	width: 68px;
+	margin: 0 10px;
+}
+.java-services .java-servicesbox {
+	padding: 20px 10px 20px 40px;
+}
+.javabanner .banner-colum-left {
+	font-size: 22px;
+}
+.javabanner h1 {
+	font-size: 42px;
+}
+.javabanner .banner-colum-right-img {
+	margin-top: 40px;
+	margin-left: 0;
+}
+.skillsets.dotnet .block li {
+	width: 85px;
+}/*****************Data Analytics css**************/
+.DataAnalyticsBanner {
+	padding-top: 20px;
+}
+.DataAnalyticsBanner h1 {
+	line-height: 65px;
+}
+.DataAnalyticsTools, .dataAnalusisFirstSec {
+	padding: 50px 15px;
+}/*****************Android css**************/
+.why-softweb li {
+	width: 32.5%;
+}
+.expertise-list li {
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.why-softweb .developbg {
+	min-height: 380px;
+}
+.iphoneQuote blockquote p {
+	font-size: 27px;
+	line-height: 46px;
+}
+.sitecore-banner {
+	padding-top: 10px;
+}
+.sitecore-banner .banner-colum-left h1 {
+	font-size: 50px;
+}
+.sitecore_certified h2 {
+	font-size: 50px;
+}
+.sitecore_certified .container {
+	padding: 0 20px;
+}
+.sitecore_certified .leftRightWrap .colum-left {
+	width: 62%;
+}
+.sitecore_certified .leftRightWrap .colum-right {
+	clear: inherit;
+	text-align: right;
+}
+.sitecore-services-list li {
+	width: 50%;
+}
+.getintuch-design3 h4 {
+	font-size: 22px;
+}
+.leftRightWrap .colum-right {
+	clear: inherit;
+	width: 40%;
+}
+.sitecore-upgrade .leftRightWrap .colum-left {
+	width: 55%;
+	padding-top: 20px;
+}
+.sitecore-benefits h3 {
+	font-size: 50px;
+}
+.sitecore-benefits .listing-view li {
+	width: 50%;
+}
+.sitecore-top-reasons .container {
+	padding: 0 20px;
+}
+.sitecore-top-reasons .sitecore-cms-right {
+	padding-top: 0;
+}
+.sitecore-top-reasons .sitecore-cms-right h2 {
+	font-size: 30px;
+}
+}
+@media only screen and (max-width:800px) {
+.ioat-mid-content {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.ioat-talkus-sec h2 {
+	font-size: 31px;
+}
+.ioat-industry-content h3 {
+	font-size: 19px;
+	padding-bottom: 20px;
+}
+.ioat-industry-content h2 {
+	padding-bottom: 10px;
+}
+.ioat-industry-content p {
+	padding-bottom: 15px;
+}
+.ioat-health-sec ul.ioat-health-list li p {
+	padding-left: 45px;
+	padding-right: 45px;
+}
+.ioat-industry-content-lft {
+	padding-top: 5px;
+}
+.ioat-industry-content .ioat-lft-arrow {
+	top: 10px;
+}
+.ioat-banner h1 {
+	padding-bottom: 0px;
+}
+.healthcare-getintuch h4.getintuch-title1 {
+	width: 100%;
+	text-align: center;
+	padding-right: 0px;
+}
+.healthcare-getintuch p {
+	position: relative;
+	top: 18px;
+	margin: auto;
+	right: -15px;
+}
+.healthcare-getintuch p a.viewmorebtn {
+	font-size: 15px;
+}
+.healthcare-service li {
+	width: 48%
+}
+.IoTservice ul li, .bulding_info ul li {
+	width: 44%;
+	margin: 0 40px 25px 0;
+	text-align: center;
+}
+.IoTservice ul li:nth-child(3n), .bulding_info ul li:nth-child(3n) {
+	width: 44%;
+	margin: 0 40px 25px 0;
+}
+.IoTservice ul li:last-child {
+	width: 83%;
+}
+.IoT-tab .left, .IoT-tab .right {
+	width: 100%;
+}
+.IoT-tab .right {
+	text-align: center;
+}
+.IoT-tab .zilla-tabs .zilla-nav li {
+	width: 24%;
+	margin: 0 5px -1px 0 !important;
+}
+.IoT-tab .zilla-tabs .zilla-nav li a {
+	font-size: 17px;
+	padding: 0 5px;
+}
+.use-cases ul li {
+	width: 100%;
+	margin: 0 0 40px 0;
+}
+.smart-building-system ul li {
+	width: 44%;
+}
+.smart-building-system ul li:nth-child(2n) {
+	margin-right: 0;
+}
+.retail-iot-first-sec {
+	padding: 0;
+}
+.retail-iot-first-sec .colum-left, .retail-iot-first-sec .colum-right {
+	width: 50%;
+	clear: inherit;
+	float: left;
+}
+.iot-retail-getintuch h4.getintuch-title1 {
+	width: 100%;
+	text-align: center;
+	padding-right: 0px;
+}
+.iot-retail-getintuch p {
+	position: relative;
+	top: 18px;
+	margin: auto;
+}/****************infographic*********/
+.infographic-list li {
+	width: 33.333333%;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+}
+.magentobox {
+	padding: 20px 10px;
+}
+.magento-threebox .framwork-services li {
+	padding-left: 4px;
+	padding-right: 4px;
+}
+.magento-threebox .content-section p {
+	font-size: 13px;
+}
+.java_based .emsSolutionstab-detail .col-50.imgpart {
+	width: 48%;
+}
+.appleWatchBanner .banner-colum-left h1 {
+	font-size: 31px;
+}/*****************Data Analytics css**************/
+.DataAnalyticsBanner {
+	padding-top: 20px;
+}
+.DataAnalyticsBanner h1 {
+	line-height: 65px;
+}
+.DataAnalyticsTools, .dataAnalusisFirstSec {
+	padding: 50px 15px;
+}/*****************Sharepoint css**************/
+.officePortalDetail h1 {
+	font-size: 32px;
+}
+.officePortalDetail h2 {
+	font-size: 22px;
+}/*****************IoT Workshop css**************/
+.IoTWorkshopBanner h1 {
+	font-size: 32px;
+	padding-top: 70px;
+}
+.IoTWorkshopBanner img {
+	margin-top: 0;
+}
+.whyIoTimportant li {
+	padding: 0 22px;
+}
+.workShopAgenda .lftSec .wpSection {
+	width: 300px;
+}
+.workShopAgenda .lftSec {
+	width: 100%;
+}
+.workShopAgenda .rgtSec {
+	width: 100%;
+	margin-top: 60px;
+}
+.clientLogoSec img {
+	width: 125px;
+	margin-right: 15px;
+}
+.companySection {
+	padding: 80px 0 50px;
+}
+.workShopAgenda {
+	padding: 70px 0;
+}
+.phpskillsets .block div.head {
+	margin-bottom: 30px;
+}
+.phpskillsets .block ul {
+	width: 100%;
+	margin: 0;
+}
+}
+@media only screen and (max-width:767px) {
+.SharePoint .dotnet_development-panal{
+	margin-bottom:20px;
+	}	
+.java-services .java-servicesbox h3 {
+	font-size: 20px;
+}
+.java-services .java-servicesbox {
+	padding-left: 25px;
+}
+.java-services .java-servicesbox::before {
+	left: 0px;
+}
+.contentSec .dotnet_development-panal h2 {
+	font-size: 35px;
+}
+.contentSec .dotnet_development-panal {
+	padding: 25px;
+}
+.contentSec .dotnet_development-panal p {
+	font-size: 17px;
+}
+ul.pythonList li {
+	width: 50% !important;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li {
+	width: 100%;
+}
+.mhealth-section {
+	padding: 35px 0px;
+	background-size: auto 100%;
+}
+.mhealth-section p {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.healthcare-service {
+	padding: 50px 0px;
+	margin-top: 0px;
+}
+.healthcare-service h2 {
+	font-size: 25px;
+}
+.healthcare-getintuch h4.getintuch-title1 {
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.qutos-people {
+	width: 85%;
+	font-size: 22px;
+}
+.smartBuilding-testi h4 {
+	font-size: 25px;
+}
+.IoTservice ul li, .bulding_info ul li, .IoTservice ul li:nth-child(3n), .bulding_info ul li:nth-child(3n) {
+	width: 83%;
+	margin-right: 0;
+}
+.smart-building-system ul li {
+	width: 50%;
+	margin: 0 0 25px 0;
+	min-height: inherit;
+}
+.iot-retail-getintuch h4.getintuch-title1 {
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.magento-threebox .framwork-services li {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.magentobox {
+	min-height: inherit;
+	padding: 20px;
+}
+.magento-threebox {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.magentolist .listview-content {
+	padding-left: 70px;
+}
+.microCrmDynamics .left, .microCrmDynamics .right {
+	width: 100%;
+	display: block;
+	float: none;
+	margin-bottom: 30px;
+}
+.microCrmDynamics .dyna-right, .microCrmDynamics .dyna-left {
+	min-height: inherit;
+	width: 100%;
+	padding-bottom: 15px;
+}
+.microCrmServiceBox {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 10px;
+}
+.premisesBox {
+	width: 100%;
+	min-height: inherit;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.onlineBox {
+	margin-top: 100px;
+}
+.Online-icon, .premises-icon {
+	margin: auto;
+	left: 0px;
+	right: 0px;
+}
+.premisesBox h3 {
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+.microCrmPartner .col60 {
+	width: 100%;
+}
+.microCrmPartner p {
+	padding-right: 0px;
+}
+.microCrmPartner .col35 {
+	width: 100%;
+}
+.java-services .java-servicesbox {
+	width: 100%;
+	padding-left: 50px;
+	height: auto;
+	margin-top: 30px;
+}
+.java-services .java-servicesbox.color2, .java-services .java-servicesbox.color4, .java-services .java-servicesbox.color6 {
+	margin-left: 0px;
+	width: 100%;
+}
+.java_application_list li {
+	width: 100%;
+}
+.skillsets .block li.head {
+	display: block;
+}
+.skillsets .block li {
+	margin-top: 20px;
+	width: 107px;
+}
+.skillsets .block {
+	text-align: center;
+}
+.java_based .zilla-tabs .zilla-nav li a {
+	width: 100%;
+}
+.java_based .emsSolutionstab-detail .col-50 {
+	float: none;
+	width: 100%;
+}
+.java_based .emsSolutionstab-detail .col-50 p {
+	margin-bottom: 0;
+}
+.java_based .emsSolutionstab-detail .col-50 a.viewmorebtn {
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.javabanner .banner-colum-left {
+	margin-top: 0;
+}
+.javabanner .banner-colum-right-img {
+	margin-top: 20px;
+}
+.javabanner .banner-colum-left {
+	font-size: 20px;
+	width: 100%;
+	float: none;
+}
+.javabanner h1 {
+	font-size: 34px;
+	line-height: 40px;
+}
+.javabanner .banner-colum-right-img {
+	width: 100%;
+	float: none
+}
+.java_based .emsSolutionstab-detail .col-50.imgpart {
+	width: 100%;
+	text-align: center;
+	float: none;
+}
+.java_based .tabblog-section {
+	width: auto;
+	float: none;
+	text-align: center;
+}
+.dotnet_banner .banner-colum-left h1 {
+	line-height: 50px;
+	margin-bottom: 10px;
+}
+.IoT-business h2 {
+	font-size: 29px;
+}
+.dotnetDev blockquote p {
+	font-size: 20px;
+}
+.healthcare-service li span h3 {
+	display: block;
+	text-align: center;
+}
+.iot-retail-delivering h2 {
+	font-size: 22px;
+}
+.alignright {
+	margin-left: 0px;
+} /*****************android-application css**************//*.expertise-list li { width: 32.8%;}*/
+.expertise-list h3 {
+	font-size: 18px;
+}
+.expertise-list li {
+	padding: 40px 2% 0;
+	width: 49.5%;
+}
+.development-process li {
+	margin: 0;
+	width: 100%;
+}
+.development-process li div.process-arrowtop, .development-process li div.process-arrowtop-2 {
+	display: none;
+}
+.mobile-plateform h2 {
+	font-size: 35px;
+}
+.why-softweb li {
+	width: 100%;
+	margin: 0 0 8px 0;
+}
+.why-softweb .developbg {
+	padding: 30px 20px 30px;
+	min-height: 200px;
+}/*****************iPhone Mobile Application css**************/
+.iPhoneMobile li {
+	margin: 30px 0 10px;
+	width: 100%;
+}
+.iPhoneMobile li h4 {
+	padding: 10px 0;
+}
+.domainexpertise-list li {
+	width: 44.5%;
+}/*****************IoT Workshop css**************/
+.IoTWorkshopBanner .banner-colum-left {
+	padding: 0;
+}
+.IoTWorkshopBanner .banner-colum-right {
+	display: block;
+	width: 100%;
+}
+.IoTWorkshopBanner h1 {
+	padding: 0;
+	font-size: 28px;
+	line-height: 45px;
+}
+.whyIoTimportant li {
+	width: 50%;
+	padding: 0 10px;
+}
+.workShopAgenda .lftSec, .workShopAgenda .rgtSec {
+	width: 100%;
+}
+.workShopAgenda .lftSec .wpSection {
+	width: 280px;
+}
+.companySection, .workShopAgenda {
+	padding: 50px 0;
+}
+.clientLogoSec img {
+	margin: 10px;
+}
+.clientLogoSec img:last-child {
+	margin: 10px;
+}
+.workShopAgenda .rgtSec {
+	margin-top: 40px;
+}
+.workShopAgenda .rgtSec li {
+	width: 100%;
+}
+.sitecore-banner {
+	padding-top: 0;
+	margin-top: 0;
+}
+.sitecore-banner .banner-colum-left h1 {
+	font-size: 42px;
+	padding-bottom: 0;
+}
+.sitecore_certified h2 {
+	font-size: 42px;
+	padding-bottom: 25px;
+}
+.sitecore_certified .container {
+	padding: 0 20px;
+}
+.sitecore_certified .leftRightWrap .colum-left {
+	width: 100%;
+}
+.sitecore_certified .leftRightWrap .colum-right {
+	clear: inherit;
+	text-align: center;
+	width: 100%;
+}
+.sitecore-services-list h2 {
+	font-size: 42px;
+}
+.sitecore-services-list li {
+	width: 100%;
+	min-height: inherit;
+	margin-top: 30px;
+	float: none;
+	padding-right: 0;
+}
+.getintuch-design3 {
+	text-align: center;
+}
+.getintuch-design3 h4 {
+	font-size: 25px;
+}
+.sitecore-upgrade .leftRightWrap .colum-right {
+	clear: both;
+	float: none;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.sitecore-upgrade .leftRightWrap .colum-left {
+	clear: both;
+	width: 100%;
+	float: none;
+	padding-top: 20px;
+	text-align: center;
+}
+.sitecore-benefits h3 {
+	font-size: 42px;
+	padding-bottom: 0;
+}
+.sitecore-benefits .listing-view li {
+	width: 100%;
+	margin-top: 30px;
+	float: none;
+}
+.sitecore-top-reasons .container {
+	padding: 0 20px;
+}
+.sitecore-top-reasons .sitecore-cms-left {
+	float: none;
+	text-align: center;
+}
+.sitecore-top-reasons .sitecore-cms-right {
+	padding-top: 30px;
+	text-align: center;
+}
+.sitecore-upgrade.section-row h2, .sitecore-top-reasons .sitecore-cms-right h2 {
+	font-size: 30px;
+}/******** Digital Manufacturing page Start ***************/
+.manufacturing-list {
+	padding-bottom: 40px;
+}
+.manufacturing-list li {
+	float: none;
+	margin-top: 30px;
+	min-height: inherit;
+	padding-right: 0;
+	width: 100%;
+}
+.move-the-bar .col-left {
+	padding: 0;
+	width: 100%;
+}
+.move-the-bar .col-right {
+	width: 100%;
+}
+.channel-message .col-left {
+	padding: 0;
+	width: 100%;
+}
+.channel-message h2 {
+	padding-top: 0;
+}
+.channel-message .col-right {
+	margin: 20px 0 0;
+	width: 100%;
+}
+.case-studies-custome .case-studies-block {
+	margin: 0 0 4% 0;
+	width: 100%;
+}
+.case-studies-img img {
+	width: 100%;
+}
+.about_section h2 {
+	padding-top: 0 !important;
+}
+.digital-experience {
+	padding-bottom: 20px;
+}
+.eCommerceSoftweb li {
+	width: 100%;
+	margin: 20px 0;
+}
+.php-technology .technology-list li, .php-technology .technology-list li:last-child {
+	width: 23%;
+}
+.ecommerce-digital img {
+	padding-top: 20px;
+}
+.stamp-screen{padding-left:0px; }
+}
+@media only screen and (min-width:480px) and (max-width:767px) {
+ul.pythonList li {
+	width: 100% !important;
+}
+.ioat-talkus-sec h2 {
+	font-size: 27px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list {
+	margin: 0px;
+}
+.ioat-talkus-sec h3 {
+	margin-top: 45px;
+}
+.ioat-talkus-sec {
+	padding: 20px 0 50px;
+}
+.ioat-mid-content {
+	padding: 30px 0;
+}
+.ioat-mid-content .lft-sec, .ioat-mid-content .rgt-sec {
+	width: 100%;
+	text-align: center;
+}
+.ioat-industry-content {
+	padding: 20px 0 30px;
+}
+.ioat-industry-content .ioat-rgt-arrow, .ioat-industry-content .ioat-lft-arrow {
+	display: none;
+}
+.ioat-health-sec ul.ioat-health-list li {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.ioat-health-sec ul.ioat-health-list li:last-child {
+	margin: 0px;
+}
+.ioat-health-sec ul.ioat-health-list li p {
+	padding: 25px 0;
+}
+.healthcare-service li {
+	margin-bottom: 20px;
+}
+.healthcare-service li span h3 {
+	font-size: 16px;
+}
+.enterprise-banner-content .cd-headline {
+	font-size: 30px;
+}
+.enterprise-banner-content h2 {
+	font-size: 17px;
+}
+.smartoffice_content_bg {
+	width: 55%;
+}
+.smartoffice_white_bg .imageitem {
+	width: 45%;
+}
+.smartoffice_title img {
+	margin-bottom: 10px;
+	width: 77px;
+}
+.smartoffice_title h3 {
+	font-size: 16px;
+	padding: 15px 0 0;
+	line-height: 23px;
+	font-weight: 600;
+}
+.smartoffice_content_bg p {
+	padding-bottom: 12px
+}
+.retail-iot-first-sec {
+	padding: 0;
+}
+.retail-iot-first-sec .colum-left, .retail-iot-first-sec .colum-right {
+	width: 100%;
+}
+.iot-retail-getintuch p {
+	width: 165px;
+}
+.iot-retail-end-to-end li {
+	padding-bottom: 30px;
+}
+.iot-retail-end-to-end li div.retail-solution-numbering {
+	width: 40px;
+	height: 40px;
+	top: 8px;
+}
+.iot-retail-end-to-end li div.brd-text {
+	padding: 15px 0 0 40px;
+	margin-left: 20px;
+}
+.iot-retail-end-to-end li div > div {
+	font-size: 25px;
+	margin: 3px 0 0;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 img {
+	margin: 0 0 20px;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 a.viewmorebtn {
+	display: block;
+	margin-top: 15px;
+}
+.IoTnew-banner h1 {
+	font-size: 26px;
+	line-height: 40px;
+	padding: 20px 0 0;
+}
+.IoTWorkshopBanner img {
+	margin-top: 0;
+}
+.IoTnew-banner a {
+	display: inline-block;
+}
+.IoTnew-industries h2, .IoTnew-industries ul {
+	text-align: center;
+}
+.IoTplusazure li {
+	width: 50%;
+	border-right: none;
+}
+.IoTplusazure li.brdbtm {
+	border-bottom: 1px solid #e3e3e3;
+}
+.IoTnew-ready-business .leftRightWrap {
+	margin-bottom: 0;
+}
+.IoTplusazure li div.IoT-contact-banner {
+	padding-bottom: 45px;
+}
+.angular-feature a.viewmorebtn {
+	font-size: 16px;
+	padding: 10px 30px;
+}/*****************SharePoint css**************/
+.SharePointSpace {
+	padding: 40px 0;
+}
+.sharePointContent .contentPart {
+	width: 100%;
+}
+.sharePointContent .imagePart {
+	width: 100%;
+	margin: 20px 0;
+}
+.officePortalDetail h1 {
+	line-height: normal;
+}
+}
+@media only screen and (max-width:600px) {
+.IoT-tab .zilla-tabs .zilla-nav li a {
+	padding: 0 25px;
+	text-align: left;
+	display: block;
+	width: 100%;
+}
+.IoT-tab .zilla-tabs .zilla-nav li {
+	width: 100%;
+	margin: 0 5px -1px 0 !important;
+}
+.IoTservice ul li, .IoTservice ul li:nth-child(3n) {
+	width: 100%;
+	margin: 0 0 25px 0;
+}
+.IoT-business p a.viewmorebtn {
+	font-size: 18px;
+	padding: 14px 30px;
+}
+.smartoffice_content_bg {
+	width: 100%;
+}
+.smartoffice_white_bg .imageitem.pull-right, .smartoffice_white_bg .imageitem.pull-left {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.smartoffice_title {
+	text-align: center;
+}
+.smartoffice_title img {
+	float: none;
+	margin-bottom: 0;
+}
+.smartoffice_title h3 {
+	clear: both;
+	text-align: left
+}
+.smartoffice_white_bg .toppadding100 {
+	padding-top: 30px;
+}
+.smartoffice_white_bg .imageitem .alignleft, .alignright, .aligncenter, .alignnone {
+	float: none;
+}
+.IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-selected a:before, .IoT-tab .zilla-tabs .zilla-nav li.ui-tabs-active a:before {
+	display: none;
+}
+.angular-feature a.viewmorebtn {
+	font-size: 16px;
+	padding: 10px 30px;
+}
+.angular-cs a.viewmorebtn {
+	font-size: 17px;
+}
+.why-softweb-angular ul li {
+	width: 100%;
+	margin-bottom: 25px;
+}
+.angular-service {
+	padding: 0 20px;
+}
+.contentSec .dotnet_development-panal p {
+	font-size: 22px;
+}
+.contentSec .dotnet_development-panal .list li:first-child {
+	background: url(../images/bullate4.png) no-repeat left center;
+	padding-left: 12px;
+}
+.contentSec .dotnet_development-panal .list li {
+	width: 45%;
+	margin-left: 0;
+}
+.testimonials p {
+	font-size: 15px;
+}
+.twocolum-list li {
+	width: 100%;
+}/*****************SharePoint css**************/
+.SharePointSpace {
+	padding: 40px 0;
+}
+.sharePointContent .contentPart {
+	width: 100%;
+}
+.sharePointContent .imagePart {
+	width: 100%;
+	margin: 20px 0;
+}
+.iphoneQuote blockquote::before {
+	background-size: 40%;
+	background-position: left;
+}
+.iphoneQuote blockquote::after {
+	background-size: 40%;
+	background-position: right;
+}
+.iphoneQuote blockquote p {
+	font-size: 24px;
+	line-height: 36px;
+	padding: 0 10px;
+}
+.iphoneQuote .smalllink {
+	padding-right: 0;
+}/*****************IoT Workshop css**************/
+.IoTWorkshopBanner .banner-colum-left {
+	padding: 0;
+}
+.IoTWorkshopBanner .banner-colum-right {
+	display: block;
+	width: 100%;
+}
+.IoTWorkshopBanner img {
+	margin-top: 0;
+}
+.IoTWorkshopBanner h1 {
+	padding: 0;
+	font-size: 28px;
+	line-height: 45px;
+}
+.whyIoTimportant li {
+	width: 50%;
+	padding: 0 10px;
+}
+.workShopAgenda .lftSec, .workShopAgenda .rgtSec {
+	width: 100%;
+	float: none;
+}
+.workShopAgenda .lftSec .wpSection {
+	width: 280px;
+}
+.companySection, .workShopAgenda {
+	padding: 50px 0;
+}
+.clientLogoSec img {
+	margin: 10px;
+}
+.clientLogoSec img:last-child {
+	margin: 10px;
+}
+.workShopAgenda .rgtSec {
+	margin-top: 40px;
+}
+.case-studies-inner .case-studies-hover-show {
+	height: 90%;
+}
+
+}
+@media only screen and (max-width:550px) {
+.healthcare-service li span h3 {
+	font-size: 15px;
+}
+.IoTworkshop-banner h1 {
+	padding: 0;
+}
+.IoTgraybg {
+	padding: 30px 0;
+}
+.IoT-solutions-indus h1 {
+	font-size: 36px;
+	line-height: 50px;
+	padding-bottom: 25px;
+}
+.IoT-tab .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.IoT-tab .zilla-tabs .zilla-nav li a {
+	height: 50px;
+	line-height: 50px;
+	text-align: left;
+}
+.IoT-tab .left, .IoT-tab .right {
+	width: 100%;
+	float: none;
+}
+.IoTservice {
+	padding: 50px 0 30px;
+}
+.IoTservice h2 {
+	font-size: 30px;
+	padding-bottom: 25px;
+}
+.IoTservice ul li, .IoTservice ul li:last-child {
+	width: 100%;
+	margin: 0 0 25px 0;
+	text-align: center;
+}
+.smart-building-system ul li {
+	width: 80%;
+}
+.IoTservice ul li, .bulding_info ul li, .IoTservice ul li:nth-child(3n), .bulding_info ul li:nth-child(3n) {
+	width: 100%;
+}/****************infographic*********/
+.infographic-list li {
+	width: 50%;
+}
+.we_serve li {
+	width: 50%;
+}/*****************Data Analytics css**************/
+.DataAnalyticsBanner {
+	padding-top: 0px;
+}
+.DataAnalyticsBanner h1 {
+	font-size: 25px;
+	line-height: 35px;
+}
+.DataAnalyticsBanner p {
+	font-size: 16px;
+	padding-top: 10px;
+}
+.dataAnalusisFirstSec {
+	padding: 20px 15px;
+}
+.dataAnalusisFirstSec blockquote p {
+	font-size: 22px;
+	line-height: 35px;
+}
+.dataSciService li {
+	width: 100%;
+}
+.dataSciService, .DataAnalyticsTools {
+	padding: 20px 15px;
+}
+.DataAnalyticsTools li {
+	width: 100%;
+	padding: 0 1% 0 0;
+}
+.DataAnalyticsTools li .dataPart {
+	padding: 0 0 0 65px;
+}/*****************SharePoint css**************/
+.sharepointBanner h1 {
+	font-size: 43px;
+	padding: 0;
+	line-height: 50px;
+}
+.sharepointBanner .banner-colum-left {
+	padding: 0;
+}
+.sharepointBanner .weareImg img {
+	width: 100%;
+}
+.SharePointSpace {
+	padding: 30px 0;
+}
+.sharePointContent .contentPart {
+	width: auto;
+}
+.sharePointContent .imagePart {
+	width: 100%;
+	margin: 20px 0;
+}
+.officePortalDetail h2 {
+	font-size: 20px;
+}
+.officePortalDetail h1 {
+	line-height: normal;
+	font-size: 26px;
+}
+.smartPortal {
+	padding-left: 30px;
+}
+.officePortalDetail a.viewmorebtn {
+	padding: 8px 9px;
+}/*****************iPhone Mobile Application css**************/
+.embrace-platform h3 {
+	font-size: 30px;
+}
+.iPhone-app li {
+	padding: 25px 0 5px;
+}
+.iPhone-app .imageitem {
+	display: block;
+	width: 100%;
+}
+.iPhone-app .textright-align {
+	text-align: left;
+}/*****************IoT Workshop css**************/
+.IoTWorkshopBanner .banner-colum-left {
+	padding: 0;
+}
+.IoTWorkshopBanner .banner-colum-right {
+	display: block;
+	width: 100%;
+}
+.IoTWorkshopBanner img {
+	margin-top: 0;
+}
+.IoTWorkshopBanner h1 {
+	padding: 0;
+	font-size: 28px;
+	line-height: 45px;
+}
+.whyIoTimportant li {
+	width: 100%;
+	padding: 0;
+}
+.workShopAgenda .lftSec, .workShopAgenda .rgtSec {
+	width: 100%;
+	float: none;
+}
+.workShopAgenda .lftSec .wpSection {
+	width: 280px;
+}
+.companySection, .workShopAgenda {
+	padding: 50px 0;
+}
+.clientLogoSec img {
+	width: 120px;
+	margin: 10px;
+}
+.clientLogoSec img:last-child {
+	margin: 10px;
+}
+.workShopAgenda .rgtSec {
+	margin-top: 40px;
+}
+.banner-sucribe-form {
+	display: block;
+}
+.banner-sucribe-form .sub-email {
+	width: 58%;
+}
+.banner-sucribe-form .sub_submitbtn {
+	width: 42%;
+}
+.case-studies-hover-show h3 {
+	font-size: 26px;
+}
+.case-studies-custome .case-studies-hover-show h2 {
+	font-size: 15px;
+}
+.case-studies-hover-show h6 {
+	padding: 3% 0 0 0;
+}
+.case-studies-custome .case-studies-hover-show p {
+	padding: 0 10px;
+}
+ul.iconlist li {
+	width: 50%;
+}
+.phpskillsets .block li {
+	width: 118px;
+	margin: 0 12px 20px;
+}
+}
+@media only screen and (max-width:479px) {
+ul.iconlist li {
+	width: 100%;
+}
+.phpskillsets .block ul {
+	width: 100%;
+	margin: 0;
+}
+ul.pythonList li {
+	width: 100% !important;
+}
+.ioat-talkus-sec h2 {
+	font-size: 27px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list {
+	margin: 0px;
+}
+.ioat-talkus-sec ul.ioat-talkus-list li {
+	width: 100%;
+	margin: 3% 0;
+}
+.ioat-talkus-sec h3 {
+	margin-top: 45px;
+}
+.ioat-talkus-sec {
+	padding: 20px 0 50px;
+}
+.ioat-mid-content {
+	padding: 30px 0;
+}
+.ioat-mid-content .lft-sec, .ioat-mid-content .rgt-sec {
+	width: 100%;
+	text-align: center;
+}
+.ioat-industry-content {
+	padding: 20px 0 30px;
+}
+.ioat-industry-content .ioat-rgt-arrow, .ioat-industry-content .ioat-lft-arrow {
+	display: none;
+}
+.ioat-health-sec ul.ioat-health-list li {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.ioat-health-sec ul.ioat-health-list li:last-child {
+	margin: 0px;
+}
+.ioat-health-sec ul.ioat-health-list li p {
+	padding: 25px 0;
+}
+.healthcare-service li {
+	margin-bottom: 20px;
+}
+.healthcare-service li {
+	width: 94%;
+}
+.enterprise-banner-content .cd-headline {
+	font-size: 21px;
+}
+.enterprise-banner-content h2 {
+	font-size: 16px;
+}
+.IoTworkshop-banner h1 {
+	padding: 0;
+}
+.IoTgraybg {
+	padding: 30px 0;
+}
+.IoT-solutions-indus h1 {
+	font-size: 36px;
+	line-height: 50px;
+	padding-bottom: 25px;
+}
+.IoT-tab .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.IoT-tab .zilla-tabs .zilla-nav li a {
+	height: 50px;
+	line-height: 50px;
+	text-align: left;
+}
+.IoT-tab .left, .IoT-tab .right {
+	width: 100%;
+	float: none;
+}
+.IoTservice {
+	padding: 50px 0 30px;
+}
+.IoTservice h2 {
+	font-size: 30px;
+	padding-bottom: 25px;
+}
+.IoTservice ul li, .IoTservice ul li:last-child {
+	width: 100%;
+	margin: 0 0 25px 0;
+	text-align: center;
+}
+.smart-building-system ul li {
+	width: 100%;
+}
+.schedule-chart .viewmorebtn {
+	padding: 15px 32px;
+	font-size: 16px;
+}
+.retail-iot-first-sec {
+	padding: 0;
+}
+.retail-iot-first-sec .colum-left, .retail-iot-first-sec .colum-right {
+	width: 100%;
+}
+.iot-retail-getintuch p {
+	width: 162px;
+}
+.iot-retail-end-to-end li {
+	padding-bottom: 30px;
+}
+.iot-retail-end-to-end li div.retail-solution-numbering {
+	width: 40px;
+	height: 40px;
+	top: 8px;
+}
+.iot-retail-end-to-end li div.brd-text {
+	padding: 15px 0 0 40px;
+	margin-left: 20px;
+}
+.iot-retail-end-to-end li div > div {
+	font-size: 25px;
+	margin: 3px 0 0;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 img {
+	margin: 0 0 20px;
+}
+.iot-retail-end-to-end li div.retail-solution-graph1 a.viewmorebtn {
+	display: block;
+	margin-top: 15px;
+}
+.IoTnew-banner h1 {
+	font-size: 30px;
+	line-height: 40px;
+	padding: 20px 0 0;
+}
+.IoTnew-industries {
+	padding: 30px 0;
+}
+.IoTnew-industries li {
+	width: 295px;
+	margin: 0 0 50px;
+}
+.IoTnew-industries li div.iot-industries-popup {
+	min-height: 300px;
+}
+.IoTnew-industries li div.iot-industries-popup h3 {
+	padding: 25px 0;
+	margin-bottom: 10px;
+}
+.IoTnew-industries li div.iot-industries-popup p {
+	padding: 0 20px 20px;
+}
+.IoTnew-industries li:hover div.iot-industries-popup {
+	border-bottom: 3px solid #d3d3d3;
+}
+.IoTnew-ready-business .leftRightWrap {
+	margin-bottom: 0;
+}
+.IoTnew-ready-business .leftRightWrap .colum-right {
+	margin-top: 30px;
+}
+.IoTplusazure h2 {
+	padding-bottom: 30px;
+}
+.IoTplusazure li {
+	width: 100%;
+	border-right: none;
+}
+.IoTplusazure li.brdbtm {
+	border-bottom: 1px solid #e3e3e3;
+}
+.we_serve li {
+	width: 100%;
+	margin-top: 50px;
+}
+.we_serve li span {
+	margin-top: 10px;
+}
+.we_serve li:first-child {
+	margin-top: 30px;
+}
+.skillsets .block li {
+	margin: 10px 15px;
+}
+.java_based .zilla-tabs .zilla-nav li {
+	width: 47%;
+}/*****************SharePoint css**************/
+.office365, .smartPortal {
+	background-image: none;
+	width: 100%;
+}
+.officePortalDetail {
+	width: 100%;
+}
+.smartPortal {
+	padding: 0 0 30px 0;
+}/*****************android-application css**************/
+.expertise-list li {
+	width: 48.5%;
+}
+.mobile-plateform a.crate-btn {
+	font-size: 14px;
+}/*****************iPhone Mobile Application css**************/
+.domainexpertise-list li {
+	width: 100%;
+	padding: 30px 0 0;
+}
+.banner-colum-left h1 {
+	line-height: 45px;
+}
+.sitecore-services-list .listicon {
+	width: 100%;
+	text-align: center;
+	height: inherit;
+	position: relative;
+	margin-bottom: 15px;
+}
+.sitecore-services-list .projectlist-content {
+	padding-left: 0;
+	text-align: center;
+}
+.sitecore_certified .leftRightWrap .colum-left {
+	text-align: center;
+}/******** Digital Manufacturing page Start ***************/
+.manufacturing-list li {
+	float: none;
+	margin-top: 30px;
+	min-height: inherit;
+	padding-right: 0;
+	width: 100%;
+	text-align: center;
+}
+.manufacturing-list .manufacturlist-content {
+	padding-left: 0;
+	text-align: center;
+}
+.manufacturing-list .listicon {
+	height: inherit;
+	margin-bottom: 15px;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+.case-studies-custome .case-studies-hover h2 {
+	font-size: 26px;
+	padding: 3% 20px 0;
+}
+.case-studies-custome p {
+	padding: 0;
+}
+.banner-sucribe-form .sub-email {
+	width: 48%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.banner-sucribe-form .sub_submitbtn {
+	text-transform: capitalize;
+	width: 52%;
+}
+.php-technology .technology-list li, .php-technology .technology-list li:last-child {
+	width: 50%;
+}
+.power-magento li{width:49%;}
+}
+@media only screen and (max-width:399px) {/****************infographic*********/
+.infographic-list li {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.infographics-page h1 {
+	padding-left: 0px;
+}
+.contentSec .dotnet_development-panal p {
+	font-size: 19px;
+}
+.contentSec .dotnet_development-panal .list li {
+	width: 100%;
+}
+.dotnet_banner .banner-colum-left h1 {
+	line-height: inherit
+}
+.IoTnew-industries li {
+	width: 100%
+}/*****************SharePoint css**************/
+.office365, .smartPortal {
+	background-image: none;
+	width: 100%;
+}
+.officePortalDetail {
+	width: 100%;
+}
+.smartPortal {
+	padding: 0 0 30px 0;
+}
+}

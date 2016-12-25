@@ -1,0 +1,1289 @@
+@charset "utf-8";
+.singleportfolio .current {
+	-webkit-transform: translateX(0%)!important;
+	-ms-transform: translateX(0%)!important;
+	transform: translateX(0%)!important;
+}
+.xamarin-bg h2 {
+	text-align: left;
+	font-size: 30px;
+}
+.xamarin-bg p {
+	text-align: left;
+	font-size: 14px;
+}
+.xamarin-blog-bg {
+	width: 49%;
+	padding: 40px 1% 0 0;
+}
+.xamarin_blog {
+	background: url(../images/xamarian-border.png) no-repeat right bottom;
+	padding: 0 45px 0 30px;
+	min-height: 350px;
+}
+.xamarin_blog .xamarin-logo {
+	width: 85px;
+	float: left;
+	height: 70px;
+}
+.xamarin_blog h3 {
+	font-size: 21px;
+	min-height: 75px;
+}
+.xamarin_blog2 {
+	width: 100%;
+}
+.xamarin_blog2 .xamarin-logo {
+	width: 85px;
+	float: left;
+	height: 70px;
+}
+.xamarin_blog2 h3 {
+	font-size: 21px;
+	min-height: 75px;
+}
+.xamarin-blog-bg .listing {
+	padding-left: 20px;
+}
+.xamarin-blog-bg .listing li {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+.ui-accordion .ui-acc-content {
+	border: 0px;
+}
+.ui-accordion .ui-accordion-header {
+	font-size: 18px;
+	padding-left: 45px;
+}
+.ui-accordion span.ui-accordion-header-icon {
+	left: 20px
+}
+.sap-tabbing {
+	float: left;
+	width: 100%;
+	padding: 0px;
+}
+.sap-tabbing .sap-tab-left {
+	box-sizing: border-box;
+	float: left;
+	padding-right: 25px;
+	width: 70%;
+}
+
+.sap-tabbing .sap-tab-right {
+	box-sizing: border-box;
+	float: left;
+	padding: 55px 0 0 25px;
+	width: 30%;
+}
+.sap-tabbing .zilla-tabs {
+	float: left;
+	margin-top:30px;
+}
+.sap-tab-bg{padding-top:20px; }
+.sap-mobility-tab{padding-top:25px; } 
+.sap-details h4{padding-bottom:0px; font-size:17px; }
+.sap-design1 {
+	background: url(../images/sapbannerbg2.jpg) no-repeat center;
+	width: 100%;
+	float: left;
+}
+.sap-design-bg {
+	width: 100%;
+	padding: 30px 0;
+	float: left;
+}
+.sap-design-bg p {
+	color: #fff;
+	text-align: center;
+}
+.sap-design-bg .title-border {color:#fff; border-bottom:1px solid rgba(255, 255, 255, 0.3) }
+.sap-colum-30 {
+	width: 30%;
+	float: left;
+}
+.sap-colum-70 {
+	width: 70%;
+	float: right;
+	padding: 0 30px
+}
+.sap-colum-70 h3 {
+	color: #fff;
+}
+.sap-colum-70 p {
+	color: #fff;
+	text-align: left;
+}
+
+.sap-tab2 {
+	padding: 0px 0;
+	float: left;
+	width: 100%;
+}
+.sap-tab2 .zilla-tabs .zilla-tab {
+	float: left;
+	width: 100%;
+}
+.sap-tab2-left {
+	width: 55%;
+	float: left;
+	padding: 0px;
+}
+.sap-tab2-left h3 {
+	font-size: 24px;
+	padding-bottom: 15px;
+	font-size:18px;
+}
+
+.sap-tab2-right {
+	width: 45%;
+	float: right;
+	padding: 25px 0px 0px 25px;
+}
+
+.ms-bg {
+	padding: 40px 0 0 0;
+}
+.ms-bg .colum-left .listing-view li {
+	padding-bottom: 20px
+}
+.ms-bg .colum-left .listing-view li h4 {
+	padding-bottom: 0;
+}
+.ms-bg .colum-left .listing-view li .icon-fram {
+	top: 0;
+	width: 60px;
+	text-align: center;
+}
+.ms-bg .colum-left .listing-view li .listview-content {
+	padding-left: 65px;
+}
+.ms-bi-tool-bg {
+	background: #f0f1f2;
+	padding: 60px 0 30px;
+	margin: 40px 0 0 0
+}
+.ms-bi-tool-bg .framwork-services li {
+	width: 33%;
+}
+.mobile_sale_app_bg {
+	background: url(../images/features_bg.jpg) no-repeat scroll center top;
+	width: 100%;
+	float: left;
+	padding: 40px 0;
+}
+.mobile_sale_app_bg h3 {
+	color: #fff;
+	text-align: center;
+}
+.mobile_sale_app_bg .listing-view li {
+	width: 33%;
+	float: left;
+	padding: 33px 0;
+	min-height: 150px;
+}
+.mobile_sale_app_bg .listing-view li .icon-fram {
+	float: left
+}
+.mobile_sale_app_bg .listing-view li .listview-content {
+	padding-left: 100px;
+}
+.mobile_sale_app_bg .listing-view li h4 {
+	color: #fff;
+}
+.mobile_app_work_bg {
+	width: 100%;
+	padding: 0 0 40px;
+	float: left;
+}
+.mobile_app_work_bg .framwork-services li {
+	width: 33%;
+}
+.wearable_tech_bg {
+	padding: 40px 0;
+	overflow: hidden;
+}
+.wearable_tech_bg .toppadding40 {
+	padding-top: 70px;
+}
+.wearable_tech_bg h3 {
+	font-size: 24px;
+	color: #000000;
+	margin-bottom: 10px;
+	text-transform: uppercase
+}
+.wearable_tech_bg h4 {
+	font-size: 18px;
+	color: #000;
+	margin-bottom: 0px;
+}
+.wearable_tech_bg2 {
+	background: #f0f1f2;
+	padding: 40px 0;
+}
+.wearable_tech_bg2 .imageitem {
+	width: 375px;
+	vertical-align: middle;
+	padding-top: 40px;
+	text-align: center;
+}
+.wearable_tech_bg2 .toppadding40 {
+	padding-top: 30px;
+	width: 65%;
+	float: left;
+}
+.wearable_tech {
+	width: 100%;
+	float: left;
+}
+.wearable_statics_bg {
+	background: #e5ebef;
+	position: relative;
+	width: 100%;
+}
+.wearable_statics_right {
+	background: #ecf2f7;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	width: 50%;
+}
+.static_bg {
+	float: left;
+	padding: 40px 0;
+	width: 48%;
+}
+.domin_focus {
+	float: left;
+	padding: 40px 0 0 50px;
+	position: relative;
+	width: 45%;
+	z-index: 99;
+}
+.wearable_person_part {
+	width: 100%;
+	padding: 30px 0;
+	float: left;
+}
+.wearable_person_bg {
+	width: 50%;
+	padding: 40px 0% 0 0;
+}
+.wearable_person {
+	background: url(../images/xamarian-border.png) no-repeat right bottom;
+	padding: 0 45px 0 30px;
+}
+.wearable_person .wearable-logo {
+	width: 85px;
+	float: left;
+	height: 70px;
+}
+.wearable_person h3 {
+	font-size: 21px;
+	padding-bottom: 20px;
+}
+.wearable_person2 {
+	width: 100%;
+	padding: 0 0 0 20px
+}
+.wearable_person2 .wearable-logo {
+	width: 85px;
+	float: left;
+	height: 70px;
+}
+.wearable_person2 h3 {
+	font-size: 21px;
+	padding-bottom: 20px;
+}
+.wearable_person_bg .listing {
+	padding-left: 0px;
+}
+.wearable_person_bg .listing li {
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+.mobile-crm-solutions ul {
+	margin: 0;
+}
+.mobile-crm-solutions ul li {
+	min-height: inherit;
+}
+.mobile-crm-bb {
+	padding: 50px 0 0;
+}
+.solution-busines-benefit {
+	padding: 50px 0 0;
+}
+.solution-busines-benefit .listview-content h4 {
+	padding: 0 10px 5px 0;
+}
+.solution-busines-benefit ul {
+	margin: 0px;
+}
+.solution-busines-benefit ul li {
+	margin: 0px;
+	padding: 0 0 10px;
+}
+.domin_focus img {
+	max-width: 100%;
+	height: auto;
+}
+.static_bg img {
+	max-width: 100%;
+	height: auto;
+}
+.pricestrips {
+	background: #4c87c9;
+	padding: 25px 0px;
+}
+.pricestrips h3 {
+	font-size: 35px;
+	color: #fff;
+}
+.pricestrips h3 strong {
+	font-size: 50px;
+	font-weight: bold;
+}
+.infograpic {
+	padding-top: 25px;
+}
+.toppadding50 {
+	padding-top: 50px;
+}
+.borderlinetop {
+	border-top: 1px solid #f0f0f0;
+}
+.msa-getintouch {
+	margin: 60px 0 0 0;
+}
+.static_cs_bg {
+	background: #fff;
+	border: 1px #e1e1e1 solid;
+	float: left;
+}
+.static_cs_bg_img {
+	width: 100%;
+	border-bottom: 1px #e1e1e1 solid;
+	margin-bottom: 10px;
+	float: left;
+}
+.static_cs_bg_img img {
+	width: 100%;
+	margin: 0;
+}
+.static_cs_left {
+	float: left;
+	margin: 0 0 10px 10px;
+}
+.static_cs_right {
+	float: right;
+	margin: 0 10px 10px 0px;
+}
+.enterprise_solution {
+	position: relative;
+	width: 100%;
+	padding: 0px 0 20px 0
+}
+.enterprise_solution_left {
+	position: absolute;
+	left: 0;
+	min-height: 190px;
+	padding: 5px 16px 0 18px;
+}
+.enterprise_solution_rgt {
+	padding: 0px 0 0 190px;
+}
+.enterprise_solution_rgt h4 {
+	font-size: 18px;
+	color: #979797;
+	padding: 0;
+}
+.enterprise_solution_rgt h1 {
+	font-size: 25px;
+	color: #101010;
+	font-weight: 300;
+	padding-bottom: 5px;
+	line-height: normal;
+}
+.enterprise_solution_rgt p {
+	font-size: 14px;
+	color: #4c4c4c;
+	padding-bottom: 10px;
+	padding-right: 10%;
+}
+.enterprise_solution_rgt a {
+	display: inline-block;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	background: url("../images/mobile_360.png") no-repeat scroll 0 110px rgba(0, 0, 0, 0);
+	min-height: 650px;
+	left: 0;
+	padding: 190px 52px 195px 87px;
+	position: absolute;
+	width: 390px;
+}
+.sharpoint_list .listing li {
+	width: 100% !important;
+}
+.sharepoint_ebook {
+	padding: 30px 0 0 0;
+}
+.sharepoint_clientsection {
+	background: none repeat scroll 0 0 #f5f5f5;
+	border-top: 1px solid #eaeaea;
+	bottom: 0;
+	padding: 10px 0;
+	position: relative;
+	width: 100%;
+}
+.xamarinwpWrap .minHeight {
+	min-height: 300px;
+}
+.xamarinwpWrap .xamarinwp.colum-40 img {
+	left: 0%;
+	margin-left: 0;
+	position: absolute;
+	top: 0;
+}
+.xamarinwpWrap .colum-60 {
+	padding-left: 30px;
+}/* Liferay New CSS Start */
+.lifeRayBanner {
+	padding-top: 20px;
+}
+.lifeRayBanner h1 {
+	font-weight: bold;
+	font-size: 40px;
+	padding-bottom: 18px;
+}
+.lifeRaySolution .contentSec {
+	width: 60%;
+	margin-right: 2%;
+	float: left;
+}
+.lifeRaySolution .pardotFormSec {
+	width: 34%;
+	float: right;
+	padding: 20px;
+	background: #3b9acc; /* Old browsers */
+	background: -moz-linear-gradient(top, #3b9acc 0%, #1270a2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3b9acc), color-stop(100%, #1270a2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #3b9acc 0%, #1270a2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #3b9acc 0%, #1270a2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #3b9acc 0%, #1270a2 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #3b9acc 0%, #1270a2 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b9acc', endColorstr='#1270a2', GradientType=0 ); /* IE6-9 */
+}
+.lifeRaySolution .pardotFormSec p {
+	font-size: 10px;
+	font-weight: 400;
+	text-align: center;
+	color: #fff;
+	line-height: 15px;
+	padding: 0;
+}
+.lifeRay-knwworkspend {
+	background: #e9f4fa;
+	overflow: hidden;
+}
+.knwworkspend {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.knwworkspend h2 {
+	text-align: center;
+	font-size: 36px;
+	color: #0d8dbb;
+	font-weight: bold;
+	padding: 35px 50px 20px;
+	line-height: 38px;
+}
+.knwworkspend p {
+	padding: 0;
+	line-height: inherit;
+}
+.knwworkspend i {
+	font-size: 10px;
+	color: #738e9f;
+	padding: 0 0 5px 5px;
+	display: block;
+	font-style: normal;
+}
+.knwworkspendEmail {
+	width: 25%;
+	float: left;
+	background: #cadfeb;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+	padding: 40px 0 30px;
+}
+.knwworkspendEmail strong {
+	font-size: 28px;
+	color: #738e9f;
+	font-weight: bold;
+	padding: 10px 0;
+	display: block;
+}
+.knwworkspendEmail strong span {
+	font-weight: normal;
+	font-size: 14px;
+}
+.knwworkspendEmail p {
+	font-size: 12px;
+	color: #738e9f;
+	line-height: 18px;
+	padding: 0;
+}
+.knwworkspendUser {
+	width: 25%;
+	float: left;
+	background: #d9e8f1;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+	padding: 40px 0 30px;
+}
+.knwworkspendUser strong {
+	font-size: 28px;
+	color: #738e9f;
+	font-weight: bold;
+	padding: 10px 0;
+	display: block;
+}
+.knwworkspendUser strong span {
+	font-weight: normal;
+	font-size: 14px;
+}
+.knwworkspendUser p {
+	font-size: 12px;
+	color: #738e9f;
+	line-height: 18px;
+	padding: 0;
+}
+.lifeRayServices li {
+	width: 46%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	display: block;
+	margin: 3% 2%;
+	float: left;
+}
+.lifeRayServices li h2 {
+	background: #0d8dbb;
+	padding: 15px 0 30px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600;
+	color: #fff;
+}
+.lifeRayServices li .lifeRayServicesContent {
+	width: 96%;
+	margin: -15px auto;
+	background: #fff;
+	box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.05);
+	-webkit-box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, 0.05);
+	padding: 30px 30px 0 30px;
+	min-height: 280px;
+}
+.lifeRayServices li .lifeRayServicesContent p {
+	line-height: 28px;
+	text-align: center;
+}
+.lifeRayBusinessLoss {
+	background: url(../images/businessLoss-bg.jpg) no-repeat top left;
+	background-size: cover;
+	padding: 70px 0 50px;
+}
+.lifeRayBusinessLoss li {
+	width: 24.6%;
+	display: inline-block;
+	box-sizing: border-box;
+	text-align: center;
+	vertical-align: top;
+	position: relative;
+}
+.lifeRayBusinessLoss li.crosssign:after {
+	background: url(../images/liferay-cross-icon.png) no-repeat top left;
+	width: 45px;
+	height: 33px;
+	position: absolute;
+	right: -20px;
+	top: 50%;
+	content: "";
+	font-size: 1px;
+	margin-top: 20px;
+}
+.lifeRayBusinessLoss li.equalsign:after {
+	background: url(../images/liferay-equal-icon.png) no-repeat top left;
+	width: 45px;
+	height: 33px;
+	position: absolute;
+	right: -10px;
+	top: 50%;
+	content: "";
+	font-size: 1px;
+	margin-top: 20px;
+}
+.lifeRayBusinessLoss li span {
+	display: block;
+}
+.lifeRayBusinessLoss li strong {
+	font-size: 48px;
+	font-weight: 600;
+	color: #fff;
+	display: block;
+}
+.lifeRayBusinessLoss li i {
+	font-size: 20px;
+	color: #fff;
+	font-style: normal;
+}
+.liferay-idealChoice h1 {
+	text-align: center;
+	font-size: 30px;
+	color: #000000;
+}
+.liferay-idealChoice ul {
+	margin: 60px 0;
+}
+.liferay-idealChoice li {
+	width: 25%;
+	display: inline-block;
+	box-sizing: border-box;
+	border: solid 1px #ccc;
+	text-align: center;
+	padding: 50px 0 20px;
+	border-right: 0;
+	margin: 0 -2px;
+}
+.liferay-idealChoice li:last-child {
+	border-right: solid 1px #ccc;
+}
+.liferay-idealChoice li:hover {
+	background: #0d8dbb;
+	transition-duration: 0.3s;
+}
+.liferay-idealChoice li i {
+	background: url(../images/liferay-idealcons.png) no-repeat top left;
+	width: 113px;
+	height: 104px;
+	display: inline-block;
+	margin-bottom: 20px;
+	transition-duration: 0.4s;
+}
+.liferay-idealChoice li i.idealChoiceicon1 {
+	background-position: 0 0;
+}
+.liferay-idealChoice li i.idealChoiceicon2 {
+	background-position: -123px 0;
+}
+.liferay-idealChoice li i.idealChoiceicon3 {
+	background-position: -246px 0;
+}
+.liferay-idealChoice li i.idealChoiceicon4 {
+	background-position: -369px 0;
+}
+.liferay-idealChoice li:hover i.idealChoiceicon1 {
+	background-position: 0 -114px;
+}
+.liferay-idealChoice li:hover i.idealChoiceicon2 {
+	background-position: -123px -114px;
+}
+.liferay-idealChoice li:hover i.idealChoiceicon3 {
+	background-position: -246px -114px;
+}
+.liferay-idealChoice li:hover i.idealChoiceicon4 {
+	background-position: -369px -114px;
+}
+.liferay-idealChoice li h4 {
+	font-size: 28px;
+	color: #0d8dbb;
+}
+.liferay-idealChoice li:hover h4 {
+	color: #fff;
+}
+.liferay-idealChoice a.orgbtn {
+	display: inline-block;
+	margin: 3px 3px;
+	background: #f7941d;
+	color: #fff;
+	padding: 10px 50px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border-radius: 25px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.liferay-idealChoice a.orgbtn:hover {
+	background: #ff9e27;
+}
+.liferayPortfolio h1 {
+	text-align: center;
+	font-size: 30px;
+	color: #000000;
+	padding-bottom: 30px;
+}/* Liferay New CSS End */
+@media only screen and (max-width:1120px) {
+}
+@media only screen and (max-width:1100px) {
+.wearable_tech_bg2 .toppadding40 {
+	width: 60%
+}
+}
+@media only screen and (max-width:1024px) {
+.mobile_app_work_bg .framwork-services li {
+min-height:;
+}
+.mobile-crm-solutions ul li {
+	min-height: inherit !important;
+}
+.wearable_tech_bg .appleWatchZigzag .marginLeft {
+	margin-left: 0px;
+}
+.wearable_tech_bg .appleWatchZigzag .marginRight {
+	margin-right: 0px;
+}
+.banner-portfolio-inner .portfolio-banner-sec {
+	position: relative;
+}
+}
+@media only screen and (max-width:959px) {
+.wearable_tech_bg .appleWatchZigzag .imageitem {
+	padding: 25px;
+}
+.pricestrips h3 {
+	text-align: center;
+}
+}
+@media only screen and (min-width:768px) and (max-width:959px) {
+.fleet-management .toppadding100 {
+	padding: 50px 0 0;
+}
+.field-service .toppadding100 {
+	padding: 30px 0 0;
+}
+.ar-bg .listing li {
+	width: 100%;
+}
+.xamarin-blog-bg {
+	width: 100%;
+}
+.xamarin_blog {
+	padding: 0;
+}
+.knwworkspend {
+	width: 40%;
+}
+.knwworkspend h2 {
+	padding: 35px 20px 20px;
+	font-size: 26px;
+	line-height: 32px;
+}
+.knwworkspendEmail {
+	width: 30%;
+	padding: 40px 0 30px;
+}
+.knwworkspendUser {
+	width: 30%;
+	padding: 40px 0 11px;
+}
+.knwworkspendUser strong, .knwworkspendEmail strong {
+	font-size: 25px;
+}
+.lifeRayServices li {
+	width: 48%;
+	margin: 3% 1%;
+}
+.lifeRayServices li h2 {
+	font-size: 23px;
+}
+.lifeRayBusinessLoss li {
+	width: 24.5%;
+}
+.lifeRayBusinessLoss li strong {
+	font-size: 28px;
+}
+.lifeRayBusinessLoss li i {
+	font-size: 16px;
+}
+}
+@media only screen and (max-width:800px) {
+.xamarin_blog {
+	background: none
+}
+.sap-tabbing .sap-tab-left .listing li {
+	width: 100%;
+}
+.sap-tabbing .zilla-tabs .zilla-nav li {
+	width: auto
+}
+.sap-tab2 .zilla-tabs .zilla-nav li {
+	width: auto
+}
+.wearable_tech_bg2 .toppadding40 {
+	width: 48%;
+}
+.wearable_person {
+	background: none;
+	padding: 0 26px 0 0px;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	background-size: 100%;
+	width: 40%;
+	padding: 150px 52px 150px 50px;
+}
+.enterprise-tab .ui-tabs-panel {
+	padding-left: 44%;
+}
+.enterprise-tab .zilla-nav li {
+	padding: 5px 0
+}
+}
+@media only screen and (max-width:767px) {
+li.image-bg .slotholder .tp-bgimg{background-position: center top!important}
+.sap-tab2-right{padding-left:0px; }
+.xamarin_blog .xamarin-logo {
+	width: 100%;
+	text-align: center;
+}
+.xamarin_blog2 .xamarin-logo {
+	width: 100%;
+	text-align: center;
+}
+.xamarin-blog-bg {
+	width: 100%;
+}
+.xamarin_blog {
+	padding: 0;
+	width: 100%;
+}
+.ui-acc-content .col-13 {
+	width: 100%;
+}
+.ui-acc-content .columns > .column {
+	margin-left: 0;
+}
+.sap-tabbing .zilla-tabs {
+	width: 100%;
+	float: left;
+}
+.sap-tabbing .zilla-tabs .zilla-tab {
+	width: 100%;
+	float: left;
+}
+.sap-tabbing .sap-tab-left {
+	width: 100%;
+	padding-right: 0;
+}
+.sap-tabbing .sap-tab-right {
+	width: 100%;
+	padding: 0;
+}
+.sap-tab2-left {
+	width: 100%;
+}
+.sap-tab2-right {
+	width: 100%;
+}
+.sap-tabbing .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.sap-tab2 .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.ms-bi-tool-bg .framwork-services li {
+	width: 100%;
+}
+.mobile_sale_app_bg {
+	background: rgba(0,0,0,.8);
+	width: 100%;
+	min-height: 350px
+}
+.mobile_sale_app_bg .listing-view li {
+	width: 100%;
+	float: left;
+	padding: 33px 0;
+	min-height: 150px;
+}
+.mobile_app_work_bg .framwork-services li {
+	width: 100%;
+	float: left;
+	min-height: 225px;
+}
+.wearable_tech_bg .imageitem {
+	width: 100%;
+}
+.wearable_tech_bg2 .imageitem {
+	width: 100%;
+}
+.wearable_tech_bg2 .toppadding40 {
+	width: 100%;
+}
+.wearable_statics_right {
+	width: 100%;
+	position: relative;
+}
+.static_bg {
+	width: 100%;
+}
+.domin_focus {
+	width: 100%;
+	padding-left: 0
+}
+.wearable_person_bg {
+	width: 100%;
+}
+.wearable_person {
+	background: none;
+	padding: 0;
+}
+.wearable_person2 {
+	padding: 0;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	background-size: 100%;
+	width: 100%;
+	padding: 67px 52px 62px 8em;
+	position: relative;
+	background-position: 0 0;
+	min-height: 350px;
+}
+.enterprise-tab .ui-tabs-panel {
+	padding-left: 0%;
+	clear: both;
+	position: relative;
+}
+.enterprise-tab .zilla-nav li {
+	padding: 5px 0
+}
+.enterprise_solution_rgt {
+	width: 100%;
+	padding: 0;
+	position: relative;
+	clear: both;
+}
+.enterprise_solution_left {
+	position: relative;
+	width: 100%;
+}
+.xamarinwpWrap .colum-60 {
+	padding-left: 0px;
+}
+.pricestrips h3 {
+	font-size: 27px;
+}
+.pricestrips h3 strong {
+	font-size: 35px;
+}
+.knwworkspend, .lifeRayServices li {
+	width: 100%;
+}
+.lifeRayBanner h1 {
+	font-size: 25px;
+}
+.lifeRayServices li .lifeRayServicesContent {
+	padding-bottom: 25px;
+	min-height: inherit;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.lifeRayServices li .lifeRayServicesContent p {
+	line-height: 25px;
+}
+.liferay-idealChoice h1 {
+	font-size: 25px;
+	line-height: normal;
+}
+.knwworkspend h2 {
+	font-size: 27px;
+}
+.liferay-idealChoice a.orgbtn {
+	font-size: 16px;
+}
+.salesforceDiscoveryList ul li .listview-content {
+	padding-right: 0px;
+}
+.lifeRayServices li {
+	margin-left: 0;
+	margin-right: 0;
+}
+}
+@media only screen and (min-width:480px) and (max-width:767px) {
+.mobile_sale_app_bg .listing-view li {
+	width: 50%;
+	margin-bottom: 20px;
+	min-height: inherit;
+}
+.mobile_sale_app_bg .listing-view li .listview-content {
+	padding-left: 90px;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	width: 320px;
+	padding: 67px 52px 62px 55px;
+	position: relative;
+	background-position: 0 0;
+	height: 350px;
+}
+.xamarinwpWrap .minHeight {
+	min-height: 340px;
+}
+.lifeRayBanner h1 {
+	line-height: 55px;
+	margin-bottom: 0;
+}
+.lifeRaySolution .contentSec, .lifeRaySolution .pardotFormSec {
+	width: 100%;
+}
+.knwworkspend h2 {
+	padding: 35px 10px 20px;
+}
+.knwworkspend p {
+	text-align: center;
+}
+.knwworkspendEmail, .knwworkspendUser {
+	width: 50%;
+}
+.lifeRayBusinessLoss li {
+	width: 49%;
+	margin-bottom: 30px;
+}
+.liferay-idealChoice li {
+	width: 50%;
+	border-right: solid 1px #1c75c9;
+}
+}
+@media only screen and (max-width:550px) {
+.wearableBanner img {
+	display: none;
+}
+.wearableBanner h1 {
+	padding-top: 40px;
+}
+.mobile_sale_app_bg {
+	background: url(../images/features_bg.jpg) no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	width: 320px;
+	padding: 67px 52px 62px 55px;
+	position: relative;
+	background-position: 0 0;
+	height: 350px;
+}
+.lifeRayBusinessLoss li {
+	width: 100%;
+	padding-bottom: 60px;
+}
+.lifeRayBusinessLoss li.crosssign:after, .lifeRayBusinessLoss li.equalsign:after {
+	right: 0;
+	width: 100%;
+	text-align: center;
+	top: inherit;
+	bottom: 0;
+	background-position: top center;
+}
+.lifeRayBusinessLoss li:last-child {
+	padding-bottom: 0
+}
+}
+@media only screen and (max-width:479px) {
+.mobile_sale_app_bg .listing-view li {
+	min-height: 100px !important;
+	padding: 35px 0 0 !important;
+}
+.lifeRaySolution .contentSec, .lifeRaySolution .pardotFormSec {
+	width: 100%;
+}
+.knwworkspend h2 {
+	padding: 35px 10px 20px;
+}
+.knwworkspend p {
+	text-align: center;
+}
+.knwworkspendEmail, .knwworkspendUser {
+	width: 50%;
+}
+.liferay-idealChoice li {
+	width: 50%;
+	border-right: solid 1px #1c75c9;
+}
+}
+@media only screen and (max-width:399px) {
+.xamarin-blog-bg {
+	width: 100%;
+}
+.xamarin_blog .xamarin-logo {
+	width: 100%;
+	text-align: center;
+}
+.xamarin_blog2 .xamarin-logo {
+	width: 100%;
+	text-align: center;
+}
+.xamarin_blog {
+	padding: 0;
+	width: 100%;
+}
+.ui-acc-content .col-13 {
+	width: 100%;
+}
+.ui-acc-content .columns > .column {
+	margin-left: 0;
+}
+.sap-tabbing .zilla-tabs {
+	width: 100%;
+	float: left;
+}
+.sap-tabbing .zilla-tabs .zilla-tab {
+	width: 100%;
+	float: left;
+}
+.sap-tabbing .sap-tab-left {
+	width: 100%;
+	padding-right: 0;
+}
+.sap-tabbing .sap-tab-right {
+	width: 100%;
+	padding: 0;
+}
+.sap-tab2-left {
+	width: 100%;
+}
+.sap-tab2-right {
+	width: 100%;
+}
+.sap-tabbing .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.sap-tab2 .zilla-tabs .zilla-nav li {
+	width: 100%;
+}
+.ms-bi-tool-bg .framwork-services li {
+	width: 100%;
+}
+.mobile_sale_app_bg {
+	background: url(../images/features_bg.jpg) no-repeat;
+	background-size: cover;
+	width: 100%;
+	min-height: 350px
+}
+.mobile_sale_app_bg .listing-view li {
+	width: 100%;
+	float: left;
+	padding: 33px 0;
+	min-height: 150px;
+}
+.mobile_app_work_bg .framwork-services li {
+	width: 100%;
+	float: left;
+	min-height: 225px;
+}
+.static_cs_left {
+	float: left;
+	margin: 0 0 10px 0px;
+	width: 100%;
+	text-align: center;
+}
+.static_cs_right {
+	float: right;
+	margin: 0 0px 10px 0px;
+	width: 100%;
+	text-align: center;
+}
+.wearable_tech_bg .imageitem {
+	width: 100%;
+}
+.wearable_tech_bg2 .imageitem {
+	width: 100%;
+}
+.wearable_tech_bg2 .toppadding40 {
+	width: 100%;
+}
+.wearable_statics_right {
+	width: 100%;
+	position: relative;
+}
+.static_bg {
+	width: 100%;
+}
+.domin_focus {
+	width: 100%;
+	padding-left: 0
+}
+.wearable_person_bg {
+	width: 100%;
+	padding: 0;
+}
+.wearable_person {
+	background: none;
+	padding: 0;
+}
+.wearable_person2 {
+	padding: 0;
+}
+.enterprise-tab .zilla-tab-inner .zilla-nav {
+	background-size: 100%;
+	width: 100%;
+	padding: 67px 52px 62px 50px;
+	position: relative;
+	background-position: 0 0;
+	min-height: 350px;
+}
+.xamarinwpWrap .minHeight {
+	min-height: 240px;
+}
+.lifeRayBanner h1 {
+	margin-bottom: 0;
+}
+.lifeRaySolution .contentSec, .lifeRaySolution .pardotFormSec {
+	width: 100%;
+}
+.knwworkspend {
+	width: 100%;
+}
+.knwworkspend h2 {
+	padding: 35px 10px 20px;
+}
+.knwworkspend p {
+	text-align: center;
+}
+.knwworkspendEmail, .knwworkspendUser {
+	width: 50%;
+}
+.lifeRay-knwworkspend {
+	margin-bottom: 30px;
+}
+.lifeRayServices li {
+	width: 100%;
+	margin: 10% 0;
+}
+.lifeRayServices li h2 {
+	font-size: 24px;
+}
+.lifeRayBusinessLoss li {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.liferay-idealChoice li {
+	width: 100%;
+	border: solid 1px #1c75c9;
+	border-right: solid 1px #1c75c9;
+}
+.liferay-idealChoice a.orgbtn {
+	border-radius: 10px;
+	padding: 10px 20px;
+}
+.lifeRaySolution ul.listing li {
+	width: 100%
+}
+}

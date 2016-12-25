@@ -1,0 +1,662 @@
+<!doctype html>
+<html>
+
+<!-- Mirrored from go.softwebsolutions.com/resources/webinar-on-rise-of-bots.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Dec 2016 03:09:33 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>[Webinar] Fall of Mobile Apps and the Rise of Bots | Build a Bot |Softweb Solutions Inc</title>
+<meta name="description" content="Build a bot for enterprise users - bots can be deployed for several purposes such as customer service, shopping assistants, virtual assistants and even medical advice.  Join our webinar to get more insights of bot, NPL and frameworks."/>
+<meta name="keywords" content=""/>
+
+<link href="../../www.softwebsolutions.com/wp-content/uploads/2015/02/favicon.ico" rel="shortcut icon">
+
+<!-- RESPONSIVE META -->
+<meta name="viewport" content="width=device-width initial-scale=1.0">
+
+<!--FONTS-->
+<link href='https://fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+
+<!--CSS-->
+<link rel="stylesheet" type="text/css" href="../../www.softwebsolutions.com/index.html">
+<link rel="stylesheet" type="text/css" href="../../www.softwebsolutions.com/index.html">
+
+<style>
+@charset "utf-8";
+/* CSS Document */
+
+/* Reset Code */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Clearfix code */
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+/*---- GLOBAL ----*/
+html {
+	width: 100%;
+	height: 100%;
+}
+* {
+	padding: 0;
+	margin: 0;
+	outline: 0 none;
+}
+body {
+	font-family: 'Raleway', sans-serif; /* font-family: 'Open Sans', sans-serif; */
+	font-weight: 400;
+	color: #242424;
+	font-size: 14px;
+	line-height: 24px;
+	-webkit-font-smoothing: antialiased;
+}
+a {
+	color: #507cbe;
+}
+.wrapper {
+	position: relative;
+	width: 100%;
+	display: block;
+	clear: both;
+}	
+.container{
+    max-width: 895px;
+    margin: auto;
+}	
+h1,h2, h3, h4, h5 {
+	font-size:22px;
+	line-height:125%;
+}
+
+/*---- HEADER ----*/
+header{
+	padding:50px 0;
+	text-align:center;
+}
+.logo a{
+	background: url(http://storage.pardot.com/12632/143146/softweb_logo_dark.svg) no-repeat center;
+    background-size: 187px 81px;
+    width: 187px;
+    height: 81px;
+    display: block;
+	text-indent:-999em;
+	margin:0 auto;
+}
+
+/*BANNER*/
+#banner h1{
+	font-size:32px;
+	color:#000000;
+	margin-bottom:30px;
+	background:url(http://storage.pardot.com/12632/143876/webinar_logo.png) no-repeat left center;
+	padding-left:110px;
+	min-height: 60px;
+}
+.banner_form{
+    margin: 0 0 20px;
+}
+.time_table {
+    width: 100%;
+    margin: 0 0 30px;
+    background: #2b9fd9;
+    padding: 15px;
+    color: #ffffff;
+	box-sizing:border-box;
+}
+.time_table ul li{
+	font-family: 'Open Sans', sans-serif;
+	font-size:20px;
+	line-height:100%;
+	display:inline-block;
+}
+.time_table ul li span{
+	font-weight:600;
+}
+.time_table ul li.timeleft{
+	border-right:2px solid #ffffff;
+	width:36%
+}
+.time_table ul li.timecenter{
+	text-align:center;
+	border-right:2px solid #ffffff;
+	width:37%;
+}
+.time_table ul li.timeright{
+	text-align:right;
+	width:25%;
+}
+
+/*THREE PART DETAIL*/
+#webinar_detail{
+	padding:0 0 50px;
+}
+#webinar_detail h3{
+	font-size:22px;
+	color:#2b9fd9;text-transform:uppercase;
+	letter-spacing:2px;
+	margin:15px 0 20px;
+}
+.speaker{
+	width:30%;
+	float:left;
+	display:block;
+	border: 1px solid #dce3ef;
+	padding: 0 15px;
+    box-sizing: border-box;
+}
+.speaker figure{
+	text-align:center;
+	margin-bottom:20px;
+}
+.speaker img{
+	border-radius:50%;
+}
+.speaker h4{
+	font-size:16px;
+	text-transform:uppercase;
+	color:#000000;
+	padding:10px 0 8px;
+}
+.speaker span{
+	color:#666666;
+	font-style:italic;
+	display:block;
+}
+.speaker p{
+	color:#666666;
+}
+.about_webinar{
+	width:66%;
+	float:right;
+	display:block;
+}
+.about_webinar p{
+	margin-bottom:25px;
+}
+.about_webinar li{
+	background:url(http://storage.pardot.com/12632/143940/arrow.png) no-repeat left 3px;
+	margin-bottom:10px;
+	padding-left:40px;
+}
+footer{
+	text-align:center;
+	background: #303030;
+    padding: 15px 0;
+	color:#ffffff;
+}
+
+	
+/*New Style*/	
+.banner{
+	width:70%;
+	float:left;
+	display:block;
+}
+.form{
+	width:30%;
+	float:right;
+	display:block;
+}
+.form h5 {
+   font-size: 15px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 20px 15px 15px;
+    background: #167eb2;
+    border-radius: 5px 5px 0 0;
+}
+.form_cover{
+		min-height:345px;
+		background:#2b9fd9;
+}
+.about_webinar ul {
+    margin-bottom: 50px;
+}
+.about_webinar h4 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.about_webinar p b {
+    font-weight: 700;
+}
+	
+@media only screen and (min-width: 768px) and (max-width: 890px) {
+	.container {
+    	max-width: 95%;
+	}
+	header {
+    padding: 30px 0;
+	}
+	#banner h1 {
+    font-size: 28px;
+	}
+	#banner img{
+		width:100%;
+	}
+	.time_table ul li{
+		font-size: 17px;
+	}
+	.banner {
+    width: 68%;
+	}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	.container {
+    	max-width: 95%;
+	}
+	header {
+    padding: 30px 0;
+	}
+	#banner h1 {
+    font-size: 28px;
+	background: url(http://storage.pardot.com/12632/143876/webinar_logo.png) no-repeat center top;
+    padding-left: 0;
+    padding-top: 76px;
+    text-align: center;
+	}
+	#banner img{
+		width:100%;
+	}
+	.time_table ul li{
+		font-size: 18px;
+		line-height:24px;
+		display:block;
+	}
+	.time_table ul li.timeleft {
+    border-right: none;
+    width: 100%;
+	text-align:center;
+	}
+	.time_table ul li.timecenter {
+    border-right: none;
+    width: 100%;
+}		
+.time_table ul li.timeright {
+    text-align: center;
+    width: 100%;
+}
+.speaker {
+    width: 100%;
+    float: none;
+}
+.speaker figure {
+    text-align: center;
+    margin-bottom: 20px;
+    width: 48%;
+    display: inline-block;
+}
+.speaker h4 {
+    font-size: 14px;
+}
+.speaker span{
+	font-size:11px;
+}
+.speaker img{
+	height:100px;
+	width:100px;
+}
+.about_webinar {
+    width: 100%;
+    float: none;
+}
+#webinar_detail h3{
+	margin-bottom:10px;
+}
+.banner {
+    width: 100%;
+    float: none;
+    display: block;
+}
+.form {
+    width: 100%;
+    float: none;
+    display: block;
+    margin-top: 20px;
+}
+.speaker figcaption img {
+    width: auto;
+    height: auto;
+}
+}
+	
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 550px) and (max-width: 767px) {	
+	
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	#banner h1 {
+    font-size: 20px;
+	margin-bottom:20px;
+	}
+	.time_table{
+		padding: 10px 0 20px;
+	}
+	.speaker figure {
+    width: 100%;
+    display: block;
+	}
+	#webinar_detail h3{
+		text-align:center;
+	}
+	.about_webinar p {
+ 	   margin-bottom: 15px;
+	}
+	.logo a {
+    background-size: auto 60px;
+    width: auto;
+    height: 60px;
+	}
+	.pardot_form h5{
+		font-size:20px;
+	}
+	.speaker span {
+    font-size: 13px;
+	    line-height: 16px;
+	}
+	.time_table ul li {
+    font-size: 16px;
+	}
+	.about_webinar p {
+    margin-bottom: 15px;
+}
+.about_webinar h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+		
+}
+.qa_toggle{display:none;}
+.qa_button{text-decoration:underline; color:#2b9fd9; font-size:20px; cursor:pointer;}
+
+</style>
+
+</head>
+<body>
+    <!-- Google Tag Manager --><noscript>
+<iframe src="http://www.googletagmanager.com/ns.html?id=GTM-65W23"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-65W23');</script><!-- End Google Tag Manager -->
+<header>
+<div class="logo"><a href="../../www.softwebsolutions.com/index.html">Softweb Solutions Inc.</a></div>
+</header>
+
+<section class="wrapper" id="banner">
+<div class="container">
+<h1>Fall of Mobile Apps and the Rise of Bots</h1>
+
+<div class="banner_form clearfix">
+<div class="banner"><img alt="webinar banner" src="../../www.softwebsolutions.com/wp-content/uploads/2016/09/bot1.png" /></div>
+
+<div class="form">
+<h5>On Demand Webinar</h5>
+
+<div class="form_cover"><iframe allowtransparency="true" frameborder="0" height="345" src="../l/12632/2016-10-05/365dtk068b.html?wid=15650&amp;webinar_name=Fall%20of%20Mobile%20Apps%20and%20the%20Rise%20of%20Bots" style="border: 0" type="text/html" width="100%"></iframe></div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="wrapper clearfix" id="webinar_detail">
+<div class="container"><!--Speaker-->
+<div class="speaker">
+<h3>Speakers</h3>
+
+<figure><img alt="ANKIT ZAVERI" src="../../www.softwebsolutions.com/wp-content/uploads/2016/09/ankit-3.png" />
+<figcaption>
+<h4>ANKIT ZAVERI</h4>
+<span>Solution Architect,</span>
+
+<p>Softweb Solutions</p>
+<a href="https://www.linkedin.com/in/ankit-zaveri-18a50b7" target="_blank"><img alt="" src="http://storage.pardot.com/12632/144422/linkedin1.png" /></a></figcaption>
+</figure>
+
+<figure><img alt="DHAVAL SAHIJA" src="../../www.softwebsolutions.com/wp-content/uploads/2016/09/dhaval-2.png" />
+<figcaption>
+<h4>DHAVAL SAHIJA</h4>
+<span>Manager - Enterprise Solutions,</span>
+<p>Softweb Solutions</p>
+<a href="https://www.linkedin.com/in/dhavalsahija" target="_blank"><img alt="" src="http://storage.pardot.com/12632/144422/linkedin1.png" /></a></figcaption>  
+</figcaption>
+</figure>
+</div>
+<!--About Webinar-->
+
+<div class="about_webinar">
+<h3>About Webinar</h3>
+
+<p>2016 has become the year of bots. People are abandoning their mobile apps and switching over to using bots for business, shopping, work, entertainment and news. The average American today downloads very few new apps every month. This means that unless the app you are developing is going to be the next Uber or Tinder there is a small chance of you being able to achieve a million downloads quickly.</p>
+
+<p>Bots can be deployed for several purposes such as customer service, shopping assistants, virtual assistants and even medical advice. In this webinar we will talk about how enterprises can build bots and how they can use them to not just reach out to more customers but also increase the productivity of their organizations.</p>
+
+<h3>Webinar agenda</h3>
+
+<ul>
+	<li>Introduction to bots</li>
+	<li>Messaging apps are the new platform</li>
+	<li>Why enterprises need bots</li>
+	<li>Chatbots are the future of conversational commerce</li>
+	<li>Industry specific use cases</li>
+	<li>Bot Frameworks and Natural language processing (NLP)</li>
+	<li>Demo</li>
+	<li>Q&amp;A</li>
+</ul>
+
+<h3>Questions &amp; Answers</h3>
+
+<p><b>The following are the answers to the questions that were asked during the live webinar.</b></p>
+
+<h4>Question 1: Does a bot remember a question or a conversation and learn more about you from them?</h4>
+
+<p><b>Answer 1:</b> The AI-based bot can remember the conversation and can learn more about you from dialogue. The same can be achieved by integrating the bot with Machine Learning.</p>
+
+<h4>Question 2: Why is the app boom dead? Isn&#39;t it just changing so that apps sit on top of bots and are called skills instead?</h4>
+
+<p><b>Answer 2:</b> The app boom is not over. It is actually the evolution of IT. And if we go back in history and understand evolution of IT; mainframes were used from late 1950s till early 70s , and then going forward in the 80s people were using desktop applications such as IBM OS2, Delphi, etc, and if we talk about early 90s, people starting using web applications after launch of the WorldWideWeb.</p>
+
+<p>Mobility started gaining traction in 2007, which changed the way how businesses works. Now in 2016 we see there is a major transformation and people are spending more and more time chatting on messengers for collaboration with friends, employees and relatives. So basically messaging applications are the new platforms for bot and they work on top of web applications.</p>
+
+<h4>Question 3: In the pizza ordering bot demo and the banking bot demo, how do we know that it was the bot giving answers and not a human?</h4>
+
+<p><b>Answer 3:</b> We would be more than happy to email you with the link of the bots. You can add these bots as contact in your messenger and have a hands on experience with chatbots. Feel free to drop an email at info@softwebsolutions.com.</p>
+
+<h4>Question 4: In what kind of use-cases/scenarios does it make sense to not use a bot?</h4>
+
+<p><b>Answer 4:</b> As of now the bot may not be the best option in which the user experience is the primary objective of the application or in case the application has very exhaustive features and a large database. Most of the bot frameworks and platforms are recently launched and as the technology evolves, we are hopefull that all these limitations will be overcome.</p>
+
+<h4>Question 5: What is your experience in this field?</h4>
+
+<p><b>Answer 5:</b> Softweb&#39;s experience with bots includes pizza ordering bot for consumers, order tracking bot for B2B, workplace productivity bot, customer care bot for eCommerce, to name a few.</p>
+
+<div class="qa_toggle">
+<h4>Question 6: Are the ruled-based bots able to answer questions based on how good the rule is and how extensive the database is?</h4>
+
+<p><b>Answer 6:</b> We can have a rule-based bot that understands the value that we supply. However, the limitation is that it won&rsquo;t understand the intent and context of the user&rsquo;s conversation with it.</p>
+
+<p>For example: If you are booking a flight to Paris, you might say &ldquo;Book a flight to Paris&rdquo; and someone else might say that &ldquo;I need a flight to Paris&rdquo; while someone from another part of the world may use his native language to have the same context.AI-based or NLP-based bot identifies the language, context and intent and then it reacts based on that. A rule based bot only understands a pre-defined set of options.</p>
+
+<h4>Question 7: How long does it typically take to create a food delivery chatbot or a banking bot or some other bot?</h4>
+
+<p><b>Answer 7:</b> The bots that we have shown as of now are for demo purposes. We can talk about industry-specific use cases and your particular business needs. Based on that we would be able to let you know how long it will take to develop a bot for your business. Feel free to drop us an email or fill up our inquiry form to know the implementation timeline and development efforts for a bot.</p>
+
+<h4>Question 8: What kind of a bot was shown to us in the demo? Was it a rule-based bot or NLP-based bot?</h4>
+
+<p><b>Answer 8:</b> The demo of bots that we have showcased were a hybrid of rule-based and AI-based bot with LUIS Integration.</p>
+
+<h4>Question 9: Do you use NLP in bots?</h4>
+
+<p><b>Answer 9:</b> Yes, the bot demo of the pizza ordering bot and banking bot that you saw have been implemented using LUIS.</p>
+
+<p>LUIS is Language Understanding Intelligent Service offered by Microsoft and can be integrated with the majority of databases or backend applications.</p>
+
+<h4>Question 10: In my experience, NLP is not yet this advanced and cannot recognize all typed or spoken language. Especially the Dutch language is difficult in this case. Would there be a possibility to combine rule-based and NLP techniques?</h4>
+
+<p><b>Answer 10:</b> Yes, we can combine rule-based bot and NLP techniques to achieve an optimum end-result. The overall technology of NLP and bot is evolving. We can combine bots, ML algorithms and LUIS to achieve the best results. NLP is very wide area and we can have a dedicated webinar on that; however you can drop us AN email to schedule a call for further discussion.</p>
+
+<h4>Question 11: Where and how to use NLP?</h4>
+
+<p><b>Answer 11:</b> NLP is natural language processing and can be used in scenarios where static or predefined answers, options and questions may not work. In fact, if you want to understand the intent and context of the user, then it is advisable to use NLP.</p>
+
+<p>For example: If we talk about pizza ordering bot in which you can give pre-considered options of pizza topping using rule-based bot then that&rsquo;s possible, but if in case you want to understand the intent of the user where one person is saying &ldquo;I am hungry&rdquo; and another person is saying &ldquo;I am starving&rdquo;, so it would make more sense to use NLP, so that the bot can understand what the user is trying to convey.</p>
+
+<h4>Question 12: What is the difference between a framework and a platform? Can these terms be used interchangeably?</h4>
+
+<p><b>Answer 12:</b> The difference between a framework and platform is that&ndash;</p>
+
+<p>A framework consists different components to develop a bot using SDKs and connector services and other frameworkS. E.g.Microsoft or Java etc.</p>
+
+<p>A platform is something where the application is built, such as iOS and Android where we create our applications and install on these platforms.</p>
+
+<p>The best thing about the bot service is that it is platform independent, all you need is a chat messenger. You can start using the bot by adding it as a contact.</p>
+
+<h4>Question 13: How popular is LUIS and what are the other NLP platforms?</h4>
+
+<p><b>Answer 13:</b> LUIS is in preview mode but you can visit the Microsoft website for more details on it. Microsoft is also evolving the NLP platform and over time the technology will mature.</p>
+
+<h4>Question 14: How much does it cost to develop a food delivery bot for a restaurant or a bot for FB Messenger?</h4>
+
+<p><b>Answer 14:</b> We need to understand the use cases that you wish to implement with the bot and based on that we will be able to provide an estimated cost.</p>
+
+<h4>Question 15: Are bots required to sit on messaging apps?</h4>
+
+<p><b>Answer 15:</b> Yes, chatbots work on top of instant messengers such as Slack, Skype, Telegram, Facebook Mesenger, WeChat and Kik. Whereas for voice-based bots, we need to use services of Siri, Alexa, etc.</p>
+
+<h4>Question 16: Can one bot be built for all platforms?&nbsp; Are there cross-platform bots?</h4>
+
+<p><b>Answer 16:</b> Yes, our consultants can build a bot that can be deployed across multiple channels and messengers.</p>
+</div>
+
+<div class="qa_button">Show more</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<p>&copy; 2016 Softweb Solutions Inc. All rights reserved.</p>
+</div>
+</footer>
+<!-- begin olark code --><script data-cfasync="false" type='text/javascript'>/*{literal}<![CDATA[*/
+window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.configure("GoogleAnalytics.tracking_id", "UA-3577350-49")
+olark.identify('9170-437-10-1023');/*]]>{/literal}*/</script><noscript>
+<a href="https://www.olark.com/site/9170-437-10-1023/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com/?welcome" title="Olark live chat software">Olark live chat software</a>
+</noscript><!-- end olark code --><!--Start of Inventory-Management-2016 Pardot code --><script type="text/javascript">
+piAId = '13632';
+piCId = '73046';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script><!--End of Inventory-Management-2016 Pardot code -->
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<script>
+$(document).ready(function(){
+    $('.qa_button').click(function(){
+        var link = $(this);
+        $('.qa_toggle').slideToggle('slow', function() {
+            if ($(this).is(":visible")) {
+                 link.text('Show less');                
+            } else {
+                 link.text('Show more');                
+            }        
+        });
+            
+    }); 
+}); 
+
+</script>    
+<!-- Twitter universal website tag code -->
+
+<script>
+
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+
+t.async=!0,t.src='http://static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+
+s.parentNode.insertBefore(t,s))}(window,document,'script');
+
+// Insert Twitter Pixel ID and Standard Event data below
+
+twq('init','nvfw0');
+
+twq('track','PageView');
+
+</script>
+
+<!-- End Twitter universal website tag code -->
+</body>

@@ -1,0 +1,33 @@
+.simplePopup {display:none;position:fixed !important;top:20% !important;z-index:50000;padding:12px;width:70%;min-width:70%;}
+.simplePopupClose{ position:absolute; right:0px; top:0px; background:#575757; border-radius:50px;}
+.simplePopupBackground {display:none;background:#000;position:fixed;height:100%;width:100%;top:0;left:0;z-index:9000;}
+.clearfix:before, .clearfix:after {	content: '\0020';	display: block;	overflow: hidden;	visibility: hidden;	width: 0;	height: 0;}
+.clearfix:after {	clear: both;}
+.clearfix {	zoom: 1;}
+.ie7 .clearfix {	clear: both;	display: block;	overflow: hidden;	visibility: hidden;	width: 0;	height: 0;}
+.clear {clear: both;}
+.title-text{background:#2b9fd9; padding:10px 0px; text-align:center; font-size:22px; line-height:30px; color:#fff; }
+.middle{ padding:60px 30px; overflow:hidden; text-align:center;}
+.middle h2{  color: #2e2e2e;    font-size: 28px;    line-height: 40px;    text-transform: uppercase;}
+.middle h2 span{  color: #0080bf; font-weight:bold;   }
+.middle p{ overflow:hidden; text-align:center; margin:15px 0 40px;  color:#000000; font-size:15px; line-height:25px;}
+a.reginow{ border:solid 2px #2b9fd9; background: #2b9fd9; border-radius:4px; font-size:16px; padding:10px 20px; text-align:center; overflow:hidden; color:#fff; }
+a.reginow:hover{border:solid 2px #248abd; color:#fff; background:#248abd; }
+a.webinar-logo{ margin-bottom:30px; overflow:hidden; display:block;}
+.close{ position:absolute; right:-10px; top:-10px;}
+.main-popup {background: none repeat scroll 0 0 #FFFFFF;z-index: 10000;}
+@media only screen and (max-width:959px){}
+@media only screen and (max-width:1024px){}
+@media only screen and (min-width:768px) and (max-width:959px){}
+@media only screen and (max-width:800px){}
+@media only screen and (max-width:600px){
+.simplePopup{width:95%; left:10px !important; position:absolute !important;}
+.middle{padding:30px;}
+.middle p{margin:15px 0 20px;}
+}
+
+@media only screen and (min-width:480px) and (max-width:767px){
+.simplePopup{width:95%; left:10px !important; position:absolute !important;}
+}
+@media only screen and (max-width:479px){}
+@media only screen and (max-width:399px){}
