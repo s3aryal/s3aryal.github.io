@@ -1,7 +1,0 @@
-Mirror in progress since Sat, 24 Dec 2016 21:39:12 .. please wait!
-httrack http://www.softwebsolutions.com/ -O /tmp/www.softwaregurus.com +*.softwebsolutions.com/* -v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=50081
-UID=501
-GID=501
-START=1482633552
