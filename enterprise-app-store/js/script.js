@@ -1,1 +1,0 @@
-$(window).resize(function(){	if ($(window).width() < 959){						$("nav").hide();	}	else{		$("nav").show();		};							});$(document).ready(function(){		/* Responsive Menu*/			$(".responsive_menu").click(function(e) {		        $("nav").slideToggle();    });				    });
