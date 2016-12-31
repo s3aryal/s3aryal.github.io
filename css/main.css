@@ -52,7 +52,7 @@ a.button {
   cursor: pointer;
   margin-bottom: 20px;
   padding: 10px 20px;
-  background: #c4151c;
+  background: #f87a1c;
   color: #fff;
   display: inline-block;
   text-transform: uppercase;
@@ -71,11 +71,11 @@ a.button:hover {
   background-color: #d3353b;
 }
 .circle_with_number {
-  color: #c4151c;
+  color: #f87a1c;
   display: inline-block;
   width: 30px;
   height: 30px;
-  border: 2px solid #c4151c;
+  border: 2px solid #f87a1c;
   border-radius: 50%;
   font-size: 20px;
   text-align: center;
@@ -108,7 +108,7 @@ nav li a {
 #logo {
   display: inline-block;
   width: 250px;
-  height: 35px;
+  height: 26px;
   margin-left: 50px;
   background-image: url('../img/text_logo.png');
   background-repeat: no-repeat;
@@ -117,7 +117,7 @@ nav li a {
 .red_divider {
   width: 80px;
   height: 2px;
-  background-color: #c4151c;
+  background-color: #f87a1c;
   margin: 30px auto;
 }
 .home .splash {
