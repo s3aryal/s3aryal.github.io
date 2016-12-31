@@ -107,10 +107,10 @@ nav li a {
 }
 #logo {
   display: inline-block;
-  width: 98px;
-  height: 15px;
+  width: 250px;
+  height: 35px;
   margin-left: 50px;
-  background-image: url('../img/logo.svg');
+  background-image: url('../img/text_logo.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
