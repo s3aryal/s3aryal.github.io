@@ -9,6 +9,9 @@ body {
   max-width: 940px;
   margin: 0 auto;
 }
+.container_double{
+
+}
 .check {
   width: 30px;
   height: 30px;
@@ -709,6 +712,102 @@ nav li a {
 .span_1_of_4 {
   width: 22%;
 }
+
+/* List */
+.solutions-list {
+  padding-left: 50px;
+}
+.solutions-list li {
+  width: 33.33333333%;
+  float: left;
+  padding: 10px;
+  margin: 0px;
+}
+.solutions-list li a {
+  border: 1px #ccc solid;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin-bottom: 0px!important;
+  padding: 40px 0px 30px 0px;
+  background: #fff;
+}
+.solutions-list li a em {
+  text-transform: uppercase;
+  font-size: 17px;
+  color: #333;
+  font-style: normal;
+  font-weight: 500;
+}
+.solutions-list li a i {
+  width: 76px;
+  height: 73px;
+  margin: auto;
+  display: table;
+  margin-bottom: 10px;
+  transition-duration: 0.3s
+}
+.solutions-list li a:hover i {
+  transition-duration: 0.3s;
+}
+.solutions-list li a:hover {
+  border-color: #0282c3;
+  box-shadow: 0px 0px 0px 3px #0282c3 inset
+}
+.solutions-list li a:hover em {
+  color: #0282c3;
+}
+.solutions-list li a i {
+  background-image: url(../img/solution-icon.svg);
+  background-repeat: no-repeat;
+}
+/*.solutions-list li a i.smart-office {
+  background-position: -10px -6px;
+}
+.solutions-list li a i.smart-retail {
+  background-position: -106px -6px;
+}
+.solutions-list li a i.smart-building {
+  background-position: -203px -6px;
+}
+.solutions-list li a i.smart-manufac {
+  background-position: -295px -6px;
+}
+.solutions-list li a i.smart-health {
+  background-position: -399px -6px;
+}
+.solutions-list li a i.smart-parking {
+  background-position: -508px -6px;
+}
+.solutions-list li a:hover i.smart-office {
+  background-position: -10px -100px;
+}
+.solutions-list li a:hover i.smart-retail {
+  background-position: -106px -100px;
+}
+.solutions-list li a:hover i.smart-building {
+  background-position: -203px -100px;
+}
+.solutions-list li a:hover i.smart-manufac {
+  background-position: -295px -100px;
+}
+.solutions-list li a:hover i.smart-health {
+  background-position: -399px -102px;
+}
+.solutions-list li a:hover i.smart-parking {
+  background-position: -508px -100px;
+}
+.solution-content .wpb_text_column {
+  margin-top: 60px;
+}
+.solution-content .wpb_text_column p {/*line-height:30px; 
+}
+.solution-wrap .wpb_text_column :last-child {
+  margin-bottom: 0px
+}*/
+
+
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 .fade-in {
   opacity: .3;
